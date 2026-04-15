@@ -183,7 +183,7 @@ https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Медиа",Taraqqiyot TV UZ
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Sevimili UZ
-https://stream4.itv.uz/t/oqXzoe3U3ACbURfK7VeDDA/e/1776144656/1056/tracks-v1a1/mono.m3u8
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
 #EXTINF:-1 group-title="Uz Media",Renessans TV UZ
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Qasaqstan
@@ -246,10 +246,7 @@ https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",[24/7] O‘ninchi qirollik.
-https://jamshid.b-cdn.net/uninchi_qirollik/index.m3u8?token=test 
-#EXTINF:-1 group-title="Itv.uz (🇺🇿) ",[24/7] Кино 
-https://jamshid.b-cdn.net/kino/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Itv.uz (🇺🇿) ",Sevimli
 https://stream4.itv.uz/t/oqXzoe3U3ACbURfK7VeDDA/e/1776144656/1056/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Itv.uz (🇺🇿) ",Zo'r TV
