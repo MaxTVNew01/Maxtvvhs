@@ -165,7 +165,7 @@ https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 
 EXTINF:-1 group-title="Uz Media",Sevimili UZ
 https://stream8.cinerama.uz/1017/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Медиа",Taraqqiyot TV UZ
+#EXTINF:-1 group-title="Uz Media",Taraqqiyot TV UZ
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Renessans TV UZ
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
@@ -173,23 +173,23 @@ https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Zor TV HD
 http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
-#EXTINF:-1 group-title="Uz Медиа",Yoshlar
+#EXTINF:-1 group-title="Uz Media",Yoshlar
 https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Медиа",Узбекистон
+#EXTINF:-1 group-title="Uz Media",Узбекистон
 https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Тошкент
 https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Медиа",Taraqqiyot TV UZ
+#EXTINF:-1 group-title="Uz Media",Taraqqiyot TV UZ
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Renessans TV UZ
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Qasaqstan
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Медиа",Узбекистон Тарикси HD UZ
+#EXTINF:-1 group-title="Uz Media",Узбекистон Тарикси HD UZ
 https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uz Media",Uzbekistan 24
 https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Медиа", Нурафшо%
+
 
 
 
@@ -13662,76 +13662,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.epg.one/img/2078.png" group-title="Информационные",Мир 24 HD
 http://uiptv.do.am/1ufc/112234126/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4736" group-title="Кино" tvg-logo="http://epg.one/img2/4736.png",BCU Premiere 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11015/index.m3u8
-#EXTINF:-1 tvg-id="4737" group-title="Кино" tvg-logo="http://epg.one/img2/4737.png",BCU Premiere 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11016/index.m3u8
-#EXTINF:-1 tvg-id="4738" group-title="Кино" tvg-logo="http://epg.one/img2/4738.png",BCU Premiere 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11017/index.m3u8
-#EXTINF:-1 tvg-id="4747" group-title="Кино" tvg-logo="http://epg.one/img2/4747.png",BCU СССР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11026/index.m3u8
-#EXTINF:-1 tvg-id="4748" group-title="Кино" tvg-logo="http://epg.one/img2/4748.png",BCU Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11027/index.m3u8
-#EXTINF:-1 tvg-id="4749" group-title="Кино" tvg-logo="http://epg.one/img2/4749.png",BCU Catastrophe HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11028/index.m3u8
-#EXTINF:-1 tvg-id="4750" group-title="Кино" tvg-logo="http://epg.one/img2/4750.png",BCU Cinema HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11029/index.m3u8
-#EXTINF:-1 tvg-id="4751" group-title="Кино" tvg-logo="http://epg.one/img2/4751.png",BCU Cinema+ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11030/index.m3u8
-#EXTINF:-1 tvg-id="8963" group-title="Кино" tvg-logo="http://epg.one/img2/8963.png",BCU Comedy HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11031/index.m3u8
-#EXTINF:-1 tvg-id="4753" group-title="Кино" tvg-logo="http://epg.one/img2/4753.png",BCU Fantastic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11032/index.m3u8
-#EXTINF:-1 tvg-id="4754" group-title="Кино" tvg-logo="http://epg.one/img2/4754.png",BCU FilMystic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11033/index.m3u8
-#EXTINF:-1 tvg-id="4755" group-title="Кино" tvg-logo="http://epg.one/img2/4755.png",BCU History HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11034/index.m3u8
-#EXTINF:-1 tvg-id="4758" group-title="Кино" tvg-logo="http://epg.one/img2/4758.png",BCU Kinorating HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11037/index.m3u8
-#EXTINF:-1 tvg-id="8964" group-title="Кино" tvg-logo="http://epg.one/img2/8964.png",BCU Marvel HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11038/index.m3u8
-#EXTINF:-1 tvg-id="4760" group-title="Кино" tvg-logo="http://epg.one/img2/4760.png",BCU Premiere HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11039/index.m3u8
-#EXTINF:-1 tvg-id="4761" group-title="Кино" tvg-logo="http://epg.one/img2/4761.png",BCU Romantic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11040/index.m3u8
-#EXTINF:-1 tvg-id="4762" group-title="Кино" tvg-logo="http://epg.one/img2/4762.png",BCU Russian HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11041/index.m3u8
-#EXTINF:-1 tvg-id="4763" group-title="Кино" tvg-logo="http://epg.one/img2/4763.png",BCU VHS HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11042/index.m3u8
-#EXTINF:-1 tvg-id="4764" group-title="Кино" tvg-logo="http://epg.one/img2/4764.png",BCU Media HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11043/index.m3u8
-#EXTINF:-1 tvg-id="4765" group-title="Кино" tvg-logo="http://epg.one/img2/4765.png",BCU Stars HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11044/index.m3u8
-#EXTINF:-1 tvg-id="4766" group-title="Кино" tvg-logo="http://epg.one/img2/4766.png",BCU Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11045/index.m3u8
-#EXTINF:-1 tvg-id="4767" group-title="Кино" tvg-logo="http://epg.one/img2/4767.png",BCU RuSerial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11046/index.m3u8
-#EXTINF:-1 tvg-id="4768" group-title="Кино" tvg-logo="http://epg.one/img2/4768.png",BCU Сваты HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11047/index.m3u8
-#EXTINF:-1 tvg-id="4769" group-title="Кино" tvg-logo="http://epg.one/img2/4769.png",BCU Criminal HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/11048/index.m3u8
-#EXTINF:-1 tvg-id="5561" group-title="Кино" tvg-logo="http://epg.one/img2/5561.png",BCU Premiere Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/15023/index.m3u8
-#EXTINF:-1 tvg-id="5513" group-title="Кино" tvg-logo="http://epg.one/img2/5513.png",BCU Media HD OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/15024/index.m3u8
-#EXTINF:-1 tvg-id="5514" group-title="Кино" tvg-logo="http://epg.one/img2/5514.png",BCU Marvel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/15025/index.m3u8
-#EXTINF:-1 tvg-id="5515" group-title="Кино" tvg-logo="http://epg.one/img2/5515.png",BCU Comedy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/15026/index.m3u8
-#EXTINF:-1 tvg-id="6131" group-title="Кино" tvg-logo="http://epg.one/img2/6131.png",BCU Reality HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/16082/index.m3u8
-#EXTINF:-1 tvg-id="6067" group-title="Кино" tvg-logo="http://epg.one/img2/6067.png",BCU Reality OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/16083/index.m3u8
-#EXTINF:-1 tvg-id="6175" group-title="Кино" tvg-logo="http://epg.one/img2/6175.png",BCU Survival HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/17019/index.m3u8
-#EXTINF:-1 tvg-id="6164" group-title="Кино" tvg-logo="http://epg.one/img2/6164.png",BCU Survival OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/17020/index.m3u8
-#EXTINF:-1 tvg-id="6176" group-title="Кино" tvg-logo="http://epg.one/img2/6176.png",BCU Cosmo HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/17021/index.m3u8
-#EXTINF:-1 tvg-id="6198" group-title="Кино" tvg-logo="http://epg.one/img2/6198.png",BCU TruMotion HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/17054/index.m3u8
-#EXTINF:-1 tvg-id="4761" group-title="Кино" tvg-logo="http://epg.one/img2/4761.png",BCU Romantic OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVM35FW9RL8GGQ/18052/index.m3u8
 
 
 https://stream2.cinerama.uz/1234/tracks-v2a1/mono.m3u8
@@ -16180,6 +16110,36 @@ https://stream2.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1415/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/e1b6d80d-feb7-4c7d-a11c-09d3fef0011f.jpeg" group-title="🌴 Познавательные",Insight TV
 https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательный ",Viasat Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Viasat History
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Viasat Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Бобер
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Большая азия
+https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Живи Активно
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Здоовое ТВ
+https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Моя планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Наша тема
+https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Точка отрыва
+https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Авто24
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Диалоги о рыбалке
+https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Загородная Жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+#EXTINF:-1 group-title="Познавательный ",Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/8cf4769d-6ba1-4484-bf10-870f68d61574.png" group-title="👶 Мультфильм",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/6e1a91c6-1465-47c1-b044-eef3ca25f97b.png" group-title="👶 Мультфильм",TiJi
@@ -16382,34 +16342,6 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 
 
-#EXTINF:-1 group-title="Познавательный ",Viasat Explore
-https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Viasat History
-https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Viasat Nature
-https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Бобер
-https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Большая азия
-https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Живи Активно
-https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Здоовое ТВ
-https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Моя планета
-https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Наша тема
-https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Точка отрыва
-https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Авто24
-https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Диалоги о рыбалке
-https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Загородная Жизнь
-https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
-#EXTINF:-1 group-title="Познавательный ",Мужской
-https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 
 
 #EXTINF:-1 group-title="Детский ",CTC kids
