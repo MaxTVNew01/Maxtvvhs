@@ -1,18 +1,18 @@
 
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/80f29007-3f69-44fd-a8de-4c5d9783beb1.png" group-title="O'zbekiston", O'zbekiston
-http://57.128.196.110/11405/index.m3u8?token=9BBA2C39AD31
+http://213.230.65.254:8200/play/a00s 
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f9b7dca1-6d47-480d-9958-7ce77b63ba8d.png" group-title="O'zbekiston", Yoshlar
 https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2eb5212f-fda5-42f3-a1cf-56bda22bbb77.png" group-title="O'zbekiston", Toshkent
 http://s8.rafail1982.uz/1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/add3022f-0964-470f-acee-4441c9d49201.png" group-title="O'zbekiston", My5
 http://s8.rafail1982.uz/1012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/add3022f-0964-470f-acee-4441c9d49201.png" group-title="O'zbekiston",Sevimli TV
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/044a1ecc-cf92-4c32-8a8b-54ce07c69546.png" group-title="O'zbekiston", Milliy TV
 http://s8.rafail1982.uz/1014/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b9089482-082f-4eda-8b62-4de6c92b541f.png" group-title="O'zbekiston", Zo'r-TV
-http://57.128.196.110/11403/index.m3u8?token=9BBA2C39AD31
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/035fe5e3-f968-45fd-93af-31e4b91cdebf.png" group-title="O'zbekiston", Sevimli
-http://213.230.65.254:8200/play/a012
+https://stream8.cinerama.uz/7016/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/01/30/e2b9fdd9-560a-494f-bf8f-4a085d042624.jpeg" group-title="O'zbekiston", LuxTV
 http://s8.rafail1982.uz/1210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/5951e3a5-db4d-41c0-a9f2-1d485801aa0e.png" group-title="O'zbekiston", I-kbol
@@ -24,19 +24,19 @@ http://s8.rafail1982.uz/1284/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/5835328d-9a08-42c0-81c7-660f5ecd4aaa.png" group-title="O'zbekiston", Gold TV
 http://s8.rafail1982.uz/4007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="O'zbekiston", 8TV
-https://stream3.itv.uz/t/o259XmQGmSek4IevfyhZCw/e/1776145488/1496/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1496/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/401ef362-9782-4679-a82d-0a5f03cf5205.jpeg" group-title="O'zbekiston", Farg'ona
-http://s8.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/38994bac-c9a5-4e72-b25e-cc25237390ac.jpeg" group-title="O'zbekiston", Xorazm
-http://s8.rafail1982.uz/1464/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/bf5ed78b-0a34-4a7c-baa6-388faddc3e46.jpeg" group-title="O'zbekiston", Qaraqalpaqstan
-http://s8.rafail1982.uz/1467/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/1f22ee2a-440a-462a-879b-f02701b9e18a.jpeg" group-title="O'zbekiston", Surxondaryo
-http://s8.rafail1982.uz/1463/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1463/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/74ed2467-9e28-4f29-a355-9f4e0d240fd7.png" group-title="O'zbekiston", Ruxsor TV
-https://stream12.itv.uz/t/8JxsPMrybEScAu8bududeA/e/1776144055/4008/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/4008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/01/26/5b5a44ad-da45-4ba1-98ff-62913ef1d4c9.png" group-title="O'zbekiston", Nurafshon
-http://s8.rafail1982.uz/1220/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/56fe1797-3b4e-4f18-816b-e633ebc34316.png" group-title="O'zbekiston", Taraqqiyot tv
 http://s8.rafail1982.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/01/28/dbe98084-792d-4954-bc01-fc658317e3bf.png" group-title="O'zbekiston", Makon TV
@@ -46,9 +46,9 @@ http://s8.rafail1982.uz/4012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/c454009d-156c-433b-ab68-079cb3e6d5d2.jpeg" group-title="O'zbekiston", JTV
 http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/1702a7f8-8f1f-4d75-92b4-468a40c125bf.jpeg" group-title="O'zbekiston", Ishonch TV
-http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1489/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/d8af2b7e-bee1-4ace-9fee-a8304d7f11b8.jpeg" group-title="O'zbekiston", Eliqqala TV
-http://s8.rafail1982.uz/1495/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/af774beb-b08b-4b1a-8d9d-cef336126e87.jpeg" group-title="O'zbekiston", Nasaf TV
 http://s8.rafail1982.uz/2025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/5842ad76-eef6-494b-acb8-ab79ef2cb70d.jpeg" group-title="O'zbekiston", JaslarTV
