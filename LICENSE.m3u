@@ -1,448 +1,4 @@
 
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/80f29007-3f69-44fd-a8de-4c5d9783beb1.png" group-title="O'zbekiston", O'zbekiston
-https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f9b7dca1-6d47-480d-9958-7ce77b63ba8d.png" group-title="O'zbekiston", Yoshlar
-https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2eb5212f-fda5-42f3-a1cf-56bda22bbb77.png" group-title="O'zbekiston", Toshkent
-http://s8.rafail1982.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/add3022f-0964-470f-acee-4441c9d49201.png" group-title="O'zbekiston", My5
-http://s8.rafail1982.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/add3022f-0964-470f-acee-4441c9d49201.png" group-title="O'zbekiston",Sevimli TV
-https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/044a1ecc-cf92-4c32-8a8b-54ce07c69546.png" group-title="O'zbekiston", Milliy TV
-http://s8.rafail1982.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b9089482-082f-4eda-8b62-4de6c92b541f.png" group-title="O'zbekiston", Zo'r-TV
-https://stream8.cinerama.uz/7016/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/01/30/e2b9fdd9-560a-494f-bf8f-4a085d042624.jpeg" group-title="O'zbekiston", LuxTV
-http://s8.rafail1982.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/5951e3a5-db4d-41c0-a9f2-1d485801aa0e.png" group-title="O'zbekiston", I-kbol
-http://s8.rafail1982.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/40b92625-964e-4737-9fd0-c318f93dc741.png" group-title="O'zbekiston", Istiqlol TV
-http://s8.rafail1982.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/0720d35d-92a6-40da-a057-663c1986a100.jpeg" group-title="O'zbekiston", ntv (o'zbekiston)
-http://s8.rafail1982.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/5835328d-9a08-42c0-81c7-660f5ecd4aaa.png" group-title="O'zbekiston", Gold TV
-http://s8.rafail1982.uz/4007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="O'zbekiston", 8TV
-https://stream8.cinerama.uz/1496/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/401ef362-9782-4679-a82d-0a5f03cf5205.jpeg" group-title="O'zbekiston", Farg'ona
-https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/38994bac-c9a5-4e72-b25e-cc25237390ac.jpeg" group-title="O'zbekiston", Xorazm
-https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/bf5ed78b-0a34-4a7c-baa6-388faddc3e46.jpeg" group-title="O'zbekiston", Qaraqalpaqstan
-https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/1f22ee2a-440a-462a-879b-f02701b9e18a.jpeg" group-title="O'zbekiston", Surxondaryo
-https://stream8.cinerama.uz/1463/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/74ed2467-9e28-4f29-a355-9f4e0d240fd7.png" group-title="O'zbekiston", Ruxsor TV
-https://stream8.cinerama.uz/4008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/01/26/5b5a44ad-da45-4ba1-98ff-62913ef1d4c9.png" group-title="O'zbekiston", Nurafshon
-https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/56fe1797-3b4e-4f18-816b-e633ebc34316.png" group-title="O'zbekiston", Taraqqiyot tv
-http://s8.rafail1982.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/01/28/dbe98084-792d-4954-bc01-fc658317e3bf.png" group-title="O'zbekiston", Makon TV
-http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/c58b1e89-4197-4534-bf89-605c9dc842ea.jpeg" group-title="O'zbekiston", Vodiy TV
-http://s8.rafail1982.uz/4012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/c454009d-156c-433b-ab68-079cb3e6d5d2.jpeg" group-title="O'zbekiston", JTV
-http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/1702a7f8-8f1f-4d75-92b4-468a40c125bf.jpeg" group-title="O'zbekiston", Ishonch TV
-https://stream8.cinerama.uz/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/d8af2b7e-bee1-4ace-9fee-a8304d7f11b8.jpeg" group-title="O'zbekiston", Eliqqala TV
-https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/af774beb-b08b-4b1a-8d9d-cef336126e87.jpeg" group-title="O'zbekiston", Nasaf TV
-http://s8.rafail1982.uz/2025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/5842ad76-eef6-494b-acb8-ab79ef2cb70d.jpeg" group-title="O'zbekiston", JaslarTV
-http://s8.rafail1982.uz/1490/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/e242bb73-9172-4461-8ae3-f812ad7392db.jpeg" group-title="O'zbekiston", Amudaryo TV
-http://s8.rafail1982.uz/1491/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/b7d410f4-508c-4299-b118-d4107489c5c6.jpeg" group-title="O'zbekiston", Muloqot TV
-http://s8.rafail1982.uz/1285/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cp.biz-media.org/media/portfolio/solnechniy_WtxdGnG.png" group-title="O'zbekiston", Солнечный тв
-https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/34d60aeb-fac7-4e70-9e17-c6c49163c3a2.jpeg" group-title="O'zbekiston", TTV Telekanal
-http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/007deac2-7440-43a8-892b-b1bb5a2be2ab.jpeg" group-title="O'zbekiston", TTV Kino
-http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hjSBke6Y6pJhbAZQZdH59uY5rmm_MlDph8-CvJxg86pKwMdEE9598T52LAUrci9e2VZg=w240-h480-rw" group-title="O'zbekiston", tasix-media kino
-https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/f9bf163d-632a-49f5-928c-a40d47df8bf7.jpeg" group-title="O'zbekiston", Cinema (uzb)
-https://stream10.itv.uz/t/yhvmiZZccs13_6EBDxRkLw/e/1776144248/4000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/12/07/61bc27f8-5c9f-4f79-87fd-648b76039d4c.jpg" group-title="O'zbekiston", BIZ TV
-http://s8.rafail1982.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/411653eb-8eec-4a1c-852c-114b37be5689.jpeg" group-title="O'zbekiston", BIZ Cinema
-http://s8.rafail1982.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/05/02/bb99693b-cc61-4f7d-828a-b2096cd239db.png" group-title="O'zbekiston", Itv Cinema
-https://stream10.itv.uz/t/yhvmiZZccs13_6EBDxRkLw/e/1776144248/4000/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/3b397981-ece6-4fb9-a66f-29b07d234f0f.jpeg" group-title="O'zbekiston", Shifo TV
-http://s8.rafail1982.uz/1469/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/61708bfe-535d-4e03-81aa-5a949b9ba443.png" group-title="O'zbekiston", Bolajon
-http://s8.rafail1982.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/e9b2085d-5064-4189-99a4-b8615dc39e78.png" group-title="O'zbekiston", Aqlvoy
-http://s8.rafail1982.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="O'zbekiston", Travel-tv (O'zbekiston)
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/f2b46d1e-4104-463f-8851-f08fb082dbf5.jpeg" group-title="O'zbekiston", Live TV
-http://s8.rafail1982.uz/1475/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/23bab5dc-4a74-4db8-8a30-6b10918cdd4f.png" group-title="O'zbekiston", MYDAYTV
-http://s8.rafail1982.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.uzd.udevs.io/uzdigital-images-compressed/images/1e4ee1ad-c3d4-4131-bc43-74b7a1e29ea2.png" group-title="O'zbekiston", Navo
-http://s8.rafail1982.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/656157a5-310c-4ea8-8c7f-a5d7db68c409.png" group-title="O'zbekiston", Madaniyat va ma'rifat
-http://s8.rafail1982.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/04/27/4db20de5-0bb9-4126-b12e-908d327ecf70.png" group-title="O'zbekiston", Dasturxon
-http://s8.rafail1982.uz/1206/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/005922d7-3bd7-4eab-9146-4d5dea1d949b.png" group-title="O'zbekiston", Dunyo Bo'ylab
-http://s8.rafail1982.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/1285670f-8da5-4d02-a789-70031bec9c95.png" group-title="O'zbekiston", RTV
-http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2fa215cc-332c-4181-8d30-cb32ab9b7f61.png" group-title="O'zbekiston", O'zbekiston-24
-http://s8.rafail1982.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/c037c019-f6e7-41fb-8001-d5adeec3b69a.png" group-title="O'zbekiston", O'zbekiston tarixi
-http://s8.rafail1982.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/257d6f2f-a233-4e37-8767-af7d224876f8.png" group-title="O'zbekiston", Mahalla
-http://s8.rafail1982.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b72767f1-cb87-48f3-b299-ee1b2fd06795.png" group-title="O'zbekiston", Uzreport
-http://s8.rafail1982.uz/1015/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ZorTV.uz@SD" tvg-logo="https://i.imgur.com/NuzyhVM.png" group-title="O'zbekiston",Zo'r TV
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston",Makon TV
-https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston",Tasix-Media
-https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston",Renessans TV
-https://vod.splay.uz/live_splay/original/Renessans_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Yoshlar.uz@SD" tvg-logo="https://i.imgur.com/s4xfUSx.png" group-title="O'zbekiston",Yoshlar 
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2237/index.m3u8
-#EXTINF:-1 tvg-id="Bolajon.uz@SD" tvg-logo="https://i.imgur.com/s7o0ifu.png" group-title="O'zbekiston",Bolajon 
-https://stream8.cinerama.uz/1007/playlist.m3u8 
-#EXTINF:-1 tvg-id="DasturxonTV.uz@SD" tvg-logo="https://i.imgur.com/APM2ej5.jpeg" group-title="O'zbekiston",Dasturxon TV 
-https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Dunyoboylab.uz@SD" tvg-logo="https://i.imgur.com/KArB5U6.png" group-title="O'zbekiston",Dunyo bo'ylab 
-https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="FTV.uz@SD" tvg-logo="https://i.imgur.com/7lpISyN.jpg" group-title="O'zbekiston",FTV 
-https://stream8.cinerama.uz/1018/playlist.m3u8 
-#EXTINF:-1 tvg-id="Kinoteatr.uz@SD" tvg-logo="https://i.imgur.com/emH1BgC.png" group-title="O'zbekiston",Kinoteatr 
-http://57.128.196.110/11414/index.m3u8?token=9BBA2C39AD31
-#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz@SD" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="O'zbekiston",Madaniyat va ma'rifat 
-https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Mahalla.uz@SD" tvg-logo="https://i.imgur.com/GtABiJI.png" group-title="O'zbekiston",Mahalla 
-https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Milliy.uz@SD" tvg-logo="https://i.imgur.com/v4FBm26.png" group-title="O'zbekiston",Milliy 
-https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="MY5.uz@SD" tvg-logo="https://i.imgur.com/bjlzu5k.png" group-title="O'zbekiston",MY5 
-https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Navo.uz@SD" tvg-logo="https://i.imgur.com/7dZ64y9.png" group-title="O'zbekiston",Navo 
-https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Ozbekiston.uz@SD" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="O'zbekiston",O'zbekiston 
-https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Ozbekiston24.uz@SD" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="O'zbekiston",O'zbekiston 24 
-https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="OzbekistonTarixi.uz@SD" tvg-logo="https://i.imgur.com/iTTd3Ir.png" group-title="O'zbekiston",O'zbekiston Tarixi 
-https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Qaraqalpaqstan.uz@SD" tvg-logo="https://i.imgur.com/G3qrUJh.png" group-title="O'zbekiston",Qaraqalpaqstan 
-https://stream8.cinerama.uz/1467/playlist.m3u8 
-#EXTINF:-1 tvg-id="RenessansTV.uz@SD" tvg-logo="https://i.imgur.com/cVlcqCX.png" group-title=" O'zbekiston ",Renessans TV 
-https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Toshkent.uz@SD" tvg-logo="https://i.imgur.com/Z9R4nZg.png" group-title="O'zbekiston",Toshkent 
-https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="UzReportTV.uz@SD" tvg-logo="https://i.imgur.com/Bch2RHc.jpg" group-title="O'zbekiston",UzReport TV 
-https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
-
-
-
-
-
-EXTINF:-1 group-title="Uz Media",Sevimili UZ
-https://stream8.cinerama.uz/1017/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Taraqqiyot TV UZ
-https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Renessans TV UZ
-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Qasaqstan
-https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Zor TV HD
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
-#EXTINF:-1 group-title="Uz Media",Yoshlar
-https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Узбекистон
-https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Тошкент
-https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Taraqqiyot TV UZ
-https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Renessans TV UZ
-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Qasaqstan
-https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Узбекистон Тарикси HD UZ
-https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uz Media",Uzbekistan 24
-https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="O'zbekiston",Sevimili UZ
-https://stream4.itv.uz/t/oqXzoe3U3ACbURfK7VeDDA/e/1776144656/1056/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston",Makon TV
-https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston",Tasix-Media
-https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston",Renessans TV
-https://vod.splay.uz/live_splay/original/Renessans_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Yoshlar.uz@SD" tvg-logo="https://i.imgur.com/s4xfUSx.png" group-title="O'zbekiston",Yoshlar 
-https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ZorTV.uz@SD" tvg-logo="https://i.imgur.com/NuzyhVM.png" group-title="O'zbekiston",Zo'r TV
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
-#EXTINF:-1 tvg-id="Bolajon.uz@SD" tvg-logo="https://i.imgur.com/s7o0ifu.png" group-title="O'zbekiston",Bolajon 
-https://stream8.cinerama.uz/1007/playlist.m3u8 
-#EXTINF:-1 tvg-id="DasturxonTV.uz@SD" tvg-logo="https://i.imgur.com/APM2ej5.jpeg" group-title="O'zbekiston",Dasturxon TV 
-https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Dunyoboylab.uz@SD" tvg-logo="https://i.imgur.com/KArB5U6.png" group-title="O'zbekiston",Dunyo bo'ylab 
-https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="FTV.uz@SD" tvg-logo="https://i.imgur.com/7lpISyN.jpg" group-title="O'zbekiston",FTV 
-https://stream8.cinerama.uz/1018/playlist.m3u8 
-#EXTINF:-1 tvg-id="Kinoteatr.uz@SD" tvg-logo="https://i.imgur.com/emH1BgC.png" group-title="O'zbekiston",Kinoteatr 
-https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz@SD" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="O'zbekiston",Madaniyat va ma'rifat 
-https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Mahalla.uz@SD" tvg-logo="https://i.imgur.com/GtABiJI.png" group-title="O'zbekiston",Mahalla 
-https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Milliy.uz@SD" tvg-logo="https://i.imgur.com/v4FBm26.png" group-title="O'zbekiston",Milliy 
-https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="MY5.uz@SD" tvg-logo="https://i.imgur.com/bjlzu5k.png" group-title="O'zbekiston",MY5 
-https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Navo.uz@SD" tvg-logo="https://i.imgur.com/7dZ64y9.png" group-title="O'zbekiston",Navo 
-https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Ozbekiston.uz@SD" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="O'zbekiston",O'zbekiston 
-https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Ozbekiston24.uz@SD" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="O'zbekiston",O'zbekiston 24 
-https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="OzbekistonTarixi.uz@SD" tvg-logo="https://i.imgur.com/iTTd3Ir.png" group-title="O'zbekiston",O'zbekiston Tarixi 
-https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Qaraqalpaqstan.uz@SD" tvg-logo="https://i.imgur.com/G3qrUJh.png" group-title="O'zbekiston",Qaraqalpaqstan 
-https://stream8.cinerama.uz/1467/playlist.m3u8 
-#EXTINF:-1 tvg-id="RenessansTV.uz@SD" tvg-logo="https://i.imgur.com/cVlcqCX.png" group-title=" O'zbekiston ",Renessans TV 
-https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Toshkent.uz@SD" tvg-logo="https://i.imgur.com/Z9R4nZg.png" group-title="O'zbekiston",Toshkent 
-https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-id="UzReportTV.uz@SD" tvg-logo="https://i.imgur.com/Bch2RHc.jpg" group-title="O'zbekiston",UzReport TV 
-https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Itv.uz (🇺🇿) ",Sevimli
-https://stream4.itv.uz/t/oqXzoe3U3ACbURfK7VeDDA/e/1776144656/1056/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿) ",Zo'r TV
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿) ",Миллий ТВ
-http://serv1.milliy.tv/hls/index_480.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿) ",MY5TV International
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",Biz TV
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿) ",Biz Cinema
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿) ",Biz Music
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",Маданият ва Марифат
-https://st1.uzdigital.tv/Madaniyat_va_Marifat/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",Узбекистон 24
-https://st1.uzdigital.tv/Uzb24/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",MakonTV
-https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",Toshkent HD
-https://st1.uzdigital.tv/Toshkent/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",Futbol TV
-https://st1.uzdigital.tv/FutbolTV/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",TTV Musiqa
-https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)",MiMi
-https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
-
-
-
-Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/bySr-4_7apRHaisBTxDqKA/e/1774770792/1204/index.m3u8?ip=213.165.60.38
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.", Икбол "
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream13.itv.uz/t/_f_XKdGpdZdcgI2Qm9ENVQ/e/1776143957/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream12.itv.uz/t/8JxsPMrybEScAu8bududeA/e/1776144055/4008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream2.itv.uz/t/gHZkkzxUA6bBkqP4_LS79Q/e/1776144783/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream7.itv.uz/t/KOOwamUl18DVkTFNzfxSCw/e/1776144857/1457/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream13.itv.uz/t/Bv8sTsufCLgCKI0LmqMoNQ/e/1776144898/1458/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream15.itv.uz/t/7qlkh3WT5bgm7HHHURD5XQ/e/1776144930/1460/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg", Qashkadaryo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream12.itv.uz/t/RkeeWMyAgLH2uGvGsTUrNw/e/1776144960/1461/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg", Sirdaryo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream4.itv.uz/t/aoTQ6VD7EWig_l63Z7jtsQ/e/1776144992/1462/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg", Surxondaryo MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream8.itv.uz/t/Nh-PzEGxWCD-k4qoOZzc3A/e/1776145049/1463/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream5.itv.uz/t/fMd0aAml5wUVa6nB04l8Ww/e/1776145083/1464/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg", Jizzax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream12.itv.uz/t/Grj-B8Xme2gOt0ATfVaOcA/e/1776145114/1465/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream8.itv.uz/t/wZ2p5PbXlZZV2Vwf8dlm9w/e/1776145150/1466/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg", Qaraqalpaqstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream3.itv.uz/t/uN9y3aTqOBkI1IYu4Oxsfw/e/1776145175/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg", Бухара
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream12.itv.uz/t/LMnjoVuEYATGLgO8MIx5Kg/e/1776145206/1459/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg", Самарканд
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream6.itv.uz/t/TQZYAzlrQtBZnZodolXmMA/e/1776145233/1468/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream15.itv.uz/t/q1MJkCJt5pKJrW4glX2EQA/e/1776145259/4012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream4.itv.uz/t/Bsp2m9n0FmRCRo0dBcgxNQ/e/1776145285/1469/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream2.itv.uz/t/woklKmuvr69n0uGN8dJ29w/e/1776145320/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream2.itv.uz/t/dUJ5hRaj4KIvKXCdlNO7jg/e/1776145356/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream12.itv.uz/t/9IeIb_uNkcHmaxlqZt8xLA/e/1776145383/1485/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream12.itv.uz/t/Grj-B8Xme2gOt0ATfVaOcA/e/1776145114/1465/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream5.itv.uz/t/noJcbzdHJHVL470Bc0e-XA/e/1776145439/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream4.itv.uz/t/Btddh8qpEoT3haDQZm5zUA/e/1776144158/1495/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream3.itv.uz/t/o259XmQGmSek4IevfyhZCw/e/1776145488/1496/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream5.itv.uz/t/UO4cNEgtcltl5mISCQPnqA/e/1776145523/1491/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream13.itv.uz/t/GbmWHGRghW0KDydSrJjcOA/e/1776144413/1290/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream8.itv.uz/t/IDvDUAH8Z6cq2wJr6QQSvg/e/1776145576/1490/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream6.itv.uz/t/XACJaLuS3-9W2Gk7D-YqhA/e/1776145604/1285/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream6.itv.uz/t/8H5rcMw-0qJtPU3bTPJxQA/e/1776145633/1497/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500", Setanta 1"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream13.itv.uz/t/2zMZzDlOdWMd0vsYfhxjbA/e/1776145720/1263/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.",Cinema "
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream10.itv.uz/t/yhvmiZZccs13_6EBDxRkLw/e/1776144248/4000/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="Таджикистан" tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png",ТМТ Шахнавоз HD
-https://stream2.somon.tv/tmt/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Кулоб (Куляб)
-https://stream2.somon.tv/kulob/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Точикистон HD
-https://stream2.somon.tv/tojikiston/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Хатлон (Бохтар)
-https://stream2.somon.tv/hatlon/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Сугд HD (Худжанд)
-https://stream2.somon.tv/sugd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТРК Азия(Худжанд)
-http://95.142.86.181:9000/
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Варзиш ТВ
-https://stream2.somon.tv/varzish/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Футбол Tj
-https://stream2.removie.raha.af/live/smil:footballtv.smil/chunklist_w2142068876_b1500000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Safina
-https://live.teleradiocom.tj/2/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Varzish
-https://live.teleradiocom.tj/5/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Бахористон
-https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ Ҷаҳоннамо
-https://live.teleradiocom.tj/4/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ Тоҷикистон
-https://live.teleradiocom.tj/1/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Синамо
-https://live.teleradiocom.tj/6/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Душанбе
-https://live.teleradiocom.tj/7/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ФутболТВ
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Шахнавоз
-https://live.teleradiocom.tj/9/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Хатлон (Бохтар)
-https://live.teleradiocom.tj/10/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Бадахшон
-https://live.teleradiocom.tj/11/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Кулоб (Куляб)
-https://live.teleradiocom.tj/12/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Сугд HD (Худжанд)
-https://live.teleradiocom.tj/14/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Сайёҳӣ
-https://live.teleradiocom.tj/16/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Илм ва Табиат
-https://live.teleradiocom.tj/15/3m.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Altyn Asyr
-http://217.174.225.146/hls/ch001_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Yaslyk
-http://217.174.225.146/hls/ch002_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Miras
-http://217.174.225.146/hls/ch003_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Turkmen sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Turkmen owazy
-http://217.174.225.146/hls/ch005_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Ascabat
-http://217.174.225.146/hls/ch006_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Turkmenistan
-http://217.174.225.146/hls/ch007_720/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ", ВОЕНТВ
 http://92.63.106.41/ptv/voka/ch.php?id=81f0a5cd-abaa-4699-b470-aa397a91f450
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда
@@ -1854,6 +1410,79 @@ https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
 https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 #EXTINF:-1 group-title="Россия ",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+
+
+#EXTINF:-1 group-title="Таджикистан" tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png",ТМТ Шахнавоз HD
+https://stream2.somon.tv/tmt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Кулоб (Куляб)
+https://stream2.somon.tv/kulob/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Точикистон HD
+https://stream2.somon.tv/tojikiston/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Хатлон (Бохтар)
+https://stream2.somon.tv/hatlon/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Сугд HD (Худжанд)
+https://stream2.somon.tv/sugd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТРК Азия(Худжанд)
+http://95.142.86.181:9000/
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Варзиш ТВ
+https://stream2.somon.tv/varzish/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Футбол Tj
+https://stream2.removie.raha.af/live/smil:footballtv.smil/chunklist_w2142068876_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Safina
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Varzish
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Бахористон
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ Ҷаҳоннамо
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ Тоҷикистон
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Синамо
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Душанбе
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ФутболТВ
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Шахнавоз
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Хатлон (Бохтар)
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Бадахшон
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", ТВ-Кулоб (Куляб)
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Сугд HD (Худжанд)
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Сайёҳӣ
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Таджикистан", Илм ва Табиат
+https://live.teleradiocom.tj/15/3m.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Altyn Asyr
+http://217.174.225.146/hls/ch001_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Yaslyk
+http://217.174.225.146/hls/ch002_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Miras
+http://217.174.225.146/hls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Turkmen sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Turkmen owazy
+http://217.174.225.146/hls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Ascabat
+http://217.174.225.146/hls/ch006_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Туркменистан", Turkmenistan
+http://217.174.225.146/hls/ch007_720/index.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1,Rossiya24
 http://176.118.197.101/Rossiya24/mono.m3u8
