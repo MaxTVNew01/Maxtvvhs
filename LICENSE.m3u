@@ -13408,88 +13408,7 @@ https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
 https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8 
 #EXTINF:-1 tvg-id="UzReportTV.uz@SD" tvg-logo="https://i.imgur.com/Bch2RHc.jpg" group-title="O'zbekiston",UzReport TV 
 https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
-#EXTINF:0 tvg-rec="3",Yoshlar UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2237/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2239/index.m3u8
-#EXTINF:0 tvg-rec="3",Dunyo Bo'ylab UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2241/index.m3u8
-#EXTINF:0 tvg-rec="3",Bolajon UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2242/index.m3u8
-#EXTINF:0 tvg-rec="3",Navo UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2243/index.m3u8
-#EXTINF:0 tvg-rec="3",Kinoteatr UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2244/index.m3u8
-#EXTINF:0 tvg-rec="3",O'zbekiston 24 FHD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2246/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqlvoy TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20180/index.m3u8
-#EXTINF:0 tvg-rec="0",Dasturxon TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20185/index.m3u8
-#EXTINF:0 tvg-rec="0",Dunyo Bo'ylab HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20186/index.m3u8
-#EXTINF:0 tvg-rec="0",Futbol TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20187/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoteatr HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20190/index.m3u8
-#EXTINF:0 tvg-rec="0",Madaniyat va Ma'rifat UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20191/index.m3u8
-#EXTINF:0 tvg-rec="0",Mahalla UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20192/index.m3u8
-#EXTINF:0 tvg-rec="0",My5 HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20193/index.m3u8
-#EXTINF:0 tvg-rec="0",Milliy TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20194/index.m3u8
-#EXTINF:0 tvg-rec="0",Milliy TV HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20195/index.m3u8
-#EXTINF:0 tvg-rec="0",My5 UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20196/index.m3u8
-#EXTINF:0 tvg-rec="0",Nurafshon TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20198/index.m3u8
-#EXTINF:0 tvg-rec="0",O'zbekiston 24 HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20199/index.m3u8
-#EXTINF:0 tvg-rec="0",O'zbekiston Tarixi HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20200/index.m3u8
-#EXTINF:0 tvg-rec="0",Renessans TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20201/index.m3u8
-#EXTINF:0 tvg-rec="0",Ruxsor TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20202/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20203/index.m3u8
-#EXTINF:0 tvg-rec="0",Taraqqiyot TV UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20204/index.m3u8
-#EXTINF:0 tvg-rec="0",Zo'r TV HD UZ
-#EXTGRP:Узбекистан | O'zbek
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
-#EXTINF:0 tvg-rec="0",Toshkent UZ
-#-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/dkIVXhw6fJ162hxxbQIyng/e/1774684786/1220/index.m3u8?ip=104.28.198.245
+
 
  
 
@@ -13615,6 +13534,85 @@ https://iptv.itv.uz/hls/live/t/oIi5FBZSy40cgVG-JkBgYw/e/1774770813/1497/index.m3
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://iptv.itv.uz/hls/live/t/wpDO0krSswusBlDMq2mH2g/e/1774770814/1499/index.m3u8?ip=213.165.60.38
+
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2237/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2239/index.m3u8
+#EXTINF:0 tvg-rec="3",Dunyo Bo'ylab UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2241/index.m3u8
+#EXTINF:0 tvg-rec="3",Bolajon UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2242/index.m3u8
+#EXTINF:0 tvg-rec="3",Navo UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2243/index.m3u8
+#EXTINF:0 tvg-rec="3",Kinoteatr UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2244/index.m3u8
+#EXTINF:0 tvg-rec="3",O'zbekiston 24 FHD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2246/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqlvoy TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20180/index.m3u8
+#EXTINF:0 tvg-rec="0",Dasturxon TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20185/index.m3u8
+#EXTINF:0 tvg-rec="0",Dunyo Bo'ylab HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20186/index.m3u8
+#EXTINF:0 tvg-rec="0",Futbol TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20187/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoteatr HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20190/index.m3u8
+#EXTINF:0 tvg-rec="0",Madaniyat va Ma'rifat UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20191/index.m3u8
+#EXTINF:0 tvg-rec="0",Mahalla UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20192/index.m3u8
+#EXTINF:0 tvg-rec="0",My5 HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20193/index.m3u8
+#EXTINF:0 tvg-rec="0",Milliy TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20194/index.m3u8
+#EXTINF:0 tvg-rec="0",Milliy TV HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20195/index.m3u8
+#EXTINF:0 tvg-rec="0",My5 UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20196/index.m3u8
+#EXTINF:0 tvg-rec="0",Nurafshon TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20198/index.m3u8
+#EXTINF:0 tvg-rec="0",O'zbekiston 24 HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20199/index.m3u8
+#EXTINF:0 tvg-rec="0",O'zbekiston Tarixi HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20200/index.m3u8
+#EXTINF:0 tvg-rec="0",Renessans TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20201/index.m3u8
+#EXTINF:0 tvg-rec="0",Ruxsor TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20202/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20203/index.m3u8
+#EXTINF:0 tvg-rec="0",Taraqqiyot TV UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20204/index.m3u8
+#EXTINF:0 tvg-rec="0",Zo'r TV HD UZ
+#EXTGRP:Узбекистан | O'zbek
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/20205/index.m3u8
+
 
 
 
@@ -16049,16 +16047,7 @@ http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20219/index.m3u8
 #9TTYCNMYYQTHS6/6100/index.m3u8
 
 
-http://ott.server-iptv.live/219/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/8bd6a701-305f-4760-9586-3aa8d7334e18.png" group-title="🎧 Музыка",TRT Music
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/725b7125-c247-4ec7-a2e0-7cd4779cc59c.png" group-title="🎧 Музыка",Ru-TV
-https://stream2.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/899888a2-24a2-4e37-a51d-1c94542ea0b0.png" group-title="🎧 Музыка",Муз-ТВ
-https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/fac02a6a-8752-47d9-bf0b-951e785f7b16.png" group-title="🎧 Музыка",Музыка первого
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 Музыка",Ля Минор
+
 https://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/e315edeb-2758-4831-8e33-f4c4e104626a.png" group-title="🌴 Познавательные",Nat Geo Wild HD
 https://stream2.cinerama.uz/1042/tracks-v2a1/mono.m3u8
