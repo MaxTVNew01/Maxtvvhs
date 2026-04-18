@@ -8290,61 +8290,6 @@ http://ott.server-iptv.live/220/video.m3u8?token=Ceba8e4412
 #EXTGRP:⚽️ Спортивные
 http://ott.server-iptv.live/221/video.m3u8?token=Ceba8e4412
 #EXTINF:0 group-title="Спорт"  tvg-id="setanta-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-ua.png",Setanta Sports Ukraine HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/222/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="setanta-plus-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-plus-ua.png",Setanta Sports+ Ukraine HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/214/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.png",Спорт онлайн
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/211/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/200/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/201/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/0200/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/0201/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="tvp-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvp-sport.png",TVP Sport HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/241/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="viasat-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat-sport-east-se.png",Viju+ Sport
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/215/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="mir-basketbola" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir-basketbola-ru.png",Мир баскетбола
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/231/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="m1global" tvg-logo="http://cdn.server-iptv.live/logo/tv/m-1-global-tv-ru.png",MMA-TV.com
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/223/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="fightbox-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/fight_box_hd.png",FightBox
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/224/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="ufc" tvg-logo="http://cdn.server-iptv.live/logo/tv/ufc-tv-rossiya-us-ru.png",Удар HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/227/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="box-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/boks_tv_ru.png",Бокс ТВ
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/216/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="kxl-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru_hd.png",КХЛ HD
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/218/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="kxl" tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru.png",КХЛ ТВ
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/225/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="start" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_start.png",Старт
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/226/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="suspilne-sport-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/suspilne-sport-ua.png",Суспільне Спорт
-#EXTGRP:⚽️ Спортивные
-http://ott.server-iptv.live/240/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Спорт"  tvg-id="belarus5" tvg-logo="http://cdn.server-iptv.live/logo/tv/belorys5.jpg",Беларусь 5 BY
-#EXTGRP:⚽️ Спортивные
 
 
 
