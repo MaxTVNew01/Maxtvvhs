@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/80f29007-3f69-44fd-a8de-4c5d9783beb1.png" group-title="O'zbekiston", O'zbekiston
-http://213.230.65.254:8200/play/a00s 
+https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f9b7dca1-6d47-480d-9958-7ce77b63ba8d.png" group-title="O'zbekiston", Yoshlar
 https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2eb5212f-fda5-42f3-a1cf-56bda22bbb77.png" group-title="O'zbekiston", Toshkent
@@ -13620,8 +13620,8 @@ https://iptv.itv.uz/hls/live/t/wpDO0krSswusBlDMq2mH2g/e/1774770814/1499/index.m3
 #EXTINF:0,"Русское",Звезда (+2)
 #EXTGRP:⭐️ Победа
 http://6zgcfzun.akciatv.ru/iptv/PSAQKXW7LSGR9C/739/index.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="🇷🇺 Россия",Звезда Плюс HD
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/pro100.jpg" group-title="🇷🇺 Россия ", Pro100 TV
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="Русское",Звезда Плюс HD
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/pro100.jpg" group-title="Русское", Pro100 TV
 https://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
  #EXTINF:0 tvg-logo="https://cdn.epg.one/img/146.png" group-title="Информационные",ПЕРВЫЙ канал
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -14989,6 +14989,27 @@ http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31756/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
 #EXTGRP:спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31757/index.m3u8
+#EXTINF:-1 group-title="Спорт ",Extreme Sports
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+#EXTINF:-1 group-title="Спорт ",КХЛ
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
+#EXTINF:-1 group-title="Спорт ",Конный мир
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Боец
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Арена
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 group-title="Спорт ",МАТЧ!
+https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
+#EXTINF:-1 group-title="Спорт ",МАТЧ! Игра
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
+#EXTINF:-1 group-title="Спорт ", МАТЧ! Страна
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+
+
+
 #EXTGRP:HD
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31612/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Футбол 4 HD
@@ -16172,56 +16193,10 @@ https://stream2.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 
 
-#EXTM3U
-# Hack IPTV Scanner - 18.03.2026
-#EXTINF:-1,Rossiya24
-http://176.118.197.101/Rossiya24/mono.m3u8
-#EXTINF:-1,Nostalgiya
-http://176.118.197.101/Nostalgiya/mono.m3u8
-#EXTINF:-1,RBK
-http://176.118.197.101/RBK/mono.m3u8
-#EXTINF:-1,NTV
-http://176.118.197.101/NTV/mono.m3u8
-#EXTINF:-1,THT
-http://176.118.197.101/THT/mono.m3u8
-#EXTINF:-1,Bollywood HD
-http://176.118.197.101/Bollywood_HD/mono.m3u8
-#EXTINF:-1,Dom kino
-http://176.118.197.101/Dom_kino/mono.m3u8
-#EXTINF:-1,HCT
-http://176.118.197.101/HCT/mono.m3u8
-#EXTINF:-1,Kinokomediya
-http://176.118.197.101/Kinokomediya/mono.m3u8
-#EXTINF:-1,Kinomix
-http://176.118.197.101/Kinomix/mono.m3u8
-#EXTINF:-1,Kinopokaz
-http://176.118.197.101/Kinopokaz/mono.m3u8
-#EXTINF:-1,Kinoseria
-http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1,Komediya
-http://176.118.197.101/Komediya/mono.m3u8
-#EXTINF:-1,LubimoeKino
-http://176.118.197.101/LubimoeKino/mono.m3u8
-#EXTINF:-1,CTC
-http://176.118.197.101/CTC/mono.m3u8
-#EXTINF:-1,Che
-http://176.118.197.101/Che/mono.m3u8
-#EXTINF:-1,Retro
-http://176.118.197.101/Retro/mono.m3u8
-#EXTINF:-1,2x2
-http://176.118.197.101/2x2/mono.m3u8
-#EXTINF:-1,Cartoon Network
-http://176.118.197.101/Cartoon_Network/mono.m3u8
-#EXTINF:-1,1HD
-http://176.118.197.101/1HD/mono.m3u8
-#EXTINF:-1,KHL
-http://176.118.197.101/KHL/mono.m3u8
-#EXTINF:-1,Cinema
-http://176.118.197.101/Cinema/mono.m3u8
-#EXTINF:-1,RossiyaHD
-http://176.118.197.101/RossiyaHD/mono.m3u8
-#EXTINF:-1,Evrokino
-http://176.118.197.101/Evrokino/mono.m3u8
+
+
+
+
 EXTINF:-1 group-title="Россия ",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Россия ",Россия 1
@@ -16322,24 +16297,6 @@ https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 
 
-#EXTINF:-1 group-title="Спорт ",Extreme Sports
-https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 group-title="Спорт ",КХЛ
-https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
-#EXTINF:-1 group-title="Спорт ",Конный мир
-https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
-#EXTINF:-1 group-title="Спорт ",МАТЧ! Боец
-https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
-#EXTINF:-1 group-title="Спорт ",МАТЧ! Арена
-https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
-#EXTINF:-1 group-title="Спорт ",МАТЧ! Премьер
-https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:-1 group-title="Спорт ",МАТЧ!
-https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
-#EXTINF:-1 group-title="Спорт ",МАТЧ! Игра
-https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
-#EXTINF:-1 group-title="Спорт ", МАТЧ! Страна
-https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 
 
 
@@ -16365,21 +16322,6 @@ https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 #EXTINF:-1 group-title="Детский ",2x2
 https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
-
-#EXTINF:-1 group-title="Музыка ",Bridge TV
-https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Europa Plus
-https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Ru TV
-https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
-#EXTINF:-1 group-title="Музыка ",TNT Music
-https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Жара ТВ
-https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Муз ТВ
-https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Шансон ТВ
-https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
 
@@ -16845,6 +16787,22 @@ http://de1.plist.link:3355/FGfpnUmovVu5385/index.m3u8?token=0QsngQROEYTuEjj4tWrK
 #EXTINF:0 tvg-id="chnl-2843" tvg-name="Муз ТВ +7" tvg-logo="http://de1.plist.link/plepg/img/channels/2843.png?69c29495b9f2a" tvg-rec="0" timeshift="0" group-title="3. Музыкальные", Муз ТВ +7
 #EXTGRP:3. Музыкальные
 http://de1.plist.link:3355/FGfpnUmovVu42843/index.m3u8?token=0QsngQROEYTuEjj4tWrKa6J4ZuTLev9cf4GogKp5fw_CS-1UtzVMuV1uPEKR7Y01.tg6457680141
+#EXTINF:-1 group-title="Музыка ",Bridge TV
+https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="Музыка ",Europa Plus
+https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
+#EXTINF:-1 group-title="Музыка ",Ru TV
+https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+#EXTINF:-1 group-title="Музыка ",TNT Music
+https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
+#EXTINF:-1 group-title="Музыка ",Жара ТВ
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="Музыка ",Муз ТВ
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
+#EXTINF:-1 group-title="Музыка ",Шансон ТВ
+https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
+
+
 #EXTINF:0 tvg-id="chnl-562" tvg-name="Беларусь 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/562.png?69c29495ba001" tvg-rec="3" timeshift="3" group-title="4. Беларусь", Беларусь 1 HD
 #EXTGRP:4. Беларусь
 http://de1.plist.link:3355/FGfpnUmovVu3562/index.m3u8?token=By3dnvGist3lMb4UGKdXndAjOuMRuETwUpqWSoYkFacKAHdQ-MTIYLvYMxFT4JPr.tg6457680141
