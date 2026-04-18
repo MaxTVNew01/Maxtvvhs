@@ -13617,12 +13617,7 @@ https://iptv.itv.uz/hls/live/t/oIi5FBZSy40cgVG-JkBgYw/e/1774770813/1497/index.m3
 https://iptv.itv.uz/hls/live/t/wpDO0krSswusBlDMq2mH2g/e/1774770814/1499/index.m3u8?ip=213.165.60.38
 
 
-#EXTINF:0,"Русское",Звезда (+2)
-#EXTGRP:⭐️ Победа
-http://6zgcfzun.akciatv.ru/iptv/PSAQKXW7LSGR9C/739/index.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="Русское",Звезда Плюс HD
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/pro100.jpg" group-title="Русское", Pro100 TV
-https://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+
  #EXTINF:0 tvg-logo="https://cdn.epg.one/img/146.png" group-title="Информационные",ПЕРВЫЙ канал
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0 tvg-logo="https://cdn.epg.one/img/711.png" group-title="Информационные",Россия 1 HD
