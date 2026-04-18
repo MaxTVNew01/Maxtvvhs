@@ -2096,9 +2096,9 @@ http://iptv.prosto.tv:7000/ch347/video.m3u8
 http://iptv.prosto.tv:7000/ch348/video.m3u8
 #EXTINF:-1 group-title="Max",Парк
 http://iptv.prosto.tv:7000/ch350/video.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-US2900005NW" tvg-name="Cozy Vibes" tvg-id="US2900005NW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" group-title="RELAX" tvg-chno="4584",Cozy Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US2900005NW" tvg-name="Cozy Vibes" tvg-id="US2900005NW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" group-title="Max" tvg-chno="4584",Cozy Vibes
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="RELAX" tvg-chno="4570",Stingray Holidayscapes
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Max" tvg-chno="4570",Stingray Holidayscapes
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
 
 
