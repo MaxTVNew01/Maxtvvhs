@@ -808,7 +808,7 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="" group-title="Турция",Sat7turk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 
-
+  
 
 
 EXTINF:-1 group-title="Россия",Rossiya24
@@ -2491,6 +2491,155 @@ https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="Kinozal",Cartoons_90
+http://178.63.98.119:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Cartoons_BIG
+http://178.63.98.119:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Cartoons_Short
+http://178.63.98.119:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan
+http://178.63.98.119:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineManExExEx_TWO
+http://178.63.98.119:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Action
+http://178.63.98.119:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Comedy
+http://178.63.98.119:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Katasrofi
+http://178.63.98.119:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Marvel
+http://178.63.98.119:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Melodrama
+http://178.63.98.119:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_MiniSeries
+http://178.63.98.119:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Pes
+http://178.63.98.119:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Premium
+http://178.63.98.119:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Rukino
+http://178.63.98.119:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Simpson
+http://178.63.98.119:8000/play/a00x/index.m3u8Kinozal
+#EXTINF:-1 group-title="Kinozal",CineMan_Skoraya_pomosh
+http://178.63.98.119:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Svati
+http://178.63.98.119:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Thriller
+http://178.63.98.119:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Top
+http://178.63.98.119:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_Ujasi
+http://178.63.98.119:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_VHS
+http://178.63.98.119:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_lesnik
+http://178.63.98.119:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="Kinozal",CineMan_mentovskiye_voyni
+http://178.63.98.119:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Cinema_fitness
+http://178.63.98.119:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Cineman_Gluhar_Karpov
+http://178.63.98.119:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Cineman_Katastrofi_doc
+http://178.63.98.119:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Cineman_relax_4k
+http://178.63.98.119:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty Netflix
+http://178.63.98.119:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty RuFilm
+http://178.63.98.119:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty Thriller
+http://178.63.98.119:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty Индия
+http://178.63.98.119:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty Турк фильм
+http://178.63.98.119:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty аванпост
+http://178.63.98.119:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty драма
+http://178.63.98.119:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty киномикс
+http://178.63.98.119:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty криминал
+http://178.63.98.119:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Liberty сериал
+http://178.63.98.119:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_Agata
+http://178.63.98.119:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_NEWRUS
+http://178.63.98.119:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_007
+http://178.63.98.119:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Classic
+http://178.63.98.119:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Drama
+http://178.63.98.119:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_FILM1
+http://178.63.98.119:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_FILM2
+http://178.63.98.119:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_FILM3
+http://178.63.98.119:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Fantastika
+http://178.63.98.119:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Istoriya
+http://178.63.98.119:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_MAKROMIR
+http://178.63.98.119:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_MEGAMIR
+http://178.63.98.119:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_MIKROMIR
+http://178.63.98.119:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Pogrujeniye
+http://178.63.98.119:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Priklyucheniya
+http://178.63.98.119:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Scorost
+http://178.63.98.119:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Triller
+http://178.63.98.119:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_UFO
+http://178.63.98.119:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Kinozal",MiniMax_New_Western
+http://178.63.98.119:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Kinozal",NHL Network
+http://178.63.98.119:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Natgeo WILD
+http://178.63.98.119:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Kinozal",National_Geographic_HD
+http://178.63.98.119:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Setanta_Sports_1_HD
+http://178.63.98.119:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Setanta_Sports_2_HD
+http://178.63.98.119:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Adrenaline
+http://178.63.98.119:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Adventure
+http://178.63.98.119:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Best
+http://178.63.98.119:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Grand
+http://178.63.98.119:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_New_kino
+http://178.63.98.119:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Oblivion
+http://178.63.98.119:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Rus_Film
+http://178.63.98.119:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Tragichnoye
+http://178.63.98.119:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Triller
+http://178.63.98.119:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_Zabavnoye
+http://178.63.98.119:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_drama_!
+http://178.63.98.119:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_kovboyskoye
+http://178.63.98.119:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Kinozal",Yosso_melodramma
+http://178.63.98.119:8000/play/a01f/index.m3u8
 
 
 
