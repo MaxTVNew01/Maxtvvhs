@@ -637,6 +637,7 @@ https://live.teleradiocom.tj/14/3m.m3u8
 https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Таджикистан",Илм ва Табиат
 https://live.teleradiocom.tj/15/3m.m3u8
+
 #EXTINF:-1 group-title="Туркменистан",Altyn Asyr
 http://217.174.225.146/hls/ch001_720/index.m3u8
 #EXTINF:-1 group-title="Туркменистан",Yaslyk
@@ -651,6 +652,7 @@ http://217.174.225.146/hls/ch005_720/index.m3u8
 http://217.174.225.146/hls/ch006_720/index.m3u8
 #EXTINF:-1 group-title="Туркменистан",Turkmenistan
 http://217.174.225.146/hls/ch007_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Турция",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Турция",Anadolu Net TV
@@ -809,53 +811,53 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 
 
 
-#EXTINF:-1,Rossiya24
+EXTINF:-1 group-title="Россия",Rossiya24
 http://176.118.197.101/Rossiya24/mono.m3u8
-#EXTINF:-1,Nostalgiya
+EXTINF:-1 group-title="Россия", Nostalgiya
 http://176.118.197.101/Nostalgiya/mono.m3u8
-#EXTINF:-1,RBK
+EXTINF:-1 group-title="Россия",RBK
 http://176.118.197.101/RBK/mono.m3u8
-#EXTINF:-1,NTV
+EXTINF:-1 group-title="Россия",NTV
 http://176.118.197.101/NTV/mono.m3u8
-#EXTINF:-1,THT
+EXTINF:-1 group-title="Россия",THT
 http://176.118.197.101/THT/mono.m3u8
-#EXTINF:-1,Bollywood HD
+EXTINF:-1 group-title="Кино",Bollywood HD
 http://176.118.197.101/Bollywood_HD/mono.m3u8
-#EXTINF:-1,Dom kino
+EXTINF:-1 group-title="Кино",Dom kino
 http://176.118.197.101/Dom_kino/mono.m3u8
-#EXTINF:-1,HCT
+EXTINF:-1 group-title="Кино",HCT
 http://176.118.197.101/HCT/mono.m3u8
-#EXTINF:-1,Kinokomediya
+EXTINF:-1 group-title="Кино",Kinokomediya
 http://176.118.197.101/Kinokomediya/mono.m3u8
-#EXTINF:-1,Kinomix
+EXTINF:-1 group-title="Кино",Kinomix
 http://176.118.197.101/Kinomix/mono.m3u8
 #EXTINF:-1,Kinopokaz
 http://176.118.197.101/Kinopokaz/mono.m3u8
-#EXTINF:-1,Kinoseria
+EXTINF:-1 group-title="Кино",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1,Komediya
+EXTINF:-1 group-title="Кино",Komediya
 http://176.118.197.101/Komediya/mono.m3u8
-#EXTINF:-1,LubimoeKino
+EXTINF:-1 group-title="Кино",LubimoeKino
 http://176.118.197.101/LubimoeKino/mono.m3u8
-#EXTINF:-1,CTC
+EXTINF:-1 group-title="Россия",CTC
 http://176.118.197.101/CTC/mono.m3u8
-#EXTINF:-1,Che
+EXTINF:-1 group-title="Россия",Che
 http://176.118.197.101/Che/mono.m3u8
-#EXTINF:-1,Retro
+EXTINF:-1 group-title="Кино",Retro
 http://176.118.197.101/Retro/mono.m3u8
-#EXTINF:-1,2x2
+EXTINF:-1 group-title="Детские",2x2
 http://176.118.197.101/2x2/mono.m3u8
-#EXTINF:-1,Cartoon Network
+EXTINF:-1 group-title="Россия",Cartoon Network
 http://176.118.197.101/Cartoon_Network/mono.m3u8
-#EXTINF:-1,1HD
+EXTINF:-1 group-title="Россия",1HD
 http://176.118.197.101/1HD/mono.m3u8
-#EXTINF:-1,KHL
+EXTINF:-1 group-title="Спорт",KHL
 http://176.118.197.101/KHL/mono.m3u8
-#EXTINF:-1,Cinema
+EXTINF:-1 group-title="Кино",Cinema
 http://176.118.197.101/Cinema/mono.m3u8
-#EXTINF:-1,RossiyaHD
+EXTINF:-1 group-title="Россия ",RossiyaHD
 http://176.118.197.101/RossiyaHD/mono.m3u8
-#EXTINF:-1,Evrokino
+EXTINF:-1 group-title="Кино",Evrokino
 http://176.118.197.101/Evrokino/mono.m3u8
 EXTINF:-1 group-title="Россия ",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
@@ -9431,7 +9433,20 @@ https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Музыкальные 🎼",Bridge TV
+https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎼",Europa Plus
+https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎼",Ru TV
+https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎼 ",TNT Music
+https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎼",Жара ТВ
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎼",Муз ТВ
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎼",Шансон ТВ
+https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-id="city-tv-bg",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://sat.kharkiv.ua/images/Strani/evropa/north%20macedonia/sky%20folk%20tv.jpg",SKY Folk TV
@@ -9707,20 +9722,7 @@ https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 
 
 
-#EXTINF:-1 group-title="Музыкальные 🎼",Bridge TV
-https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Europa Plus
-https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Ru TV
-https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼 ",TNT Music
-https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Жара ТВ
-https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Муз ТВ
-https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Шансон ТВ
-https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
+
 
 
 
@@ -15729,20 +15731,6 @@ http://de1.plist.link:3355/FGfpnUmovVu5385/index.m3u8?token=0QsngQROEYTuEjj4tWrK
 #EXTINF:0 tvg-id="chnl-2843" tvg-name="Муз ТВ +7" tvg-logo="http://de1.plist.link/plepg/img/channels/2843.png?69c29495b9f2a" tvg-rec="0" timeshift="0" group-title="3. Музыкальные", Муз ТВ +7
 #EXTGRP:3. Музыкальные
 http://de1.plist.link:3355/FGfpnUmovVu42843/index.m3u8?token=0QsngQROEYTuEjj4tWrKa6J4ZuTLev9cf4GogKp5fw_CS-1UtzVMuV1uPEKR7Y01.tg6457680141
-#EXTINF:-1 group-title="Музыка ",Bridge TV
-https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Europa Plus
-https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Ru TV
-https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
-#EXTINF:-1 group-title="Музыка ",TNT Music
-https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Жара ТВ
-https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Муз ТВ
-https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
-#EXTINF:-1 group-title="Музыка ",Шансон ТВ
-https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
 #EXTINF:0 tvg-id="chnl-562" tvg-name="Беларусь 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/562.png?69c29495ba001" tvg-rec="3" timeshift="3" group-title="4. Беларусь", Беларусь 1 HD
@@ -16669,8 +16657,7 @@ http://de1.plist.link:3355/FGfpnUmovVu02795/index.m3u8?token=7LO7cdTWNP71bg9jr81
 #EXTGRP:9. Образовательные
 http://de1.plist.link:3355/FGfpnUmovVu22702/index.m3u8?token=7LO7cdTWNP71bg9jr81xWGkPDyivHJUHHB5czTyT_Vi0oagkrrFzapp08mlfakhU.tg6457680141
 
-#EXTINF:0 tvg-id="chnl-1041" tvg-name="Quadro 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/1041.png
-http://de1.plist.link:3355/FGfpnUmovVu720060/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6xwdHfpfnO4CxEZ-W0BLw2qBOeJAEcuuAlY0Q2Qy-oyMY.tg6457680141
+
 #EXTINF:0 tvg-id="chnl-46" tvg-name="Кухня ТВ HD" tvg-logo="http://de1.plist.link/plepg/img/channels/46.png?69c29495ba529" tvg-rec="3" timeshift="3" group-title="11. Разное", Кухня ТВ HD
 #EXTGRP:11. Разное
 http://de1.plist.link:3355/FGfpnUmovVu6046/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6LLXadUPaVWnHnuX144q9Oq1OReAgyRsOGRRboV3Oq4r.tg6457680141
