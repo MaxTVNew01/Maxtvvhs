@@ -222,10 +222,20 @@ https://iptv.itv.uz/hls/live/t/mUurCv1CKwxqCKa2IJeGhg/e/1776797815/1497/index.m3
 
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ", ВОЕНТВ
 http://92.63.106.41/ptv/voka/ch.php?id=81f0a5cd-abaa-4699-b470-aa397a91f450
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда
-http://6zgcfzun.akciatv.ru/iptv/PSAQKXW7LSGR9C/739/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда HD
+http://de1.plist.link:3355/FGfpnUmovVu6023/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPzOueewN_jOH0hRy0ejV0xOD8y5T3N8gFeYI8OoeeKVv.tg6457680141
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда 2
+http://de1.plist.link:3355/FGfpnUmovVu1373/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP4NBvLfQg8n70oSvTuEXgLInk8w_6Z6YE2ZMtdtza_y1.tg6457680141
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда+4
+http://de1.plist.link:3355/FGfpnUmovVu0406/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP90UC_D4CjymKv7EedwdXGoJJE9XipDcxmbhDSF6pEgw.tg6457680141
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда+6
+http://de1.plist.link:3355/FGfpnUmovVu9407/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_rM4oeckI7MxHKgUBS1Orc7lvNu0I36bWUk7Sp2UvaR.tg6457680141
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда+7
+http://de1.plist.link:3355/FGfpnUmovVu02807/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP-3_PnVCQwm5nGQcjohhVXhHC8dyg1zBmNUTlhtO9vxH.tg6457680141
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда Плюс HD
+http://de1.plist.link:3355/FGfpnUmovVu9724/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPxw6E7iXbczSNZUWTIL3cpa2ov79osI-O1vH3VVrjnBA.tg6457680141
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/jpg" group-title="⭐️ Победа ",Победа
-http://6zgcfzun.akciatv.ru/iptv/PSAQKXW7LSGR9C/2003/index.m3u8
+http://de1.plist.link:3355/FGfpnUmovVu9066/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP3H5AJQ95OdxcK6bSoLpOmB4vrCGo_UJ1fRnb2NAVKIj.tg6457680141
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/jpg" group-title="⭐️ Победа ",ПАТРИОТ
 http://dmi3y-tv6.ru/hls/CH_PATRIOT.m3u8
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/jpg" group-title="⭐️ Победа ",Pro100tv
