@@ -16996,7 +16996,6 @@ http://de1.plist.link:3355/FGfpnUmovVu0728/index.m3u8?token=oYHLnks0X_7VBji5gzX9
 #EXTINF:0 tvg-id="chnl-1271" tvg-name="MM Live Planet HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1271.png?69c29495ba5c2" tvg-rec="0" timeshift="0" group-title="13. Природа", MM Live Planet HD
 #EXTGRP:13. Природа
 http://de1.plist.link:3355/FGfpnUmovVu41271/index.m3u8?token=oYHLnks0X_7VBji5gzX9LQiW8cQM57V2vO4rDdhLqy0mMJ1ARiaB4iik0bwtWzpg.tg6457680141
-#EXTINF:0 tvg-id="chnl-2741" tvg-name="Мир Белгородья" tvg-logo="http://de1.plist.link/plepg/img/channels/2741.png?69c29495ba61a" tvg-rec="0" timeshift="0" group-title="22. Региональные", Мир Белгородья
 
 #EXTINF:-1 group-title="Региональный",Univer TV HD
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
