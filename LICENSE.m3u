@@ -9319,49 +9319,7 @@ http://de1.plist.link:3355/FGfpnUmovVu02795/index.m3u8?token=7LO7cdTWNP71bg9jr81
 #EXTINF:0 tvg-id="chnl-2702" tvg-name="English Class" tvg-logo="http://de1.plist.link/plepg/img/channels/2702.png?69c29495ba464" tvg-rec="0" timeshift="0" group-title="9. Образовательные", English Class
 #EXTGRP:9. Образовательные
 http://de1.plist.link:3355/FGfpnUmovVu22702/index.m3u8?token=7LO7cdTWNP71bg9jr81xWGkPDyivHJUHHB5czTyT_Vi0oagkrrFzapp08mlfakhU.tg6457680141
-#EXTINF:0 tvg-id="chnl-553" tvg-name="BCU Premiere Ultra 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/553.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", BCU Premiere Ultra 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu3553/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x_-QkWBxylD8FOVnXLB_VdU7DIRExxFBGotGm0k--My3.tg6457680141
-#EXTINF:0 tvg-id="chnl-849" tvg-name="BCU Ultra 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/849.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", BCU Ultra 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu0849/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x5AtRUOWHBQNiqsuIRkTPYm92-UDue4dN6cTj3Meb6xZ.tg6457680141
-#EXTINF:0 tvg-id="chnl-1428" tvg-name="BCU Kids 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/1428.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", BCU Kids 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu91428/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6xw1B3BR6AqEFITKKiaBXf3ovUmceK6JohPqdnHEoZOr1.tg6457680141
-#EXTINF:0 tvg-id="chnl-20091" tvg-name="BCU Сваты 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/20091.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", BCU Сваты 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu420091/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x_I-z3DOxbpuUIyo9Rsqv1Wom8T9K17mh2W4o1ixNhwc.tg6457680141
-#EXTINF:0 tvg-id="chnl-558" tvg-name="Cinema UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/558.png?69c29495ba4f9" tvg-rec="3" timeshift="3" group-title="10. UHD", Cinema UHD
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu3558/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6xxnPp3w248cC46DdHnSWWKadmQVLFHcZNq6IN4AXTbY9.tg6457680141
-#EXTINF:0 tvg-id="chnl-527" tvg-name="Museum UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/527.png?69c29495ba4f9" tvg-rec="3" timeshift="3" group-title="10. UHD", Museum UHD
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu7527/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x-qgsKwbH-2AleQLdQBSaOig3q858DAKH0NPi3J0lOhr.tg6457680141
-#EXTINF:0 tvg-id="chnl-566" tvg-name="Глазами туриста 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/566.png?69c29495ba4f9" tvg-rec="3" timeshift="3" group-title="10. UHD", Глазами туриста 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu8566/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x8mirS1f2JffwsK7qujniOBmYh2pObvHKIjzU_Zegyqc.tg6457680141
-#EXTINF:0 tvg-id="chnl-665" tvg-name="MyZen 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/665.png?69c29495ba4f9" tvg-rec="3" timeshift="3" group-title="10. UHD", MyZen 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu4665/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x9Fcgt8r7tbNrRDw-GNA-KEZ-cTPK8pt49nYZFRm-9aM.tg6457680141
-#EXTINF:0 tvg-id="chnl-1041" tvg-name="Quadro 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/1041.png?69c29495ba4f9" tvg-rec="3" timeshift="3" group-title="10. UHD", Quadro 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu11041/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6xxcyacVIjMA8s_psCNQplXBlNtYyaQQ6uwtxgJpeHfv8.tg6457680141
-#EXTINF:0 tvg-id="chnl-550" tvg-name="Fashion TV UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/550.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", Fashion TV UHD
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu2550/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x10pkJeAmy08WeZPYaMjXT2LI9XrqAXg4pkNS8LZkIAX.tg6457680141
-#EXTINF:0 tvg-id="chnl-551" tvg-name="Home 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/551.png?69c29495ba4f9" tvg-rec="3" timeshift="3" group-title="10. UHD", Home 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu8551/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6xwvAMXNRBNVNfkv-E5X8lLjfvwRoap_pMRR5pTmrI-Yu.tg6457680141
-#EXTINF:0 tvg-id="chnl-378" tvg-name="Russian Extreme Ultra" tvg-logo="http://de1.plist.link/plepg/img/channels/378.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", Russian Extreme Ultra
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu3378/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x5OK0O1YfAXtGUp7ExR3UA2iGFFyZkfY7prznY4Ljwx2.tg6457680141
-#EXTINF:0 tvg-id="chnl-1262" tvg-name="MM Flip UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/1262.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", MM Flip UHD
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu71262/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6x-odL4XhQSC_2IIHKob3bWd26xrOI9kRCCEj2HnyOT4q.tg6457680141
-#EXTINF:0 tvg-id="chnl-20060" tvg-name="MS Magic 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/20060.png?69c29495ba4f9" tvg-rec="0" timeshift="0" group-title="10. UHD", MS Magic 4K
-#EXTGRP:10. UHD
-http://de1.plist.link:3355/FGfpnUmovVu720060/index.m3u8?token=Yk6fXQb9tBi5olBzmTZ6xwdHfpfnO4CxEZ-W0BLw2qBOeJAEcuuAlY0Q2Qy-oyMY.tg6457680141
-#EXTINF:0 tvg-id="chnl-46" tvg-name="Кухня ТВ HD" tvg-logo="http://de1.plist.link/plepg/img/channels/46.png?69c29495ba529" tvg-rec="3" timeshift="3" group-title="11. Разное", Кухня ТВ HD
+
 #EXTGRP:11. Разное
 http://de1.plist.link:3355/FGfpnUmovVu6046/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6LLXadUPaVWnHnuX144q9Oq1OReAgyRsOGRRboV3Oq4r.tg6457680141
 #EXTINF:0 tvg-id="chnl-642" tvg-name="Аппетитный HD" tvg-logo="http://de1.plist.link/plepg/img/channels/642.png?69c29495ba529" tvg-rec="3" timeshift="3" group-title="11. Разное", Аппетитный HD
@@ -10426,49 +10384,8 @@ http://de1.plist.link:3355/yaUwUzs9RVN92697/index.m3u8?token=H4XJY8Bxnk9joTPcTjQ
 #EXTINF:0 tvg-id="chnl-2701" tvg-name="BCU Biography HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2701.png?69d67d0b12bd0" tvg-rec="0" timeshift="0" group-title="4. Кинозалы", BCU Biography HD
 #EXTGRP:4. Кинозалы
 http://de1.plist.link:3355/yaUwUzs9RVN32701/index.m3u8?token=H4XJY8Bxnk9joTPcTjQiWdfMjwXbLv2vEqOlOTPNMbEDRSpibTeFh02bis5cHvzL.maxtvnew
-#EXTINF:0 tvg-id="chnl-553" tvg-name="BCU Premiere Ultra 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/553.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", BCU Premiere Ultra 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN3553/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw_Q94xnLJxalYk-W8WXgDYm83L4VE5tlgd6i_2WOVlzv.maxtvnew
-#EXTINF:0 tvg-id="chnl-849" tvg-name="BCU Ultra 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/849.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", BCU Ultra 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN9849/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw2T0DmIW-S8b1NcOFn2ifOURcZL2bPuJs70wiB9nRNDZ.maxtvnew
-#EXTINF:0 tvg-id="chnl-1428" tvg-name="BCU Kids 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/1428.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", BCU Kids 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN91428/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw6kiSqMfbLJYGgCjFmNOq68_FhPJKWlyXIlGBgL-0Z00.maxtvnew
-#EXTINF:0 tvg-id="chnl-20091" tvg-name="BCU Сваты 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/20091.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", BCU Сваты 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN320091/index.m3u8?token=pfvWx9m2TwTacrmrtp0vwzkHtZs08nYtM130-8u9cKRSmMLQwOUg4CygHgM7NpZN.maxtvnew
-#EXTINF:0 tvg-id="chnl-558" tvg-name="Cinema UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/558.png?69d67d0b12dc1" tvg-rec="3" timeshift="3" group-title="5. UHD", Cinema UHD
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN4558/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw5eCN0ecBteF4o0GmW3Dkfgm3oF_fIfdzCMZx2KUClKp.maxtvnew
-#EXTINF:0 tvg-id="chnl-527" tvg-name="Museum UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/527.png?69d67d0b12dc1" tvg-rec="3" timeshift="3" group-title="5. UHD", Museum UHD
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN4527/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw8QIf5nr0sj75OUH-Kn2G9xYgBX0vd-f3z4iF4b6HDEy.maxtvnew
-#EXTINF:0 tvg-id="chnl-566" tvg-name="Глазами туриста 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/566.png?69d67d0b12dc1" tvg-rec="3" timeshift="3" group-title="5. UHD", Глазами туриста 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN6566/index.m3u8?token=pfvWx9m2TwTacrmrtp0vwwykkXZGog1pzRLjzOkO__GNn-kTWK2zqwXbQsQSRQKI.maxtvnew
-#EXTINF:0 tvg-id="chnl-665" tvg-name="MyZen 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/665.png?69d67d0b12dc1" tvg-rec="3" timeshift="3" group-title="5. UHD", MyZen 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN2665/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw5lzKs8qXb92Ehk919Y-8c80GAdgNb8WhTaUewnWP_j2.maxtvnew
-#EXTINF:0 tvg-id="chnl-1041" tvg-name="Quadro 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/1041.png?69d67d0b12dc1" tvg-rec="3" timeshift="3" group-title="5. UHD", Quadro 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN61041/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw0u9-2u-52Q5wle8x9s2Ss785orF-E-pjRJNWZSwlJEF.maxtvnew
-#EXTINF:0 tvg-id="chnl-550" tvg-name="Fashion TV UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/550.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", Fashion TV UHD
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN0550/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw2WTl8_WZg7-8m2FuttUGQus6OSN0ylhaluqIaO6iZLh.maxtvnew
-#EXTINF:0 tvg-id="chnl-551" tvg-name="Home 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/551.png?69d67d0b12dc1" tvg-rec="3" timeshift="3" group-title="5. UHD", Home 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN9551/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw7OJZQIcNXWRHhMdEGFuLv147uTqcL5lQj8s87F3v3Nz.maxtvnew
-#EXTINF:0 tvg-id="chnl-378" tvg-name="Russian Extreme Ultra" tvg-logo="http://de1.plist.link/plepg/img/channels/378.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", Russian Extreme Ultra
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN1378/index.m3u8?token=pfvWx9m2TwTacrmrtp0vwyNUdWTTHO11TD9gnkoQcIY8t7CwAxw3CpoqN6Vldo7j.maxtvnew
-#EXTINF:0 tvg-id="chnl-1262" tvg-name="MM Flip UHD" tvg-logo="http://de1.plist.link/plepg/img/channels/1262.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", MM Flip UHD
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN01262/index.m3u8?token=pfvWx9m2TwTacrmrtp0vwyjmqLu6A6cjtCEjsQDHpGsDBIdO7blkrzGcgF1RpdIi.maxtvnew
-#EXTINF:0 tvg-id="chnl-20060" tvg-name="MS Magic 4K" tvg-logo="http://de1.plist.link/plepg/img/channels/20060.png?69d67d0b12dc1" tvg-rec="0" timeshift="0" group-title="5. UHD", MS Magic 4K
-#EXTGRP:5. UHD
-http://de1.plist.link:3355/yaUwUzs9RVN520060/index.m3u8?token=pfvWx9m2TwTacrmrtp0vw-evbvnK1L-Jb9h4AgLrI6wMFj0k_fFTS_5ZaLqPWobe.maxtvnew
-#EXTINF:0 tvg-id="chnl-44" tvg-name="Детский мир" tvg-logo="http://de1.plist.link/plepg/img/channels/44.png?69d67d0b12df2" tvg-rec="3" timeshift="3" group-title="6. Детские", Детский мир
+
+
 #EXTGRP:6. Детские
 http://de1.plist.link:3355/yaUwUzs9RVN5044/index.m3u8?token=keP1P92dG5t9RCWauDK4cxqQwEr6qqETGsxr1Plxralwnvw1Ct13tKg-Z-Ud4Xkz.maxtvnew
 #EXTINF:0 tvg-id="chnl-45" tvg-name="Мульт HD" tvg-logo="http://de1.plist.link/plepg/img/channels/45.png?69d67d0b12df2" tvg-rec="3" timeshift="3" group-title="6. Детские", Мульт HD
