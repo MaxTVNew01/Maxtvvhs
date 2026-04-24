@@ -7986,8 +7986,7 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 tvg-id="chnl-1" tvg-name="Первый HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1.png?69c29495b9dac" tvg-rec="3" timeshift="3" group-title="1. Федеральные", Первый HD
 
 
-#EXTINF:-1 group-title="Кино ",Amedia HIT
-https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+
 #EXTINF:-1 group-title="Кино ",Amedia 2
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 #EXTINF:-1 group-title="Кино ",viju TV1000
