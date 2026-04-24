@@ -14375,9 +14375,6 @@ http://de1.plist.link:3355/FGfpnUmovVu02696/index.m3u8?token=JY1RGsvww4tiV9G44Xv
 #EXTGRP:6. Кинозалы
 http://de1.plist.link:3355/FGfpnUmovVu22697/index.m3u8?token=JY1RGsvww4tiV9G44XviddTQNLtRvTG1hfRsIhvfwum4YjAdS2ETrIsBolb6XZdS.tg6457680141
 #EXTINF:0 tvg-id="chnl-2701" tvg-name="BCU Biography HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2701.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Biography HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu52701/index.m3u8?token=JY1RGsvww4tiV9G44XvidXyhCMtmcLISDlYvJ7b3RUq6F032cWOXu2lUvRjk4VbW.tg6457680141
-#EXTINF:0 tvg-id="chnl-138" tvg-name="KHL Prime HD" tvg-logo="http://de1.plist.link/plepg/img/channels/138.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", KHL Prime HD
 
 #EXTINF:0 tvg-id="chnl-44" tvg-name="Детский мир" tvg-logo="http://de1.plist.link/plepg/img/channels/44.png?69c29495ba3b1" tvg-rec="3" timeshift="3" group-title="8. Детские", Детский мир
 #EXTGRP:8. Детские
