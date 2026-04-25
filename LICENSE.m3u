@@ -2507,8 +2507,6 @@ https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kinozal",CineMan
 http://178.63.98.119:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineManExExEx_TWO
-http://178.63.98.119:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="Kinozal",CineMan_Action
 http://178.63.98.119:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Kinozal",CineMan_Comedy
