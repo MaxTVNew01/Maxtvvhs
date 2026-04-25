@@ -2831,1217 +2831,1763 @@ http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
 
 
+#EXTGRP: Max Спорт
+http://bde.online24.pm/play/15/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png"  tvg-rec="5" timeshift="5", Eurosport HD
+#EXTGRP: Max Спорт
+http://bde.online24.pm/play/145/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/43/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/361/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="Матч! ПРЕМЬЕР" tvg-logo="https://ip-tv.dev/epg/icon/match-premiere.png"  tvg-rec="5" timeshift="5", Матч! ПРЕМЬЕР
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/37/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="Матч Премьер HD" tvg-logo="https://ip-tv.dev/epg/icon/match-premiere.png"  tvg-rec="5" timeshift="5", Матч Премьер HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/250/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч Арена" tvg-logo="https://ip-tv.dev/epg/icon/match-arena.png"  tvg-rec="5" timeshift="5", Матч Арена
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/136/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч! Арена HD" tvg-logo="https://ip-tv.dev/epg/icon/match-arena.png"  tvg-rec="5" timeshift="5", Матч! Арена HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/146/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-planeta" tvg-name="Матч! Планета" tvg-logo="https://ip-tv.dev/epg/icon/match-planeta.png"  tvg-rec="5" timeshift="5", Матч! Планета
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/14/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч ТВ" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч ТВ
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч! HD" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч! HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/397/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч! 50fps" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч! 50fps
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/680/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-boets" tvg-name="Матч! Боец HD" tvg-logo="https://ip-tv.dev/epg/icon/match-boec.png"  tvg-rec="5" timeshift="5", Матч! Боец HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/30/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-nash-sport" tvg-name="МАТЧ! Страна" tvg-logo="https://ip-tv.dev/epg/icon/match-nash-sport.png"  tvg-rec="5" timeshift="5", МАТЧ! Страна
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/134/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="https://ip-tv.dev/epg/icon/match-nash-sport.png"  tvg-rec="5" timeshift="5", Матч! Страна HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/212/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра" tvg-logo="https://ip-tv.dev/epg/icon/match-igra.png"  tvg-rec="5" timeshift="5", Матч! Игра
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/153/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра HD" tvg-logo="https://ip-tv.dev/epg/icon/match-igra.png"  tvg-rec="5" timeshift="5", Матч! Игра HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/268/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-1.png"  tvg-rec="5" timeshift="5", Матч! Футбол 1 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/260/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч Футбол 1" tvg-logo="https://ip-tv.dev/epg/icon/match-football-1.png"  tvg-rec="5" timeshift="5", Матч Футбол 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/54/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-2.png"  tvg-rec="5" timeshift="5", Матч! Футбол 2 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/271/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-3.png"  tvg-rec="5" timeshift="5", Матч! Футбол 3 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/329/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmegogo-sport" tvg-name="Megogo Спорт HD" tvg-logo="https://ip-tv.dev/images/ico/megogo-sport.png"  tvg-rec="5" timeshift="5", Megogo Спорт HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1001/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Premium HD" tvg-logo="https://ip-tv.dev/images/ico/5d1013c8-594c-4fb6-a6d1-654df583a246.png" , Setanta Sports Premium HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1650/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports.png"  tvg-rec="5" timeshift="5", Setanta Sports Ukraine
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1434/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports-plus.png"  tvg-rec="5" timeshift="5", Setanta Sports+ Ukraine
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/9957/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-sports" tvg-name="Setanta Sports 1 HD" tvg-logo="https://ip-tv.dev/images/ico/setanta-sports1.png"  tvg-rec="5" timeshift="5", Setanta Sports 1 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/942/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-sports-plus" tvg-name="Setanta Sports 2 HD" tvg-logo="https://ip-tv.dev/images/ico/setanta-sports2.png"  tvg-rec="5" timeshift="5", Setanta Sports 2 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/943/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-kz" tvg-name="Setanta Qazaqstan" tvg-logo="https://ip-tv.dev/images/ico/setanta-kz.png"  tvg-rec="5" timeshift="5", Setanta Qazaqstan
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5094/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD MD" tvg-logo="https://ip-tv.dev/images/epg/11008.png?v1745673062" , Setanta Sports HD MD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/11008/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsuspilne-sport-ua" tvg-name="Суспільне Спорт" tvg-logo="https://ip-tv.dev/images/ico/suspilne_sport.png" , Суспільне Спорт
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/316/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xdivisport" tvg-name="DiviSport" tvg-logo="https://ip-tv.dev/images/ico/divisport.png" , DiviSport
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/315/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xdynamo-kyiv-tv" tvg-name="Dynamo Kyiv TV" tvg-logo="https://ip-tv.dev/images/ico/dynamo-kyiv-tv.png" , Dynamo Kyiv TV
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/8797/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол" tvg-logo="https://ip-tv.dev/epg/icon/futbol.png"  tvg-rec="5" timeshift="5", Футбол
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/171/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол HD" tvg-logo="https://ip-tv.dev/epg/icon/futbol.png"  tvg-rec="5" timeshift="5", Футбол HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/3920/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viju+ Sport" tvg-logo="https://ip-tv.dev/images/ico/viju-viasat-sport.png"  tvg-rec="5" timeshift="5", Viju+ Sport
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/77/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/viju-viasat-sport.png"  tvg-rec="5" timeshift="5", Viju+ Sport HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/198/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xokko-sport" tvg-name="Окко Спорт HD" tvg-logo="https://ip-tv.dev/images/ico/okko-sport.png"  tvg-rec="5" timeshift="5", Окко Спорт HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/7337/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xokko-football" tvg-name="Окко Футбол HD" tvg-logo="https://ip-tv.dev/images/ico/okko-football.png"  tvg-rec="5" timeshift="5", Окко Футбол HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/7338/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xokko-sport-2" tvg-name="	Окко.Прайм Спорт" tvg-logo="https://ip-tv.dev/images/epg/1833.png?v1744706916"  tvg-rec="5" timeshift="5", 	Окко.Прайм Спорт
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1833/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xokko-chemp" tvg-name="Окко Чемпионат" tvg-logo="https://ip-tv.dev/images/epg/2037.png?v1773512349"  tvg-rec="5" timeshift="5", Окко Чемпионат
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/2037/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xstart-triumf" tvg-name="Старт Триумф HD" tvg-logo="https://ip-tv.dev/images/ico/start-triumf.png"  tvg-rec="5" timeshift="5", Старт Триумф HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/7375/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xstart" tvg-name="Старт HD" tvg-logo="https://ip-tv.dev/epg/icon/start.png"  tvg-rec="5" timeshift="5", Старт HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/9946/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xkonny-mir" tvg-name="Конный мир HD" tvg-logo="https://ip-tv.dev/epg/icon/konny-mir.png"  tvg-rec="5" timeshift="5", Конный мир HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/394/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xkxl" tvg-name="КХЛ" tvg-logo="https://ip-tv.dev/epg/icon/khl.png"  tvg-rec="5" timeshift="5", КХЛ
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/149/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xkxl-hd" tvg-name="KHL Prime" tvg-logo="https://ip-tv.dev/images/ico/kxl-hd.png"  tvg-rec="5" timeshift="5", KHL Prime
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/177/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xxokkejny" tvg-name="Хоккейный" tvg-logo="https://ip-tv.dev/images/ico/xokkejny.png"  tvg-rec="5" timeshift="5", Хоккейный
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/6160/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-tv" tvg-name="Бокс ТВ" tvg-logo="https://ip-tv.dev/epg/icon/box-tv.png"  tvg-rec="5" timeshift="5", Бокс ТВ
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/482/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsport1-ua" tvg-name="Sport 1 UA" tvg-logo="https://ip-tv.dev/images/ico/sport1ua.png" , Sport 1 UA
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/2638/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsport2-ua" tvg-name="Sport 2 UA" tvg-logo="https://ip-tv.dev/images/ico/sport2ua.png" , Sport 2 UA
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/2639/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 UA HD" tvg-logo="https://ip-tv.dev/images/ico/sport3ua.png" , Sport 3 UA HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/2640/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 UA" tvg-logo="https://ip-tv.dev/images/ico/sport4ua.png" , Sport 4 UA
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/2641/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xnba-tv" tvg-name="NBA TV" tvg-logo="https://ip-tv.dev/epg/icon/nba-tv.png"  tvg-rec="5" timeshift="5", NBA TV
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/9984/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="https://ip-tv.dev/images/ico/mir-basketbola.png"  tvg-rec="5" timeshift="5", Мир Баскетбола
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/8831/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xfootbolny" tvg-name="Мяч" tvg-logo="https://ip-tv.dev/images/ico/footbolny.png" , Мяч
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1763/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xavto-plus" tvg-name="Авто Плюс" tvg-logo="https://ip-tv.dev/epg/icon/avto-plus.png"  tvg-rec="5" timeshift="5", Авто Плюс
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/29/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xextreme-sports" tvg-name="Extreme Sports" tvg-logo="https://ip-tv.dev/epg/icon/extreme-sports.png"  tvg-rec="5" timeshift="5", Extreme Sports
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/53/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsportivny" tvg-name="Спортивный" tvg-logo="https://ip-tv.dev/images/ico/sportivny.png"  tvg-rec="5" timeshift="5", Спортивный
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/6159/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xufc" tvg-name="UDAR" tvg-logo="https://ip-tv.dev/images/ico/ufc.png"  tvg-rec="5" timeshift="5", UDAR
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4111/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xzhivi-aktivno" tvg-name="Живи активно HD" tvg-logo="https://ip-tv.dev/images/ico/zhivi-aktivno.png"  tvg-rec="5" timeshift="5", Живи активно HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1771/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="UFC ТВ HD" tvg-logo="https://ip-tv.dev/images/ico/7913.png" , UFC ТВ HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1777/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="MMA-TV HD" tvg-logo="https://ip-tv.dev/images/ico/mma.png" , MMA-TV HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/3795/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="X	no_epg_sport" tvg-name="Equalympic HD" tvg-logo="https://ip-tv.dev/images/ico/Equalympic_HD.jpg" , Equalympic HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/8788/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-ekstrim" tvg-name="Русский Экстрим" tvg-logo="https://ip-tv.dev/epg/icon/russky-ekstrim.png"  tvg-rec="5" timeshift="5", Русский Экстрим
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/345/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xtochka-otryva" tvg-name="Точка отрыва" tvg-logo="https://ip-tv.dev/epg/icon/tochka-otryva.png"  tvg-rec="5" timeshift="5", Точка отрыва
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/601/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xavto24" tvg-name="Авто 24" tvg-logo="https://ip-tv.dev/epg/icon/avto24.png"  tvg-rec="5" timeshift="5", Авто 24
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/256/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xcars-n-stars" tvg-name="Cars & Stars TV HD" tvg-logo="https://ip-tv.dev/images/ico/cars-n-stars.png"  tvg-rec="5" timeshift="5", Cars & Stars TV HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/9904/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xfightbox-hd" tvg-name="FightBox" tvg-logo="https://ip-tv.dev/images/ico/fightbox-hd.png"  tvg-rec="5" timeshift="5", FightBox
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/8790/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xtrace-sport-stars" tvg-name="TRACE Sport Stars" tvg-logo="https://ip-tv.dev/images/ico/trace-sport-stars.png"  tvg-rec="5" timeshift="5", TRACE Sport Stars
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/9907/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xfastfunbox-hd" tvg-name="Fast&FunBox" tvg-logo="https://ip-tv.dev/images/ico/fastfunbox-hd.png"  tvg-rec="5" timeshift="5", Fast&FunBox
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/8792/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xmaincast-sport" tvg-name="MAINCAST SPORT " tvg-logo="https://ip-tv.dev/images/epg/1994.png?v1763826253" , MAINCAST SPORT 
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1994/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="1889" tvg-name="Tennis+", Tennis+
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1889/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xupltv" tvg-name="UPL.TV HD" tvg-logo="https://ip-tv.dev/images/ico/upl.png"  tvg-rec="5" timeshift="5", UPL.TV HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/523/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xupltv1" tvg-name="УПЛ ТВ 1" tvg-logo="https://ip-tv.dev/images/ico/upltv1.png"  tvg-rec="5" timeshift="5", УПЛ ТВ 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/524/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xupltv2" tvg-name="УПЛ ТВ 2" tvg-logo="https://ip-tv.dev/images/ico/upltv2.png"  tvg-rec="5" timeshift="5", УПЛ ТВ 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/525/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xupltv3" tvg-name="УПЛ ТВ 3" tvg-logo="https://ip-tv.dev/images/ico/upltv3.png"  tvg-rec="5" timeshift="5", УПЛ ТВ 3
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/526/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077"  tvg-rec="5" timeshift="5", QazSport
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1841/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145"  tvg-rec="5" timeshift="5", Q Arena
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1842/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274"  tvg-rec="5" timeshift="5", Q Sport League
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1843/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369"  tvg-rec="5" timeshift="5", Sport+ Qazaqstan
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1844/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX_SPORT_LIVE_1_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" , BOX_SPORT_LIVE_1_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51013/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX_SPORT_LIVE_2_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" , BOX_SPORT_LIVE_2_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51014/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX_SPORT_LIVE_3_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" , BOX_SPORT_LIVE_3_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51015/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX_SPORT_LIVE_4_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX_SPORT_LIVE_4_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51016/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX_SPORT_LIVE_5_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX_SPORT_LIVE_5_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51017/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX_SPORT_LIVE_6_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX_SPORT_LIVE_6_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51018/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX_SPORT_LIVE_7_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX_SPORT_LIVE_7_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51019/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX_SPORT_LIVE_8_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live8.png" , BOX_SPORT_LIVE_8_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51020/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX_SPORT_LIVE_9_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX_SPORT_LIVE_9_HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51021/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4K", BOX_SPORT_LIVE_4K
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51022/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-1" tvg-name="BeIN Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" , BeIN Sport 1 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1101/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-2" tvg-name="BeIN Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" , BeIN Sport 2 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1102/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-3" tvg-name="BeIN Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png" , BeIN Sport 3 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1103/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-4" tvg-name="BeIN Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png" , BeIN Sport 4 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1104/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="BeIN EXTRAS" tvg-logo="https://ip-tv.dev/images/epg/1686.png?v1743766086" , BeIN EXTRAS
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1686/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport1" tvg-name="TNT Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport1.png" , TNT Sport 1 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/922/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport2" tvg-name="TNT Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" , TNT Sport 2 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/923/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport3" tvg-name="TNT Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport3.png" , TNT Sport 3 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/934/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" , DAZN 1 DE
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/803/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 DE" tvg-logo="https://ip-tv.dev/images/epg/809.png?v1743766115" , DAZN 2 DE
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/809/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" , Movistar Formula 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1121/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" , Sky Sport Bundesliga HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/836/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 1", Live Sport 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1580/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 2", Live Sport 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1581/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 1" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1704/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 2" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1705/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 3" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 3
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1706/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 4" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 4
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1707/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 5" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 5
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1708/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 6" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 6
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1709/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 7" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 7
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1710/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 8" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 8
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1711/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 9" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 9
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1712/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 10" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 10
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1713/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 11" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 11
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1714/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 12" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 12
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1715/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Football Live 13" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 13
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1716/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 1" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5009/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 2" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5010/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 3" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 3
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5011/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 4" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 4
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5012/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 5" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 5
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5013/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 7" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 7
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5014/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 6" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 6
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5015/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 8" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 8
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5016/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 9" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 9
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5017/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 10" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 10
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5018/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 11" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 11
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5019/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 12" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 12
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5020/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 13" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 13
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5021/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name=" ViP Sport 14" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" ,  ViP Sport 14
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5022/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 15" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , ViP Sport 15
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5023/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 16" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , ViP Sport 16
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5024/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 17" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , ViP Sport 17
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5025/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="betking live 1" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , betking live 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5026/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="betking live 2" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , betking live 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5027/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="FintGa 1" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5028/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="FintGa 2" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5029/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="FintGa 3" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 3
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5030/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="FintGa 4" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 4
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5031/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Pimple 1" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 1
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5032/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Pimple 2" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5033/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Pimple 3" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 3
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5034/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Pimple 4" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 4
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5035/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Pimple 5" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 5
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5036/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Pimple 6" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 6
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5037/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge" tvg-name="BOX Be ON Edge HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge.png" , BOX Be ON Edge HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4215/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge1live" tvg-name="BOX Be ON Edge 1 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge1live.png" , BOX Be ON Edge 1 Live HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4213/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge2live" tvg-name="BOX Be ON Edge 2 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge2live.png" , BOX Be ON Edge 2 Live HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4214/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX SportCast Live 1 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" , BOX SportCast Live 1 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4224/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX SportCast Live 2 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" , BOX SportCast Live 2 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4225/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX SportCast Live 3 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" , BOX SportCast Live 3 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4226/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX SportCast Live 4 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX SportCast Live 4 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4227/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX SportCast Live 5 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX SportCast Live 5 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4228/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX SportCast Live 6 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX SportCast Live 6 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4232/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX SportCast Live 7 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX SportCast Live 7 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4233/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX SportCast Live 8 HD" tvg-logo="https://ip-tv.dev/images/epg/4234.png?v1743766406" , BOX SportCast Live 8 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4234/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX SportCast Live 9 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX SportCast Live 9 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4235/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="MMA Junkie" tvg-logo="https://ip-tv.dev/images/ico/MMAJunkie.png" , MMA Junkie
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5718/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 2" tvg-logo="https://ip-tv.dev/images/ico/dubaisports2.png" , Dubai Sports 2
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5406/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 3" tvg-logo="https://ip-tv.dev/images/ico/dubaisports3.png" , Dubai Sports 3
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/5407/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-1" tvg-name="Diema Sport HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-1.png" , Diema Sport HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51002/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51003/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-3.png" , Diema Sport 3 HD
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51004/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 4K
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51001/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 4K" tvg-logo="https://ip-tv.dev/images/epg/51000.jpg?v1743766303" , Diema Sport 3 4K
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/51000/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV + PT", SPORT TV + PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1967/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 1 PT", SPORT TV 1 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1968/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 2 PT", SPORT TV 2 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1969/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 3 PT", SPORT TV 3 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1970/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 4 PT", SPORT TV 4 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1971/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 5 PT", SPORT TV 5 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1972/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 6 PT", SPORT TV 6 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1973/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes ES", M+ Deportes ES
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1974/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 2 ES", M+ Deportes 2 ES
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1975/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 3 ES", M+ Deportes 3 ES
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1976/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 4 ES", M+ Deportes 4 ES
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1977/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 PT", DAZN 1 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1978/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 PT", DAZN 2 PT
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1979/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 ESPANA ", DAZN 1 ESPANA 
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1980/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 ESPAÑA", DAZN 2 ESPAÑA
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/1981/B992025420701DB/video.m3u8
+#EXTINF:0 tvg-id="Xclarity4k-edinoborstva" tvg-name="Clarity4K Единоборства" tvg-logo="https://ip-tv.dev/images/ico/clarity4k-edinoborstva.png" , Clarity4K Единоборства
+#EXTGRP:Max Спорт
+http://bde.online24.pm/play/4611/B992025420701DB/video.m3u8
 
-#EXTGRP:спорт
+
+
+
+
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6546/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 FHD orig
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9026/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 1 HD AL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31563/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 2 HD AL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31564/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 3 HD AL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31565/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 1 HD HU
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31568/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 2 HD HU
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31569/index.m3u8
 #EXTINF:0 tvg-rec="0",Nova Sport 3 HD CZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31570/index.m3u8
 #EXTINF:0 tvg-rec="0",Nova Sport 4 HD CZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31571/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 1 GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31572/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 3 GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31574/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 5 GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31575/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 6 GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31576/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 7 GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31577/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 1 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31578/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 2 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31579/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 3 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31581/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 4 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31582/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 5 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31583/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 6 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31584/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 7 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31585/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 8 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31586/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 9 HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31587/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport Highlights HD GR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31588/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Live HD DK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31589/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV+ HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31590/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperSport Rugby ZA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31591/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal 11 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31592/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Extra HD RO
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31595/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Esport HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31597/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Fight HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31598/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 1 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31599/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 2 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31600/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 3 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31601/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31602/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 3 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31603/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 3 RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31604/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 4 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31605/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 5 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31606/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 6 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31607/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 7 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31608/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 8 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31609/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 9 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31610/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1x2 HD RS
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31611/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9335/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9334/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9310/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9308/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9293/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9289/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9283/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9258/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9248/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/9155/index.m3u8
 #EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2160/index.m3u8
 #EXTINF:0 tvg-rec="0",Старт Триумф HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/16034/index.m3u8
 #EXTINF:0 tvg-rec="0",5Sport 4K IL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/16019/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Golf HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/5043/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/5042/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир Баскетбола HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20004/index.m3u8
 #EXTINF:0 tvg-rec="0",FightBox HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20027/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme Sports HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20028/index.m3u8
 #EXTINF:0 tvg-rec="0",Танцуй!
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14023/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +4 (Алтай)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15289/index.m3u8
 #EXTINF:0 tvg-rec="0",KHL Prime HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19396/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Be On Edge Live 1 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19422/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Be On Edge Live 2 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19423/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Be On Edge HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19424/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Страна
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/107/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ +2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6012/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +3 (Омск)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15432/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ +4
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6023/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ +8
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6052/index.m3u8
 #EXTINF:0 tvg-rec="0",UPL TV 1 HD UA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14193/index.m3u8
 #EXTINF:0 tvg-rec="0",UPL TV 2 HD UA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14194/index.m3u8
 #EXTINF:0 tvg-rec="0",UPL TV 3 HD UA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14195/index.m3u8
 #EXTINF:0 tvg-rec="3",Motorvision TV DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6112/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky 1 AU
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6122/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6113/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 9 FHD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6097/index.m3u8
 #EXTINF:0 tvg-rec="0",Band Sports BR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6158/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Планета
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/123/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/124/index.m3u8
 #EXTINF:0 tvg-rec="7",KHL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/519/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/522/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/528/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/529/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/530/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Премьер
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/531/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/535/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/141/index.m3u8
 #EXTINF:0 tvg-rec="7",Extreme Sports
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/144/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Боец
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/150/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Sport
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/160/index.m3u8
 #EXTINF:0 tvg-rec="7",MMA-TV.com
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/843/index.m3u8
 #EXTINF:0 tvg-rec="7",Бокс ТВ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/870/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт FHD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2154/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/5050/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport News HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2477/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2478/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2479/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2480/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2492/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 1 HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2499/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 2 HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2500/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 3 HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2501/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2502/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 1 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2503/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2505/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2506/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Sports 2 IN
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2507/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Sports 1 IN
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2508/index.m3u8
 #EXTINF:0 tvg-rec="3",YAS Sports AE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2511/index.m3u8
 #EXTINF:0 tvg-rec="3",ONTime Sports EG
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2512/index.m3u8
 #EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2517/index.m3u8
 #EXTINF:0 tvg-rec="3",Eleven Sports 1 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2518/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport 5 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2519/index.m3u8
 #EXTINF:0 tvg-rec="3",TVP Sport HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2520/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 2 HD RO
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2522/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 1 HD RO
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2523/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 3 HD RO
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2524/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 1 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2525/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 2 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2526/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 3 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2527/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 4 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2528/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 5 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2529/index.m3u8
 #EXTINF:0 tvg-rec="3",Sporting TV HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2530/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 1 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2531/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 2 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2532/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 4 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2534/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 5 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2535/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 6 PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2536/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2538/index.m3u8
 #EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2540/index.m3u8
 #EXTINF:0 tvg-rec="3",MTV Viihde HD FI
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2541/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2545/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 2 HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2546/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2547/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 1 LT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2548/index.m3u8
 #EXTINF:0 tvg-rec="3",Arena Sport 1 HD SK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2550/index.m3u8
 #EXTINF:0 tvg-rec="3",ČT sport HD CZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2551/index.m3u8
 #EXTINF:0 tvg-rec="3",Nova Sport 1 HD CZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2555/index.m3u8
 #EXTINF:0 tvg-rec="3",Nova Sport 2 HD CZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2556/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 2 HD CZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2557/index.m3u8
 #EXTINF:0 tvg-rec="3",Ziggo Sport 3 HD NL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2559/index.m3u8
 #EXTINF:0 tvg-rec="3",Ziggo Sport HD NL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2560/index.m3u8
 #EXTINF:0 tvg-rec="3",Ziggo Sport 2 HD NL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2561/index.m3u8
 #EXTINF:0 tvg-rec="3",Infosport+ HD FR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2544/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6541/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6542/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6543/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6544/index.m3u8
 #EXTINF:0 tvg-rec="3",Окко Футбол HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6554/index.m3u8
 #EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6555/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6556/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6564/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6566/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 3 HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7062/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7234/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7235/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7237/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7238/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7239/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7240/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7241/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 FHD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7263/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 2 FHD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7264/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 3 FHD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7265/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 4 FHD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7266/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 5 FHD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7267/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 6 FHD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7268/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 1 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7269/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 2 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7270/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 3 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7271/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 4 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7272/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 5 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7273/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 6 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7274/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 7 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7275/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub Golf HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7277/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub Fight HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7278/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport 1 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7296/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport 3 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7303/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 1 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7304/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 2 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7305/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 3 PPV HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7306/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 4 PPV HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7307/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 5 PPV HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7308/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 6 PPV HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7309/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport 2 HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7310/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Fight HD PL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7311/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7322/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7323/index.m3u8
 #EXTINF:0 tvg-rec="0",CBS Sports Network HD US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7324/index.m3u8
 #EXTINF:0 tvg-rec="0",NBC Sports Network HD US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7327/index.m3u8
 #EXTINF:0 tvg-rec="0",NHL Network HD US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7328/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7329/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 2 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7330/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 3 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7331/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 4 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7332/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 5 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7333/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 6 HD HR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7334/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7335/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7336/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7337/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7339/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7340/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7341/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7342/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7343/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7344/index.m3u8
 #EXTINF:0 tvg-rec="0",TV 2 Sport HD DK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7355/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7360/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7361/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 3
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7362/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 4
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7363/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 5
-#EXTGRP:спорт
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7364/index.m3u8
+#EXTGRP:Max спорт
+http://h⁶loz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/7364/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир Баскетбола
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/10033/index.m3u8
 #EXTINF:0 tvg-rec="0",Хоккей ТВ HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/10039/index.m3u8
 #EXTINF:0 tvg-rec="7",ТВ Спорт HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/10057/index.m3u8
 #EXTINF:0 tvg-rec="7",Мяч HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/10058/index.m3u8
 #EXTINF:0 tvg-rec="7",StrahTV WWE Russian
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/11056/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Football SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/11110/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Vinter SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/11111/index.m3u8
 #EXTINF:0 tvg-rec="0",V sport football SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12032/index.m3u8
 #EXTINF:0 tvg-rec="0",V sport motor HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12033/index.m3u8
 #EXTINF:0 tvg-rec="0",TV4 Hits HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12034/index.m3u8
 #EXTINF:0 tvg-rec="0",TV4 Sportkanalen HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12035/index.m3u8
 #EXTINF:0 tvg-rec="0",TV4 Stars HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12042/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12047/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12048/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Extra SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12074/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport 1 SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12075/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Golf SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12077/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Vinter HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12078/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Premium SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12079/index.m3u8
 #EXTINF:0 tvg-rec="0",TV3 Sport SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/12100/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14186/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14187/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 3
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14188/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 4
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14189/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 5
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14190/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 6
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/14191/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15179/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports HD UA orig
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15183/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA orig
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15184/index.m3u8
 #EXTINF:0 tvg-rec="0",Fast & Fun Box
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15231/index.m3u8
 #EXTINF:0 tvg-rec="0",FightBox
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15232/index.m3u8
 #EXTINF:0 tvg-rec="0",Q Sport.KG HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15238/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +2 (Уфа)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15307/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +0 (Липецк)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15314/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +7 (Владивосток)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15335/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +4 (Томск)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15387/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +0 (Белгород)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15409/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +0 (Элиста)
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/15448/index.m3u8
 #EXTINF:0 tvg-rec="0",Red Bull TV
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/16039/index.m3u8
 #EXTINF:0 tvg-rec="0",Red Bull TV HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/16040/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport 1 HD EE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/18000/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport 2 HD EE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/18001/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport 1 HD LV
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/18011/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport 2 HD LV
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/18012/index.m3u8
 #EXTINF:0 tvg-rec="0",Best4Sport HD LV
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/18016/index.m3u8
 #EXTINF:0 tvg-rec="0",Best4Sport 2 HD LV
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/18015/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport Open HD LV
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/18025/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport F1 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19022/index.m3u8
 #EXTINF:0 tvg-rec="0",Sportdigital 1+ HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19023/index.m3u8
 #EXTINF:0 tvg-rec="0",Sportdigital Fussball HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19026/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport F1 DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19027/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 1 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19028/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 3 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19030/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 4 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19031/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 5 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19032/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 6 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19033/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 7 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19034/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 8 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19035/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 9 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19036/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 10 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19037/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 360 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19040/index.m3u8
 #EXTINF:0 tvg-rec="0",DAZN 1 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19042/index.m3u8
 #EXTINF:0 tvg-rec="0",DAZN 2 HD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19043/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport UHD DE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19044/index.m3u8
 #EXTINF:0 tvg-rec="0",TNT Sports 4 HD UK
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19054/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN HD BR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19056/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 6 HD BR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19057/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN BR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19060/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD BR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19061/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19062/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 2 FHD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19063/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Haber HD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19064/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19066/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT Spor TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19067/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT Spor FHD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19068/index.m3u8
 #EXTINF:0 tvg-rec="0",A Spor HD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19069/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT Spor HD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19072/index.m3u8
 #EXTINF:0 tvg-rec="0",Spor Smart 2 HD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19073/index.m3u8
 #EXTINF:0 tvg-rec="0",Tivibu Spor 3 HD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19076/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport F1 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19105/index.m3u8
 #EXTINF:0 tvg-rec="0",Rai Sport HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19106/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 24 FHD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19107/index.m3u8
 #EXTINF:0 tvg-rec="0",Sportitalia Plus HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19108/index.m3u8
 #EXTINF:0 tvg-rec="0",Super Tennis HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19111/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Calcio HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19113/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19116/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 1 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19118/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 2 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19119/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 3 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19120/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 4 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19121/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 5 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19122/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 6 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19123/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 7 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19124/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 8 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19125/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Primafila 9 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19126/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport 24 HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19127/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Arena HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19128/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Golf HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19132/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport MotoGP HD IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19133/index.m3u8
 #EXTINF:0 tvg-rec="0",Super Tennis IT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19136/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports HD AR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19138/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports HD MX
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19139/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 506 HD AU
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19143/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Racing US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19144/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 501 Cricket HD AU
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19146/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports North US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19152/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Midwest US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19153/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPNews US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19154/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19155/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN HD US
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19156/index.m3u8
 #EXTINF:0 tvg-rec="0",DAZN 1 FHD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19158/index.m3u8
 #EXTINF:0 tvg-rec="0",Benfica TV HD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19160/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV 1 FHD PT
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19161/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Ultra HD SE
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19163/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 1 HD NL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19201/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD NL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19202/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 3 HD NL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19203/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 4 HD NL
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19204/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Страна HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19219/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Боец HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19221/index.m3u8
 #EXTINF:0 tvg-rec="0",MMA-TV.com HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19243/index.m3u8
 #EXTINF:0 tvg-rec="0",Футбол HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19244/index.m3u8
 #EXTINF:0 tvg-rec="0",Бокс ТВ HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19245/index.m3u8
 #EXTINF:0 tvg-rec="0",Удар HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19246/index.m3u8
 #EXTINF:0 tvg-rec="0",Spor Smart HD TR
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20060/index.m3u8
 #EXTINF:0 tvg-rec="0",Q Arena HD KZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20061/index.m3u8
 #EXTINF:0 tvg-rec="0",Q League HD KZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20062/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20065/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Moldova FHD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20074/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Baltic 1 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20081/index.m3u8
 #EXTINF:0 tvg-rec="7",Fint Ga 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20091/index.m3u8
 #EXTINF:0 tvg-rec="7",Fint Ga 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20092/index.m3u8
 #EXTINF:0 tvg-rec="0",Fint Ga 3
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20093/index.m3u8
 #EXTINF:0 tvg-rec="7",Pimple TV 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20094/index.m3u8
 #EXTINF:0 tvg-rec="1",Pimple TV 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20095/index.m3u8
 #EXTINF:0 tvg-rec="0",Pimple TV 3
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20096/index.m3u8
 #EXTINF:0 tvg-rec="3",Pimple TV 4
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20097/index.m3u8
 #EXTINF:0 tvg-rec="0",Pimple TV 5
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20098/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20099/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20103/index.m3u8
 #EXTINF:0 tvg-rec="3",ViP Sport 3
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20104/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 4
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20105/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 5
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20106/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 6
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20107/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 7
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20108/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 8
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20109/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 9
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20110/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 10
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20100/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 11
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20101/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 12
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20102/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport Drive
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20160/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 1 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20166/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 2 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20167/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 3 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20168/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 4 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20169/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 5 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20170/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 6 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31648/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 7 HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31649/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31650/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 13
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31674/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 1
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31675/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 2
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31676/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 3
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31677/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 4
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31678/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 5
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31679/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 6
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31680/index.m3u8
 #EXTINF:0 tvg-rec="0",Pimple TV 6
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31681/index.m3u8
 #EXTINF:0 tvg-rec="0",Fint Ga 4
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31682/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV MMA TIME HD
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31710/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports UA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31754/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports HD UA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31755/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+ UA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31756/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
-#EXTGRP:спорт
+#EXTGRP:Max спорт
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/31757/index.m3u8
 
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu3138/index.m3u8?token=czoewbz_D6R0fNDHJwHznwjHlVKRYjjG1Or6jCSFQZcy8moQL6909R0xWS3Jxs86.tg6457680141
 #EXTINF:0 tvg-id="chnl-34" tvg-name="Кхл HD" tvg-logo="http://de1.plist.link/plepg/img/channels/34.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Кхл HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu7034/index.m3u8?token=czoewbz_D6R0fNDHJwHzn51Dm5mizEZB26LnXIfDkTUt8LL82AdMpKnrPyMnNUiy.tg6457680141
 #EXTINF:0 tvg-id="chnl-37" tvg-name="БОКС ТВ HD" tvg-logo="http://de1.plist.link/plepg/img/channels/37.png?69c29495ba36e" tvg-rec="0" timeshift="0" group-title="7. Спорт", БОКС ТВ HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu4037/index.m3u8?token=czoewbz_D6R0fNDHJwHznykGE-4Iq7UBsu86bsqF4fN1BjMX5OgBeDKLrKFl6Qnd.tg6457680141
 #EXTINF:0 tvg-id="chnl-48" tvg-name="Точка отрыва" tvg-logo="http://de1.plist.link/plepg/img/channels/48.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Точка отрыва
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu9048/index.m3u8?token=czoewbz_D6R0fNDHJwHzn2TJhzrGFpXrHWIWjmnypQG6apeqPzkbmA7yaKdsfgX9.tg6457680141
 #EXTINF:0 tvg-id="chnl-57" tvg-name="Матч! HD" tvg-logo="http://de1.plist.link/plepg/img/channels/57.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu8057/index.m3u8?token=czoewbz_D6R0fNDHJwHzn_Z-MNdi7TtTpBZRa079Xhttu8wek6xg3o9uoOdl8a36.tg6457680141
 #EXTINF:0 tvg-id="chnl-609" tvg-name="Матч! HD (Дубль)" tvg-logo="http://de1.plist.link/plepg/img/channels/609.png?69c29495ba36e" tvg-rec="0" timeshift="0" group-title="7. Спорт", Матч! HD (Дубль)
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu8609/index.m3u8?token=czoewbz_D6R0fNDHJwHzn2kzNCQmiiXAyV0DWvRJ1eJRkquBbqTf4As_TFloY-gQ.tg6457680141
 #EXTINF:0 tvg-id="chnl-135" tvg-name="Матч! Премьер HD" tvg-logo="http://de1.plist.link/plepg/img/channels/135.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Премьер HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu9135/index.m3u8?token=czoewbz_D6R0fNDHJwHznz2o1ZFGdfZ5pdBUcvaUfl4Sh7FFCoT5PIQQGn6NmKHO.tg6457680141
 #EXTINF:0 tvg-id="chnl-698" tvg-name="Матч! Премьер HD (Дубль)" tvg-logo="http://de1.plist.link/plepg/img/channels/698.png?69c29495ba36e" tvg-rec="0" timeshift="0" group-title="7. Спорт", Матч! Премьер HD (Дубль)
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu8698/index.m3u8?token=czoewbz_D6R0fNDHJwHzn30Rco7sEePFVHg-BCbFbuTpUtwAGoncOUkNiv85kTNY.tg6457680141
 #EXTINF:0 tvg-id="chnl-56" tvg-name="Матч! Игра HD" tvg-logo="http://de1.plist.link/plepg/img/channels/56.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Игра HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu9056/index.m3u8?token=czoewbz_D6R0fNDHJwHzn8gkKnU5zpDx64-8v1Ej7UwHCYnPQyNDue--DBL14K58.tg6457680141
 #EXTINF:0 tvg-id="chnl-55" tvg-name="Матч! Арена HD" tvg-logo="http://de1.plist.link/plepg/img/channels/55.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Арена HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu7055/index.m3u8?token=czoewbz_D6R0fNDHJwHzn54K62EC0Wxe9auWNG5t3_P08N4_fQgwbqK9FULaewJY.tg6457680141
 #EXTINF:0 tvg-id="chnl-471" tvg-name="Матч! Страна HD" tvg-logo="http://de1.plist.link/plepg/img/channels/471.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Страна HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu3471/index.m3u8?token=czoewbz_D6R0fNDHJwHzn5Ul12bf_ZDPj8tpaPWDv6yB2GQd1u73kxic_wd0Iije.tg6457680141
 #EXTINF:0 tvg-id="chnl-36" tvg-name="Матч! Боец HD" tvg-logo="http://de1.plist.link/plepg/img/channels/36.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Боец HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu2036/index.m3u8?token=czoewbz_D6R0fNDHJwHzn-q9X1OJ-iAGgtaGcAKInDinQ5ZspkfdPLRX4aFybWKq.tg6457680141
 #EXTINF:0 tvg-id="chnl-61" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/61.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Футбол 1 HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu3061/index.m3u8?token=czoewbz_D6R0fNDHJwHzn031YmaKz_iTRPCkI7tsQmdfT-MOf1nmnMSvxPsWeygF.tg6457680141
 #EXTINF:0 tvg-id="chnl-62" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/62.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Футбол 2 HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu0062/index.m3u8?token=czoewbz_D6R0fNDHJwHznx4XfqtBe-2lRXF06x0-oA_4YTHcYp8bNzGTLrs8eC9p.tg6457680141
 #EXTINF:0 tvg-id="chnl-63" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/63.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Футбол 3 HD
-#EXTGRP:7. Спорт
+#EXTGRP:7.Max Спорт
 http://de1.plist.link:3355/FGfpnUmovVu4063/index.m3u8?token=czoewbz_D6R0fNDHJwHzn9ZIYSI6eM_6RrqbItFhW0d4KKhUwywamILdCToYv5MG.tg6457680141
 #EXTINF:0 tvg-id="chnl-44" tvg-name="Детский мир" tvg-logo="http://de1.plist.link/plepg/img/channels/44.png?69c29495ba3b1" tvg-rec="3" timeshift="3" group-title="8. Детские", Детский мир
 
