@@ -8844,28 +8844,7 @@ https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",RU.TV
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.shanson.tv/i/logo_191112.png",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://matur-tv.ru/images/logo.png",Матур ТВ
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Майдан
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" ,TRANCE IS STAR RADIO
-https://myradio24.org/tisradio_video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg",30A MUSIC TV
-https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg",COMPANY TV HD
-https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/ima35817922978.jpg",RADIO PADOVA TV
-https://58d921499d3d3.streamlock.net/RadioPadova/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/image65240141377.jpg",RADIO ZETA HD TV
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/image70939143654.jpg",RADIO STUDIO ONE VISUAL TV
-https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
+
 
 
 
@@ -9067,6 +9046,8 @@ http://de1.plist.link:3355/FGfpnUmovVu5385/index.m3u8?token=0QsngQROEYTuEjj4tWrK
 #EXTINF:0 tvg-id="chnl-2843" tvg-name="Муз ТВ +7" tvg-logo="http://de1.plist.link/plepg/img/channels/2843.png?69c29495b9f2a" tvg-rec="0" timeshift="0" group-title="3. Музыкальные", Муз ТВ +7
 #EXTGRP:3. Музыкальные
 http://de1.plist.link:3355/FGfpnUmovVu42843/index.m3u8?token=0QsngQROEYTuEjj4tWrKa6J4ZuTLev9cf4GogKp5fw_CS-1UtzVMuV1uPEKR7Y01.tg6457680141
+
+
 #EXTINF:0 tvg-id="chnl-562" tvg-name="Беларусь 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/562.png?69c29495ba001" tvg-rec="3" timeshift="3" group-title="4. Беларусь", Беларусь 1 HD
 #EXTGRP:4. Беларусь
 http://de1.plist.link:3355/FGfpnUmovVu3562/index.m3u8?token=By3dnvGist3lMb4UGKdXndAjOuMRuETwUpqWSoYkFacKAHdQ-MTIYLvYMxFT4JPr.tg6457680141
@@ -10789,195 +10770,6 @@ http://de1.plist.link:3355/yaUwUzs9RVN32699/index.m3u8?token=oPJi20elbEg-wezNgzC
 #EXTGRP:7. Спорт
 http://de1.plist.link:3355/yaUwUzs9RVN72782/index.m3u8?token=oPJi20elbEg-wezNgzCk9MVbAJpAPTaAnLpyOoO-TwkV0EgqO3yEbjVCOOWETBh_.maxtvnew
 #EXTINF:0 tvg-id="chnl-490" tvg-name="Bridge TV" tvg-logo="http://de1.plist.link/plepg/img/channels/490.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN0490/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2NneqQ0uPTxgVw8ApUwkgnzrl1oXf54y5hPmtAzE3Bfz.maxtvnew
-#EXTINF:0 tvg-id="chnl-493" tvg-name="Bridge TV Hits" tvg-logo="http://de1.plist.link/plepg/img/channels/493.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV Hits
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN5493/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2NF9wvkD9AIBfUirGlYdBxqwR8r-R7X7jjC2UV0rjdxG.maxtvnew
-#EXTINF:0 tvg-id="chnl-491" tvg-name="Bridge TV Deluxe HD" tvg-logo="http://de1.plist.link/plepg/img/channels/491.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV Deluxe HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN7491/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2ChkY8gevOtuv2-TR6wXPsFMJausIkE80sZxjofJLecX.maxtvnew
-#EXTINF:0 tvg-id="chnl-492" tvg-name="Bridge TV Classic" tvg-logo="http://de1.plist.link/plepg/img/channels/492.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV Classic
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN2492/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2LvsnJHzig_77coGS5E_SVRgP7G1Hx6RBR0Feg-n1LgQ.maxtvnew
-#EXTINF:0 tvg-id="chnl-644" tvg-name="Bridge TV Rock" tvg-logo="http://de1.plist.link/plepg/img/channels/644.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV Rock
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN0644/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2OjrVyR5B9sCAK2FCrNrBZgdvVGEXeggcnMGmH3izLJj.maxtvnew
-#EXTINF:0 tvg-id="chnl-548" tvg-name="Bridge TV Шлягер" tvg-logo="http://de1.plist.link/plepg/img/channels/548.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV Шлягер
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN0548/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2NFMpT69fXt4GQPaigcRs1BUnecfaqKIdGXwPV9xGAcP.maxtvnew
-#EXTINF:0 tvg-id="chnl-494" tvg-name="Bridge TV Русский хит" tvg-logo="http://de1.plist.link/plepg/img/channels/494.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV Русский хит
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN4494/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2BvtKjOSjmJIG-ZEh5kbiL6X3OuGKOZot6cdYSh90N9O.maxtvnew
-#EXTINF:0 tvg-id="chnl-30" tvg-name="MTV" tvg-logo="http://de1.plist.link/plepg/img/channels/30.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", MTV
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN9030/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Jjt73iP270bQ7J6pApbHOgjCeDEtj3aCX4M_hEbiLRh.maxtvnew
-#EXTINF:0 tvg-id="chnl-19" tvg-name="MTV Hits" tvg-logo="http://de1.plist.link/plepg/img/channels/19.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", MTV Hits
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN8019/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2NyIjEqZ7C_Byw34fRMnwtXboWk6x3UvCZBN1Mpv3-LT.maxtvnew
-#EXTINF:0 tvg-id="chnl-29" tvg-name="MTV 80s" tvg-logo="http://de1.plist.link/plepg/img/channels/29.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", MTV 80s
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN4029/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2HtPdXg4HestJbRjRV-BMNh-nAbXW6M4dVRoOz4UevHj.maxtvnew
-#EXTINF:0 tvg-id="chnl-20" tvg-name="Муз ТВ" tvg-logo="http://de1.plist.link/plepg/img/channels/20.png?69d67d0b130bf" tvg-rec="3" timeshift="3" group-title="8. Музыкальные", Муз ТВ
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN0020/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2B9ELbunoURZsRbnW1PBavJRP4OzNUGv_h7ZlrwK3Uvh.maxtvnew
-#EXTINF:0 tvg-id="chnl-27" tvg-name="RU.TV" tvg-logo="http://de1.plist.link/plepg/img/channels/27.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", RU.TV
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN2027/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2HahtgXswTpxWwgMHlJ3_wXPFjb4lLfCaviDZ6pnjs0b.maxtvnew
-#EXTINF:0 tvg-id="chnl-324" tvg-name="Stingray iConcerts HD" tvg-logo="http://de1.plist.link/plepg/img/channels/324.png?69d67d0b130bf" tvg-rec="3" timeshift="3" group-title="8. Музыкальные", Stingray iConcerts HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN0324/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2OYwnWCdB3IGvenc5y_LaL15-F17sWLS1OYYDZQHx8vr.maxtvnew
-#EXTINF:0 tvg-id="chnl-1923" tvg-name="Stingray Classica" tvg-logo="http://de1.plist.link/plepg/img/channels/1923.png?69d67d0b130bf" tvg-rec="3" timeshift="3" group-title="8. Музыкальные", Stingray Classica
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN11923/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2DEof3GTqQaFnrEz8r-m30PQfFXPcJh1rmXNga_Srf6O.maxtvnew
-#EXTINF:0 tvg-id="chnl-1921" tvg-name="Stingray Djazz" tvg-logo="http://de1.plist.link/plepg/img/channels/1921.png?69d67d0b130bf" tvg-rec="3" timeshift="3" group-title="8. Музыкальные", Stingray Djazz
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN81921/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2CHJabPg5quIczhAQFr5cu0irTQsAwUqQ8RRfpRII9vp.maxtvnew
-#EXTINF:0 tvg-id="chnl-325" tvg-name="Шансон TB" tvg-logo="http://de1.plist.link/plepg/img/channels/325.png?69d67d0b130bf" tvg-rec="3" timeshift="3" group-title="8. Музыкальные", Шансон TB
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN4325/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2KBKjVtT7wkqhyRzJcUx5Cb4M_09xKxYz2g6DNNaDzXB.maxtvnew
-#EXTINF:0 tvg-id="chnl-328" tvg-name="1HD Music" tvg-logo="http://de1.plist.link/plepg/img/channels/328.png?69d67d0b130bf" tvg-rec="3" timeshift="3" group-title="8. Музыкальные", 1HD Music
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN9328/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2ArQ5KYGsQplgP8Ts_iCEdRwnSxN99FGUVxFdhm0gj4T.maxtvnew
-#EXTINF:0 tvg-id="chnl-523" tvg-name="Музыка Live" tvg-logo="http://de1.plist.link/plepg/img/channels/523.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Музыка Live
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN9523/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2LaA5t3wudxKp3CDtaPLoZ0HXS__0lXnK-ouen8PDp8n.maxtvnew
-#EXTINF:0 tvg-id="chnl-529" tvg-name="Жара HD" tvg-logo="http://de1.plist.link/plepg/img/channels/529.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Жара HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN8529/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2BJzA5NOSGjGxtAN6_St5bSnlwRSIRpmGZms_X6oHsFn.maxtvnew
-#EXTINF:0 tvg-id="chnl-555" tvg-name="Russian MusicBox HD" tvg-logo="http://de1.plist.link/plepg/img/channels/555.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Russian MusicBox HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN2555/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2I-YWxbEjaCDAHnrVGkG0Je7BchiNsXiJYiFs5g2dtvS.maxtvnew
-#EXTINF:0 tvg-id="chnl-650" tvg-name="Music Box Gold" tvg-logo="http://de1.plist.link/plepg/img/channels/650.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Music Box Gold
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN8650/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Frp1DNck2wdBZDMMJ5bfOVPM1v2rBYs3wUsfhQ3CtPQ.maxtvnew
-#EXTINF:0 tvg-id="chnl-615" tvg-name="Музыка Первого" tvg-logo="http://de1.plist.link/plepg/img/channels/615.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Музыка Первого
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN6615/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2HX_C1P9Io5l0DD8h07XKoQkDQApJQZPxq3NXeNAJLWi.maxtvnew
-#EXTINF:0 tvg-id="chnl-716" tvg-name="ТНТ Music HD" tvg-logo="http://de1.plist.link/plepg/img/channels/716.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", ТНТ Music HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN9716/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2DE0y7rYaIbAA8OG2F1CMXSG5r1FYofgsU_mIj4ffW_f.maxtvnew
-#EXTINF:0 tvg-id="chnl-661" tvg-name="AIVA HD" tvg-logo="http://de1.plist.link/plepg/img/channels/661.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", AIVA HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN5661/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2EJSG4TSc8TealixWw1XmVCMuZzpYm7E09CpWdew9_w-.maxtvnew
-#EXTINF:0 tvg-id="chnl-715" tvg-name="Europa Plus TV HD" tvg-logo="http://de1.plist.link/plepg/img/channels/715.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Europa Plus TV HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN7715/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2LX-DFkRZBRaWH7EiK7RwiRsW_pmf-QY5fWxvhv0IIka.maxtvnew
-#EXTINF:0 tvg-id="chnl-1220" tvg-name="MM Rock HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1220.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", MM Rock HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN71220/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2CMQEw7_rpfF5G458_F9WLvEL4yOmqd5wfCPOyzHQ_fu.maxtvnew
-#EXTINF:0 tvg-id="chnl-1228" tvg-name="MM World Hits HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1228.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", MM World Hits HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN61228/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2GvGKhvsZ9ch-zxkTr8xK7a5bB2VQOC1LjrKYu1gqQQe.maxtvnew
-#EXTINF:0 tvg-id="chnl-1240" tvg-name="MM Квартирник HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1240.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", MM Квартирник HD
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN71240/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2BmEbyOsHzyfNqY6wAGPRLLTXqWhhqNv_-LshGHsVl5o.maxtvnew
-#EXTINF:0 tvg-id="chnl-2850" tvg-name="Deluxe Dance" tvg-logo="http://de1.plist.link/plepg/img/channels/2850.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Deluxe Dance
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN32850/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2G-xg1xYw0IDe9wHCQHNQzJsK9OKkcjtcRiloex_v1Ci.maxtvnew
-#EXTINF:0 tvg-id="chnl-2848" tvg-name="V2BEAT TV" tvg-logo="http://de1.plist.link/plepg/img/channels/2848.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", V2BEAT TV
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN42848/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2IOvKqJiomvy_GO_WzWQRD3Jlnm8wtkYFKguQgfSTqRn.maxtvnew
-#EXTINF:0 tvg-id="chnl-31" tvg-name="Kronehit" tvg-logo="http://de1.plist.link/plepg/img/channels/31.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Kronehit
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN0031/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Jb8WdoV0e70gyCjrz5kN-JNbAg-w7xeM-Eme2qFQuoJ.maxtvnew
-#EXTINF:0 tvg-id="chnl-2333" tvg-name="M2O TV" tvg-logo="http://de1.plist.link/plepg/img/channels/2333.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", M2O TV
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN92333/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2GB_vYhKV34Lv3ZtbciZXRDxAIA22QsWQt_PryzQIlel.maxtvnew
-#EXTINF:0 tvg-id="chnl-2847" tvg-name="MOOZ Dance" tvg-logo="http://de1.plist.link/plepg/img/channels/2847.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", MOOZ Dance
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN82847/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2LV2-glwkmuesEsujwujlwE7TvJpJAU8I0XkTL2lGVzU.maxtvnew
-#EXTINF:0 tvg-id="chnl-20001" tvg-name="Dance TV Best Of" tvg-logo="http://de1.plist.link/plepg/img/channels/20001.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV Best Of
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN920001/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2P17aZnpv0OAI-tVXEAqsY-TPDSyL_kLa70mZYrCdVB4.maxtvnew
-#EXTINF:0 tvg-id="chnl-10006" tvg-name="Dance TV Chill AF Downtempo" tvg-logo="http://de1.plist.link/plepg/img/channels/10006.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV Chill AF Downtempo
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN510006/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2CDz0ln8G1wJ-e5aLYe3PRR0xIcXcU-5sKBN0Ham8z18.maxtvnew
-#EXTINF:0 tvg-id="chnl-392" tvg-name="Dance TV Melodic Tech" tvg-logo="http://de1.plist.link/plepg/img/channels/392.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV Melodic Tech
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN7392/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2IoMpYoTxyNz2-ypaMhm2eRIAitOB3D9YXDjmYhJmPc4.maxtvnew
-#EXTINF:0 tvg-id="chnl-635" tvg-name="Dance TV Mainstream EDM" tvg-logo="http://de1.plist.link/plepg/img/channels/635.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV Mainstream EDM
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN6635/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2GkyOAnVUyan8JrLyXIUPi-BIZfHT6VcRCWg7LzolGg-.maxtvnew
-#EXTINF:0 tvg-id="chnl-455" tvg-name="Dance TV MiNiMaL" tvg-logo="http://de1.plist.link/plepg/img/channels/455.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV MiNiMaL
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN8455/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2P37njDFWwmiJxhsHh6b9XVFxd57rern-VuX92eLlq6f.maxtvnew
-#EXTINF:0 tvg-id="chnl-2620" tvg-name="Dance TV House Floor" tvg-logo="http://de1.plist.link/plepg/img/channels/2620.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV House Floor
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN12620/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Oi43Rz18Nontonovn1V-DIsekUACvQG1STmc7FPhoO1.maxtvnew
-#EXTINF:0 tvg-id="chnl-1918" tvg-name="Dance TV Tech House Terrace" tvg-logo="http://de1.plist.link/plepg/img/channels/1918.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV Tech House Terrace
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN21918/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Nxp2wSLTUF8HQoXyZn4feSqD1lmYs6P6twtT0JjtXqe.maxtvnew
-#EXTINF:0 tvg-id="chnl-556" tvg-name="Dance TV Techno Warehouse" tvg-logo="http://de1.plist.link/plepg/img/channels/556.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV Techno Warehouse
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN9556/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2L_Cm2yPKAxeQKgk0_bstSjlyFd8_CB9L0Avaxw8T-wx.maxtvnew
-#EXTINF:0 tvg-id="chnl-10004" tvg-name="Dance TV Deep House District" tvg-logo="http://de1.plist.link/plepg/img/channels/10004.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Dance TV Deep House District
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN810004/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Aukd8z8QW4xYxPpzDove63Zks3bNXHq8hHl0TTro2xk.maxtvnew
-#EXTINF:0 tvg-id="chnl-402" tvg-name="Trace urban" tvg-logo="http://de1.plist.link/plepg/img/channels/402.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Trace urban
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN8402/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2CFzJZWSk8j7I8f1hUH8jO6eBl7SEc5YmZfzIFp7Rtse.maxtvnew
-#EXTINF:0 tvg-id="chnl-631" tvg-name="TRACE URBAN International" tvg-logo="http://de1.plist.link/plepg/img/channels/631.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE URBAN International
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN1631/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Avoe8oAPapVmoIvCapwdSc8jWXSX1zcGDZf0cHeFBlf.maxtvnew
-#EXTINF:0 tvg-id="chnl-2439" tvg-name="TRACE UK United Kindom" tvg-logo="http://de1.plist.link/plepg/img/channels/2439.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE UK United Kindom
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN42439/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2GSLld0yzCi3jFYxS2zqfq-CjNRkf2WOepZQHOeTZuL2.maxtvnew
-#EXTINF:0 tvg-id="chnl-20050" tvg-name="TRACE URBAN France" tvg-logo="http://de1.plist.link/plepg/img/channels/20050.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE URBAN France
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN420050/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2CRz0JRW2yuMgJWxw1aGRp2O1lnpycUsHCLBcfFd1bTI.maxtvnew
-#EXTINF:0 tvg-id="chnl-633" tvg-name="TRACE BRAZIL Brazil" tvg-logo="http://de1.plist.link/plepg/img/channels/633.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE BRAZIL Brazil
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN5633/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2M-1-0WP73IMxfqYZxilC0UFN8Db134MF9O528stg-J7.maxtvnew
-#EXTINF:0 tvg-id="chnl-1878" tvg-name="TRACE LATINA Latin America" tvg-logo="http://de1.plist.link/plepg/img/channels/1878.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE LATINA Latin America
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN81878/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2KBThIVTunaxI6wI_6nWR-nCOSkVV6mpqhY-304PPOaa.maxtvnew
-#EXTINF:0 tvg-id="chnl-503" tvg-name="TRACE AYITI Haiti" tvg-logo="http://de1.plist.link/plepg/img/channels/503.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE AYITI Haiti
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN6503/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Ki_XWQzP8-dFSi32YnCAl7Mf_dbHUruSO3UfshY4JCx.maxtvnew
-#EXTINF:0 tvg-id="chnl-1985" tvg-name="TRACE GOSPEL Africa Franco" tvg-logo="http://de1.plist.link/plepg/img/channels/1985.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE GOSPEL Africa Franco
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN01985/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2IT2zEyp2FVRvgya14QShJUu1z0Lnnw94FSVLeTn6_fg.maxtvnew
-#EXTINF:0 tvg-id="chnl-721" tvg-name="TRACE NGOMA South Africa" tvg-logo="http://de1.plist.link/plepg/img/channels/721.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE NGOMA South Africa
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN3721/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2I6ULQN6OGJPSzz9wKJxNtuxb1WAGwU3xE5_FhAxx4OT.maxtvnew
-#EXTINF:0 tvg-id="chnl-381" tvg-name="TRACE URBAN Africa Franco" tvg-logo="http://de1.plist.link/plepg/img/channels/381.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE URBAN Africa Franco
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN6381/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2P8k9z2PDhh-rJtfRY-HWnmq_DPQAEZwsLtGi9IfFdek.maxtvnew
-#EXTINF:0 tvg-id="chnl-248" tvg-name="TRACE TOCA Angola CVerde Mozambique" tvg-logo="http://de1.plist.link/plepg/img/channels/248.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE TOCA Angola CVerde Mozambique
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN9248/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Ey0KmQKj4z5nPehtz0A4s3CuDFB1xXbak6iWcsYrdYs.maxtvnew
-#EXTINF:0 tvg-id="chnl-651" tvg-name="TRACE GOSPEL Southern Africa" tvg-logo="http://de1.plist.link/plepg/img/channels/651.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE GOSPEL Southern Africa
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN8651/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2FMgT9xkUX6DTAcEMjOzLplEV2TSwHFJPyqKi3dqIvL9.maxtvnew
-#EXTINF:0 tvg-id="chnl-247" tvg-name="TRACE NAIJA Nigeria" tvg-logo="http://de1.plist.link/plepg/img/channels/247.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE NAIJA Nigeria
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN7247/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2P9cY4KWMl-ieV9YjBsRe-VXt_kHSBrrgORMTuBiclUk.maxtvnew
-#EXTINF:0 tvg-id="chnl-415" tvg-name="TRACE URBAN Southern Africa" tvg-logo="http://de1.plist.link/plepg/img/channels/415.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE URBAN Southern Africa
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN6415/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2HfutIE3MSEfIcVu8x1sitDkcXMelaD0WzKZR7Y5uuV1.maxtvnew
-#EXTINF:0 tvg-id="chnl-840" tvg-name="TRACE URBAN Caribbean and Indian Ocean" tvg-logo="http://de1.plist.link/plepg/img/channels/840.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE URBAN Caribbean and Indian Ocean
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN1840/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2PkmJkeLN0xezoIsFw_V5LuJ-yU7dB-G6DrftTr9nUy-.maxtvnew
-#EXTINF:0 tvg-id="chnl-623" tvg-name="TRACE JAMA Ghana" tvg-logo="http://de1.plist.link/plepg/img/channels/623.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE JAMA Ghana
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN3623/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2KVWEr7IfKvKefE9Iioo3_NulCs49GCVaYxlouxBs14C.maxtvnew
-#EXTINF:0 tvg-id="chnl-663" tvg-name="TRACE GOSPEL Nigeria and East Africa" tvg-logo="http://de1.plist.link/plepg/img/channels/663.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE GOSPEL Nigeria and East Africa
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN6663/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2DQ9kVp5hEkfcXwIIxU5y5IXVsfKZ2HDCR_yog1w0_OP.maxtvnew
-#EXTINF:0 tvg-id="chnl-2603" tvg-name="TRACE AFRICA Francophone" tvg-logo="http://de1.plist.link/plepg/img/channels/2603.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE AFRICA Francophone
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN82603/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2MOEUMIN6PtBebkOSFiItPBuEBq7T6xUvilz58PgZmnC.maxtvnew
-#EXTINF:0 tvg-id="chnl-1768" tvg-name="TRACE MUZICA Ethiopia" tvg-logo="http://de1.plist.link/plepg/img/channels/1768.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE MUZICA Ethiopia
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN01768/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2Lg1Mfj5ug_CVVe5xVBKHtYNP10VUAKDcv4d7CIUOAVr.maxtvnew
-#EXTINF:0 tvg-id="chnl-10001" tvg-name="TRACE CARIBBEAN Caribbean" tvg-logo="http://de1.plist.link/plepg/img/channels/10001.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE CARIBBEAN Caribbean
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN410001/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2HeIViz8JnErg-Xxx89oycWwOZ4wyWsGX-oyWIebjA9j.maxtvnew
-#EXTINF:0 tvg-id="chnl-2005" tvg-name="TRACE IVOIRE Ivory Coast" tvg-logo="http://de1.plist.link/plepg/img/channels/2005.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", TRACE IVOIRE Ivory Coast
-#EXTGRP:8. Музыкальные
-http://de1.plist.link:3355/yaUwUzs9RVN12005/index.m3u8?token=P22o9qE9dkEl93-IZ-qU2FIdKY1Ylz86PQUgIJIXFWv9IzKIT15H8a26lZDbnwSX.maxtvnew
-#EXTINF:0 tvg-id="chnl-20051" tvg-name="TRACE VANILLA Indian Ocean" tvg-logo="http://de1.plist.link/plepg/img/channels/20051.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные%
 
 
 
@@ -10990,7 +10782,11 @@ http://de1.plist.link:3355/yaUwUzs9RVN12005/index.m3u8?token=P22o9qE9dkEl93-IZ-q
 
 
 
- #EXTINF:0 tvg-logo="https://cdn.epg.one/img/146.png" group-title="Информационные",ПЕРВЫЙ канал
+
+
+
+
+#EXTINF:0 tvg-logo="https://cdn.epg.one/img/146.png" group-title="Информационные",ПЕРВЫЙ канал
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0 tvg-logo="https://cdn.epg.one/img/711.png" group-title="Информационные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
