@@ -10193,6 +10193,7 @@ http://de1.plist.link:3355/yaUwUzs9RVN02819/index.m3u8?token=rJIHCDfbPYNMCmSU4qj
 #EXTGRP:1. Федеральные
 http://de1.plist.link:3355/yaUwUzs9RVN820055/index.m3u8?token=rJIHCDfbPYNMCmSU4qjlhkPqESRvRO4uCPjp-WSgB3_RNHbQEb8FknPGjCzxEa4V.maxtvnew
 #EXTINF:0 tvg-id="chnl-88" tvg-name="Дождь HD" tvg-logo="http://de1.plist.link/plepg/img/channels/88.png?69d67d0b129f3" tvg-rec="3" timeshift="3" group-title="2. Новостные", Дождь HD
+
 #EXTGRP:2. Новостные
 http://de1.plist.link:3355/yaUwUzs9RVN4088/index.m3u8?token=Ra_F_pnVD7HGKreQmWhNJ6LKFzyjRvCcSIcCGEiWkqZIFoymaJrWHSfvW9kFTq0H.maxtvnew
 #EXTINF:0 tvg-id="chnl-7" tvg-name="Россия 24" tvg-logo="http://de1.plist.link/plepg/img/channels/7.png?69d67d0b129f3" tvg-rec="0" timeshift="0" group-title="2. Новостные", Россия 24
