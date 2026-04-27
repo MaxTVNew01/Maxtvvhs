@@ -70,8 +70,6 @@ https://s04.watcher.uz/59/video.m3u8?
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="SevimliTV.uz@SD" tvg-logo="https://i.imgur.com/iMwzRlr.png" group-title="Biz",Sevimli TV (1080p)
-https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="AndijonMTRK.uz@SD" tvg-logo="https://i.imgur.com/EGPAvom.jpeg" group-title="Biz",Andijon MTRK (576i)
 https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BIZCinema.uz@SD" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Biz",BIZ Cinema (1080p)
