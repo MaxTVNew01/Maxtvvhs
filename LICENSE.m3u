@@ -658,6 +658,153 @@ https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 
 
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
+#EXTINF:-1 tvg-id="Badakhshon.tj" group-title="TJ",Badakhshon
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-id="DushanbeHD.tj" group-title="TJ",Dushanbe HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj" group-title="TJ",Futbol
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" group-title="TJ",Ilm va Tabiat
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="Jahonnamo.tj" group-title="TJ",Jahonnamo
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-id="Khatlon.tj" group-title="TJ",Khatlon
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-id="TMT.tj" group-title="TJ",TMT
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-id="Tojikiston.tj" group-title="TJ",Tojikiston
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-id="TVBahoriston.tj" group-title="TJ",TV Bahoriston
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-id="TVKulob.tj" group-title="TJ",TV Kulob
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj" group-title="TJ",TV Sayohi
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="TVSugd.tj" group-title="TJ",TV Sugd
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 tvg-id="Badakhshon.tj" group-title="TJ",Badakhshon
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-id="DushanbeHD.tj" group-title="TJ",Dushanbe HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj" group-title="TJ",Futbol
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" group-title="TJ",Ilm va Tabiat
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="Jahonnamo.tj" group-title="TJ",Jahonnamo
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-id="Khatlon.tj" group-title="TJ",Khatlon
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-id="TMT.tj" group-title="TJ",TMT
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-id="Tojikiston.tj" group-title="TJ",Tojikiston
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-id="TVBahoriston.tj" group-title="TJ",TV Bahoriston
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-id="TVKulob.tj" group-title="TJ",TV Kulob
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj" group-title="TJ",TV Sayohi
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="TVSugd.tj" group-title="TJ",TV Sugd
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан",ТВ-Хатлон
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/hatlon/index.m3u8
+#EXTINF:-1 group-title="Таджикистан",ТВ-Кулоб
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/kulob/index.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Сугд HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/sugd/index.m3u8
+#EXTINF:-1 group-title="Таджикистан" tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png",ТМТ Шахнавоз HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/tmt/index.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Точикистон HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/tojikiston/index.m3u8
+#EXTINF:-1 group-title="Таджикистан",ТВ-Хатлон
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,ТВ Бадахшон
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан",ТВ-Кулоб
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Сугд HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Илм ва табиат HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,ТВ «Сайёхй ва хунархои мардуми» HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,ТВ Сафина HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,ТВ Бахористан HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Чахоннамо HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,ТВ Синамо HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Душанбе HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан" tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png",ТМТ Шахнавоз HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 group-title="Таджикистан",ТВ-Хатлон
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/hatlon/index.m3u8
+#EXTINF:-1 group-title="Таджикистан",ТВ-Кулоб
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/kulob/index.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Сугд HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/sugd/index.m3u8
+#EXTINF:-1 group-title="Таджикистан" tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png",ТМТ Шахнавоз HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/tmt/index.m3u8
+#EXTINF:-1 group-title="Таджикистан" ,Точикистон HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream2.somon.tv/tojikiston/index.m3u8
+#EXTINF:-1 tvg-id="TVSafina.tj" group-title="",TV Safina
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-id="TVSinamo.tj" group-title="",TV Sinamo
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/6/3m.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Таджикистан",Safina
 https://live.teleradiocom.tj/2/3m.m3u8
