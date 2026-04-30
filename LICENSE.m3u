@@ -19004,4 +19004,82 @@ https://files.uzmovi.club/film7/kfaa/25qism.mp4
 #EXTINF:-1 tvg-logo="http://uzbeklar.biz/uploads/posts/2024-04/1713677392_kung.jpg" group-title="📁 Kung Fu Panda (m/s)",KFP Ajoyib afsonalar 26-qism
 https://files.uzmovi.club/film7/kfaa/26qism.mp4
 
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//1aeb7567f3f28c5442c6f39e810f8734-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Radio Retro FM (UZ)
+EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://classicfm.uz:8444/retrofm.ogg
+#EXTINF:-1 tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/28//e7d7d5d7fdc9003c3670e0d05022e420-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»",Radio Classic FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://classicfm.uz:8444/classic.ogg
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/27//71c9d7b00e8732279f9b45b1906f746f-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Radio O'zbegim Taronasi (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://fm101.uz:9943/fm101_low.aac
+#EXTINF:-1 tvg-logo="https://qalbimnavosi.uz/tmp/images/default.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Qalbim Navosi (UZ)
+http://tabassum.uz:9000/alo_low
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/01/16//831e49fb69f8612123c28fa0ac7bec7e-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", ORIAT DONO FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://oriat.mediabay.uz/oriatdono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323301606356619265/ZnPE9iKX_200x200.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Islom uz FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://radio.islom.uz:8000/islomuz
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/arg4jfcxh6ye.png" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Sezam FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://sezamfm.com:8000/stream
+#EXTINF:-1 tvg-logo="https://logos.telegram-store.com/channels/yolgiz-yurak-kanali/telegram_logo.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Yolg'iz Yurak FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://s1.muz.uz:9000/alo_low
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//dd4e381c665b83becb781a4642ec795e-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Maxima FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://classicfm.uz:8444/maxima.ogg
+#EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/65dd388dd6326.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»",Timsol online (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://stream.zeno.fm/cqtrku1o8bbuv
+#EXTINF:-1 tvg-logo="https://onlayn-radio.ru/uploads/posts/2023-10/c5006eaaa38a1b85e807e170ae5c615a_165x165.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»",See The Sea FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://listen5.myradio24.com/seethesea
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//f017a3c1aaaf894f1468619c11c36448-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Nostalgie FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://classicfm.uz:8444/nostalgie.ogg 
+#EXTINF:-1 tvg-logo="https://mediamarkaz.com/assets/css/images/logo-radiomarkaz.png" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Radio Markaz FM (UZ
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://navruzfm.uz:9000/navruz_low
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/DykFN7SxkePrMOXxYN66hjWWXH8_6Tq2n_9pnS49JK8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0loc2VWakFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l4c1NpdWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4NTUzMjg2MDAwMA.webp" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»",Khalifa FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://stream.zeno.fm/y8gdyaatxhhvv
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/_NEWIjWivummfnQZtvYTC87MJBgTPFT0j8QbkBeMCpQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMjRlNGVhZWQtN2ZmYi00ZjFjLWExMTgtZmQzMWRhNzNiZjU5L2ltYWdlLz91PTE3NTg2NDY1NTcwMDA.webp" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»",RMPlay UZ (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://stream.zeno.fm/jnkkmrfelsytv
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/02/01//404d9b349d0b2098dd55d1d9e8590af6-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Hit FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://ns10.jethost.uz:8000/yoshlarovoziaac
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/RibijRS0TougR3GVk-Liw7Ecg65PddTGQSEYyxt55X4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDYzYjYwYzYtM2VhMS00YWFhLTg5NTEtNjFlNDgzZDI3NDZiL2ltYWdlLz91PTE3MDE2OTU2NjMwMDA.webp" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»",Yangi Radio FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://stream.zeno.fm/f2aawo8h0qguv
+#EXTINF:-1 tvg-logo="https://topradio.mobi/screen/1666816569_2000_s_radio_nulevih__samarkand_uzbekistan.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»",2000's (Ð Ð°Ð´Ð¸Ð¾ Ð½ÑƒÐ»ÐµÐ²Ñ‹Ñ…) (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://stream.zeno.fm/fwstad5837zuv
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/09/18//d5aeffa30d4cff8814e1a3fdb23e663c-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Oriat FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://194.5.152.248:8000/fm
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/01/16//831e49fb69f8612123c28fa0ac7bec7e-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Oriat Dono (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+http://194.5.152.248:8000/dono
+#EXTINF:-1 tvg-logo="https://pcradio.ru/images/stations/61b09c7e67a61.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Jahon Taronalari FM (UZ)
+#EXTGRP:ðŸ“»O'zbekiston RadiokanallariðŸ“»
+https://stream.zeno.fm/9tihlbuqde6tv
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/30dX8auRdXSAUhdKKedX5Fr-M7chFGgNzVv6SiwQDLM/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRElrZWFzOWdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElrZWItc2dvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc2MjQxNTIwNzAwMA.webp" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", SUPER uz FM (UZ)
+https://stream.zeno.fm/b7ye4q0k3zhvv
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/c3/01/c30170851261b7c00f8863158351a84f.png" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", AxTeD_AD FM (UZ)
+https://stream.zeno.fm/gnsnxsq1znhvv
+#EXTINF:-1 tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/27//336c15027520a248a74d73b0ef500503-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Temp FM (UZ)
+https://tempradio-live.uz/streamaac
+#EXTINF:-1 tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/28//fe86f2498716bb7b610ad10a3d7f51f5-q-500x500.jpeg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Truck FM (UZ)
+https://fm.truckfm.uz:8000/64
+#EXTINF:-1 tvg-logo="https://topradio.mobi/screen/1696360304-radio-bassted-tashkent-uzbekistan.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", BassTeD FM (UZ)
+https://stream.zeno.fm/h6dbebwv0nhvv
+#EXTINF:-1 tvg-logo="https://topradio.mobi/screen/1651642299_life_fm_tashkent_uzbekistan.jpg" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", Life FM (UZ)
+https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/vGJgHmg-lvbAFGpdJt_vJTalUb4WuQukGgQs2I2A3EI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjNjZDAzZGUtNTU1Yi00MjQyLTgwMjUtODNmMTUxOWMwYmFmL2ltYWdlLz91PTE2Njk3MzE3OTIwMDA.webp" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", TECHNORADIO FM (UZ)
+https://stream.zeno.fm/64ox9cg1w0quv
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/exoXZZNr7cfCILQxTDWsas73-xSYOPVQLG7qPK66L2Q/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYmJhNmZkMDYtYWYxMy00YTQ2LThiYzgtYzM4OWJhYTMyYjY4L2ltYWdlLz91PTE3MzExNzc2NDMwMDA.webp" group-title="ðŸ“»O'zbekiston RadiokanallariðŸ“»", M-Estrada FM (UZ)
+https://eastrica.uz:8000/uzb
