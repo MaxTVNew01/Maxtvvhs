@@ -1,5 +1,12 @@
 #EXTINF:-1 tvg-logo="" group-title="💬",Info
 https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
+
+
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400
+#EXTINF:-1 group-title="Uzbekiston Telekanallari" tvg-logo="https://m3u.usite.pro/tv/sev.webp",Sevimli
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://stream1.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Узбекистан",Setanta1
 https://goo.su/t41dpz
 #EXTINF:-1 group-title="Узбекистан",Milliy
