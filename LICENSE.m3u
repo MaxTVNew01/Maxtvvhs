@@ -70,6 +70,135 @@ https://s04.watcher.uz/59/video.m3u8?
 
 
 
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Dunyo bo`ylab" tvg-name="UZ: Dunyo Boylab" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/dunyo.png",Dunyo bo'ylab
+http://cdn.vivamax.pro/DunyoBoylab/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="UzReport" tvg-name="UZ: UzReport TV HD" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/uzreport.png",UzReport
+http://cdn.vivamax.pro/UzReport/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Uzbekistan" tvg-name="UZ: Uzbekiston" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ozbekiston.png",O'zbekiston
+http://cdn.vivamax.pro/Ozbekiston/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="O`zbekiston 24 HD" tvg-name="UZ: Uzbekiston 24 HD" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ozbekiston24.png",O`zbekiston 24
+http://cdn.vivamax.pro/Ozbekiston24/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="O`zbekiston tarixi FHD" tvg-name="UZ: Uzbekiston Tarixi" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ozbekistontarixi.png",O`zbekiston Tarixi
+http://cdn.vivamax.pro/OzbekistonTarixi/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="MY5 HD" tvg-name="UZ: My 5 HD" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/my5uz.png",MY5
+http://cdn.vivamax.pro/My5/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="ZO`R TV HD" tvg-name="UZ: Zor TV HD" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/zor.png",ZO`R TV
+http://cdn.vivamax.pro/Zor/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Navo" tvg-name="UZ: Navo" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/navo.png",Navo
+http://cdn.vivamax.pro/Navo/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Milliy TV HD" tvg-name="UZ: Milliy TV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/milliy.png",Milliy TV
+http://cdn.vivamax.pro/MilliyTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Bolajon" tvg-name="UZ: Bolajon" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/bolajon.png",Bolajon
+http://cdn.vivamax.pro/Bolajon/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Sevimli TV" tvg-name="UZ: Sevimli TV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/sevimli.png",Sevimli TV
+http://cdn.vivamax.pro/Sevimli/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Yoshlar" tvg-name="UZ: Yoshlar" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/yoshlar.png",Yoshlar TV
+http://cdn.vivamax.pro/Yoshlar/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Toshkent" tvg-name="UZ: Toshkent" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/toshkent.png",Toshkent
+http://cdn.vivamax.pro/Toshkent/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/aqlvoy.png",Aqlvoy
+http://cdn.vivamax.pro/Aqlvoy/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Mahalla" tvg-name="UZ: Mahalla" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/mahalla.png",Mahalla
+http://cdn.vivamax.pro/Mahalla/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Madaniyat va Marifat" tvg-name="UZ: Madaniyat va Marifat" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/madaniyat.png",Madaniyat va Ma'rifat
+http://cdn.vivamax.pro/Madaniyat/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="RenessansTV" tvg-name="UZ: Renessans TV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/renessans.png",Renessans TV
+http://cdn.vivamax.pro/RenessansTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" tvg-name="UZ: Dastarkhan TV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/dastarkhan.png",Dasturxon TV
+http://cdn.vivamax.pro/Dastarkhan/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="FTV telekanali" tvg-name="UZ: FTV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ftvuz.png",FTV UZ
+http://cdn.vivamax.pro/FTV_UZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/andijon.png",Andijon
+http://cdn.vivamax.pro/Andijon/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/fargona.png",Farg'ona
+http://cdn.vivamax.pro/Fergana/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/namangan.png",Namangan TV
+http://cdn.vivamax.pro/Namangan/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Kinoteatr HD" tvg-name="UZ: Kinoteatr" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/kinoteatr.png",Kinoteatr
+http://cdn.vivamax.pro/Kinoteatr/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/kinoteatr.uz.png",Kinoteatr.uz
+http://cdn.vivamax.pro/KinoteatrUZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Biz TV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/biztv.png",Biz TV
+http://cdn.vivamax.pro/BizTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/bizcinema.png",Biz Cinema
+http://cdn.vivamax.pro/BizCinema/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/bizmusic.png",Biz Music
+http://cdn.vivamax.pro/BizMusic/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Sport UZ HD" tvg-name="UZ: Sport" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/SportUZ.png",Sport UZ
+http://cdn.vivamax.pro/SportUZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Foreign Languages" tvg-name="Foreign Languages" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/futboltv.png",Futbol TV
+http://cdn.vivamax.pro/Futbol/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Setanta 1 [UZ]" tvg-name="Setanta 1 [UZ]" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/setanta1ge.png",Setanta Sports 1 UZ
+http://cdn.vivamax.pro/SetantaSports1UZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Setanta 2 [UZ]" tvg-name="Setanta 2 [UZ]" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/setanta2ge.png",Setanta Sports 2 UZ
+http://cdn.vivamax.pro/SetantaSports2UZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="iTV Cinema" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/itvcinema.png",ITV Cinema
+http://cdn.vivamax.pro/ITVCinema/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/itvmusic.png",ITV Music
+http://cdn.vivamax.pro/ITVMusic/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/taraqqiyot.png",Taraqqiyot TV
+http://cdn.vivamax.pro/Taraqqiyot/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/nurafshon.png",Nurafshon TV
+http://cdn.vivamax.pro/Nurafshon/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/s-ikbol.png",S-Ikbol
+http://cdn.vivamax.pro/S-Ikbol/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/luxetvuz.png",LUX TV
+http://cdn.vivamax.pro/LUX.TV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/istiqlol.png",Istiqlol TV
+http://cdn.vivamax.pro/IstiqlolTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ntvuz.png",NTV UZ
+http://cdn.vivamax.pro/ntv_uz/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/muztvuzbekistan.png",Muz TV O'zbekiston
+http://cdn.vivamax.pro/MuzTVOzbekiston/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/shifotv.png",Shifo TV
+http://cdn.vivamax.pro/ShifoTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/goldtvuz.png",Gold UZ TV
+http://cdn.vivamax.pro/GoldTVUZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/mydaytv.png",MYDAYTV
+http://cdn.vivamax.pro/MYDAYTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/xorazm.png",Xorazm TV
+http://cdn.vivamax.pro/Xorazm/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/vodiytv.png",Vodiy TV
+http://cdn.vivamax.pro/VodiyTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/mimitv.png",MiMi TV
+http://cdn.vivamax.pro/MimiTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="TTV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ttvuz.png",TTV
+http://cdn.vivamax.pro/TTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ttvkino.png",TTV Kino
+http://cdn.vivamax.pro/TTVKino/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ttvmusiqa.png",TTV Musiqa
+http://cdn.vivamax.pro/TTVMusiqa/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/jizzax.png",Jizzax TV
+http://cdn.vivamax.pro/JizzaxTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ishonchtv.png",Ishonch TV
+http://cdn.vivamax.pro/ishonchTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/etvuz.png",Ellikqal'a TV
+http://cdn.vivamax.pro/EllikqalaTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/8tvuz.png",8TV UZ
+http://cdn.vivamax.pro/8TVUZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/amudaryotv.png",Amudaryo TV
+http://cdn.vivamax.pro/AmudaryoTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/nasaftv.png",Nasaf TV
+http://cdn.vivamax.pro/NasafTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/jaslartv.png",Jaslar TV
+http://cdn.vivamax.pro/JaslarTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/muloqot.png",Muloqot TV
+http://cdn.vivamax.pro/MuloqotTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/makontv.png",Makon TV
+http://cdn.vivamax.pro/MakonTVUZ/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/denovtv.png",Denov TV
+http://cdn.vivamax.pro/DenovTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/qiziqtv.png",Qiziq TV
+http://cdn.vivamax.pro/QiziqTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Ruxsor TV" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/ruxsortv.png",Ruxsor TV
+http://cdn.vivamax.pro/RuxsorTV/index.m3u8?token=bf0787519b40
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Uzbekistan 🇺🇿" tvg-logo="http://logo.vivamax.pro/logo/retrotvuz.png",Retro TV UZ
+#Generated: 2026-05-07T16:42:30.716303
+#Adult: Enabled
+http://cdn.vivamax.pro/RetroUZ/index.m3u8?token=bf0787519b40
+
+
+
 
   
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
