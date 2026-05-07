@@ -3007,7 +3007,1023 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
 
-
+#EXTINF:0 tvg-rec="0",Окко Футбол UHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19430/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 UHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19432/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 UHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19431/index.m3u8
+#EXTINF:0 tvg-rec="0",Megogo 🏆 SPORT HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31612/index.m3u8
+#EXTINF:0 tvg-rec="0",Megogo Футбол 4 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31613/index.m3u8
+#EXTINF:0 tvg-rec="0",Megogo Футбол 5 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31614/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Tennis HD 50 UK
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6546/index.m3u8
+#EXTINF:0 tvg-rec="0",Megogo Гонг HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31503/index.m3u8
+#EXTINF:0 tvg-rec="0",Megogo Футбол 3 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31504/index.m3u8
+#EXTINF:0 tvg-rec="0",Megogo Футбол 2 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31505/index.m3u8
+#EXTINF:0 tvg-rec="0",Megogo Футбол 1 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31483/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 7
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31450/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 8
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31451/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 9
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31452/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 10
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31453/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 11
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31454/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 12
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31457/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 13
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31458/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 14
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31459/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 15
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31463/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 16
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31522/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 17
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31523/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 18
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31524/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 19
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31525/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 20
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31526/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 21
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31527/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 22
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31528/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 23
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31529/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 24
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31530/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 25
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31531/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 26
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31532/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 27
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31533/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 28
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31534/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 29
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31535/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Прайм 🏆 SPORT HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20135/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко 🏆 SPORT HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20138/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 4K
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31475/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/228/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/234/index.m3u8
+#EXTINF:0 tvg-rec="3",KHL Prime HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9003/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 3 HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31445/index.m3u8
+#EXTINF:0 tvg-rec="0",UPL TV HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31446/index.m3u8
+#EXTINF:0 tvg-rec="0",Tring Sport 1 HD AL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31563/index.m3u8
+#EXTINF:0 tvg-rec="0",Tring Sport 2 HD AL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31564/index.m3u8
+#EXTINF:0 tvg-rec="0",Tring Sport 3 HD AL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31565/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 1 HD HU
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31568/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 2 HD HU
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31569/index.m3u8
+#EXTINF:0 tvg-rec="0",Nova Sport 3 HD CZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31570/index.m3u8
+#EXTINF:0 tvg-rec="0",Nova Sport 4 HD CZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31571/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 1 GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31572/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 2 GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31573/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 3 GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31574/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 5 GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31575/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 6 GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31576/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 7 GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31577/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 1 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31578/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 2 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31579/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 3 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31581/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 4 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31582/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 5 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31583/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 6 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31584/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 7 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31585/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 8 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31586/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 9 HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31587/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport Highlights HD GR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31588/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SR Sport 4K HDR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31455/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Live DK
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31589/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV+ HD PT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31590/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal 11 HD PT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31592/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Extra HD RO
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31595/index.m3u8
+#EXTINF:0 tvg-rec="0",Liverpool FC TV UK
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31596/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Esport HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31597/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Fight HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31598/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 1 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31599/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 2 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31600/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 3 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31601/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31602/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31603/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 3 RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31604/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31605/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31606/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31607/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 7 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31608/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 8 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31609/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 9 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31610/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1x2 HD RS
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31611/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SR Sport 1 Live 4K HDR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31550/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SR Sport 2 Live 4K HDR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31551/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра HD 50 orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9032/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9034/index.m3u8
+#EXTINF:0 tvg-rec="0",Старт Триумф HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/16034/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/16026/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/16025/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20004/index.m3u8
+#EXTINF:0 tvg-rec="0",Extreme Sports HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20028/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14186/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14187/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 3
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14188/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 4
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14189/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 5
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14190/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 6
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14191/index.m3u8
+#EXTINF:0 tvg-rec="0",UPL TV 1 HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14193/index.m3u8
+#EXTINF:0 tvg-rec="0",UPL TV 2 HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14194/index.m3u8
+#EXTINF:0 tvg-rec="0",UPL TV 3 HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14195/index.m3u8
+#EXTINF:0 tvg-rec="0",QazSport HD KZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14032/index.m3u8
+#EXTINF:0 tvg-rec="0",Trace Sport Stars HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14030/index.m3u8
+#EXTINF:0 tvg-rec="0",Танцуй!
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/14023/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/535/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/212/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2413/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/531/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/220/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2414/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/124/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/222/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5072/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2407/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/530/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/211/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2420/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/290/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/522/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/206/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5071/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2408/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/529/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/225/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2406/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/528/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/207/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Арена HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9010/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Страна
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/107/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Планета
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/123/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Боец
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/150/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6012/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +4
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6023/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +8
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6052/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/7360/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/7361/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 3
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/7362/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 4
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/7363/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 5
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/7364/index.m3u8
+#EXTINF:0 tvg-rec="3",Super Tennis FHD IT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6079/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5075/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/141/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5076/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Baltic 1 HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5069/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5068/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5065/index.m3u8
+#EXTINF:0 tvg-rec="3",ViaPlay Football SE
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5078/index.m3u8
+#EXTINF:0 tvg-rec="3",Удар HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5067/index.m3u8
+#EXTINF:0 tvg-rec="7",Удар FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2000/index.m3u8
+#EXTINF:0 tvg-rec="3",Xsport HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/996/index.m3u8
+#EXTINF:0 tvg-rec="3",Xsport HD UA orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5077/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme UHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5003/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2077/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/215/index.m3u8
+#EXTINF:0 tvg-rec="3",KHL Prime FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2403/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/519/index.m3u8
+#EXTINF:0 tvg-rec="3",Fast & Fun Box HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/1018/index.m3u8
+#EXTINF:0 tvg-rec="7",Extreme Sports
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/144/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/160/index.m3u8
+#EXTINF:0 tvg-rec="3",Quest Red HD UK
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2396/index.m3u8
+#EXTINF:0 tvg-rec="7",MMA-TV.com
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/843/index.m3u8
+#EXTINF:0 tvg-rec="7",Бокс ТВ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/870/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/5050/index.m3u8
+#EXTINF:0 tvg-rec="7",Драйв
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/2021/index.m3u8
+#EXTINF:0 tvg-rec="7",ЖИВИ!
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/738/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6384/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6541/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6542/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6543/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6544/index.m3u8
+#EXTINF:0 tvg-rec="3",Окко Футбол HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/6554/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9042/index.m3u8
+#EXTINF:0 tvg-rec="3",Конный Мир orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9055/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт HD orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9083/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Страна orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9157/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Боец orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9159/index.m3u8
+#EXTINF:0 tvg-rec="3",Extreme Sports orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9160/index.m3u8
+#EXTINF:0 tvg-rec="3",MMA-TV.com orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9161/index.m3u8
+#EXTINF:0 tvg-rec="3",Бокс ТВ orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9162/index.m3u8
+#EXTINF:0 tvg-rec="3",Драйв orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9163/index.m3u8
+#EXTINF:0 tvg-rec="3",ЖИВИ! orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9164/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9246/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9247/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Sport orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9249/index.m3u8
+#EXTINF:0 tvg-rec="3",KHL orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9250/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9251/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Игра HD 50
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10014/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 1 HD 50
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10015/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 3 HD 50
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10016/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ HD 50
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10020/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Премьер HD 50
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10021/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 2 HD 50
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10027/index.m3u8
+#EXTINF:0 tvg-rec="0",KHL Prime HD 50
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10028/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10033/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей ТВ HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10039/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ 🏆 SPORT HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10057/index.m3u8
+#EXTINF:0 tvg-rec="7",Мяч HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10058/index.m3u8
+#EXTINF:0 tvg-rec="7",Sky Sport F1 FHD DE
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/10079/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV WWE Russian
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/11056/index.m3u8
+#EXTINF:0 tvg-rec="0",Живи Активно HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15143/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 10
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15149/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 11
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15150/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 12
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15151/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 13
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15152/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 14
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15153/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 15
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15154/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 16
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15155/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 17
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15156/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 18
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15157/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 19
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15158/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 20
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15159/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 21
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15160/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 22
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15161/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 23
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15162/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 🏆 SPORT 24
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15163/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD UA orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15183/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA orig
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15184/index.m3u8
+#EXTINF:0 tvg-rec="0",Q Sport.KG HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15238/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +4 (Алтай)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15289/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +2 (Уфа)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15307/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +0 (Липецк)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15314/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +7 (Владивосток)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15335/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +4 (Томск)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15387/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +0 (Белгород)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15409/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +3 (Омск)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15432/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +0 (Элиста)
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/15448/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV HD DE
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/16039/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/16040/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT Sports 4 HD UK
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19054/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19062/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 2 FHD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19063/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Haber HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19064/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19066/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19067/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor FHD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19068/index.m3u8
+#EXTINF:0 tvg-rec="0",A Spor HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19069/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19072/index.m3u8
+#EXTINF:0 tvg-rec="0",Spor Smart 2 HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19073/index.m3u8
+#EXTINF:0 tvg-rec="0",Tivibu Spor 1 HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19074/index.m3u8
+#EXTINF:0 tvg-rec="0",Tivibu Spor 3 HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19076/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 24 HD IT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19127/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Arena HD IT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19128/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Golf HD IT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19132/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport MotoGP HD IT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19133/index.m3u8
+#EXTINF:0 tvg-rec="0",Super Tennis IT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19136/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports HD AR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19138/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports HD MX
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19139/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 506 HD AU
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19143/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports Racing US
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19144/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 501 Cricket HD AU
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19146/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports North US
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19152/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Midwest US
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19153/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNews US
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19154/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 2 HD US
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19155/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN HD US
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19156/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 FHD PT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19158/index.m3u8
+#EXTINF:0 tvg-rec="0",Benfica TV FHD PT
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19160/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Ultra HD SE
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19163/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 1 HD NL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19201/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 2 HD NL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19202/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 3 HD NL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19203/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 4 HD NL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19204/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Страна HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19219/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Боец HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19221/index.m3u8
+#EXTINF:0 tvg-rec="0",MMA-TV.com HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19243/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19244/index.m3u8
+#EXTINF:0 tvg-rec="0",Бокс ТВ HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19245/index.m3u8
+#EXTINF:0 tvg-rec="0",Удар HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19246/index.m3u8
+#EXTINF:0 tvg-rec="0",Start World HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19248/index.m3u8
+#EXTINF:0 tvg-rec="0",KHL Prime HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19396/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 1 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19422/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 2 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19423/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/19424/index.m3u8
+#EXTINF:0 tvg-rec="0",Spor Smart HD TR
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20060/index.m3u8
+#EXTINF:0 tvg-rec="0",Q Arena HD KZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20061/index.m3u8
+#EXTINF:0 tvg-rec="0",Q League HD KZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20062/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20065/index.m3u8
+#EXTINF:0 tvg-rec="0",Eleven Sports 1 4K PL
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20068/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Moldova FHD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20074/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Baltic 1 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20081/index.m3u8
+#EXTINF:0 tvg-rec="7",Fint Ga 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20091/index.m3u8
+#EXTINF:0 tvg-rec="7",Fint Ga 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20092/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 3
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20093/index.m3u8
+#EXTINF:0 tvg-rec="7",Pimple TV 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20094/index.m3u8
+#EXTINF:0 tvg-rec="1",Pimple TV 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20095/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 3
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20096/index.m3u8
+#EXTINF:0 tvg-rec="3",Pimple TV 4
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20097/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 5
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20098/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20099/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20103/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 3
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20104/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 4
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20105/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 5
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20106/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 6
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20107/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 7
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20108/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 8
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20109/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 9
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20110/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 10
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20100/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 11
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20101/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 12
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20102/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport Drive
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20160/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 1 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20166/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 2 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20167/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 3 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20168/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 4 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20169/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 5 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/20170/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 6 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31648/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 7 HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31649/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31650/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 13
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31674/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 14
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31675/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 15
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31676/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 16
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31677/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 17
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31678/index.m3u8
+#EXTINF:0 tvg-rec="0",Betking Live 1
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31679/index.m3u8
+#EXTINF:0 tvg-rec="0",Betking Live 2
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31680/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 6
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31681/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 4
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31682/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV MMA TIME HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31710/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31754/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31755/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31756/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31757/index.m3u8
+#EXTINF:0 tvg-rec="0",Diema Sport 3 HD BG
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31917/index.m3u8
+#EXTINF:0 tvg-rec="0",Волейбол HD
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31920/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV HD AZ
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/31926/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports FHD AM
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/30199/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports 1 HD AM
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/30200/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports 2 HD AM
+#EXTGRP:🏆 SPORT
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/30201/index.m3u8
+#EXTINF:0 tvg-rec="3",Bridge Фрэш HD
+#EXTGRP:Музыка
+http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/9053/index.m3u8
 
 
 
