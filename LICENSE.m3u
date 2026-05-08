@@ -3489,172 +3489,176 @@ https://stream.zuno-tv.workers.dev/channel/9090/19a78a35/index.m3u8
 #EXTINF:-1 group-title=📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤",VF Однажды в России
 https://stream.zuno-tv.workers.dev/channel/9090/n1e05434/index.m3u8
 
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",ВК Кино 2ᴴᴰ
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ", Кино 2ᴴᴰ
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",ВК Кино и сериалыᴴᴰ
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤", Кино и сериалыᴴᴰ
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Alpha Cinemaᴴᴰ
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Alpha Cinemaᴴᴰ
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Alpha Moretimeᴴᴰ
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Alpha Moretimeᴴᴰ
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Alpha Funnyᴴᴰ
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Alpha Funnyᴴᴰ
 https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781_output_0.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Новый русский
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Новый русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Видеосалон vhs 24/7
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Видеосалон vhs 
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Доктор Достоевский
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Доктор Достоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Star Media
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Star Media
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Украина
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Украина
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Военный
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Военный
 https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Ералаш
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Приколы 1
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Приколы 1
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Приколы 2
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Приколы 2
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Шоу Бенни Хилла
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Мистер Бин
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Документалка 1
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Документалка 1
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Документалка 2
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Документалка 2
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Документалка 3
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Документалка 3
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Танцы 1
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Танцы 1
 https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Танцы 2
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Танцы 2
 https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Танцы 3
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Танцы 3
 https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Тик Ток
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Тик Ток
 https://fl1001.bozztv.com/ushba61/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Gameplay
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Gameplay
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Gameplay трейлеры
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Gameplay трейлеры
 https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Спорт
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Спорт
 https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Овертайм
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Овертайм
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 1
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 2
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 2
 https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 3
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 3
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 4
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 4
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 5
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 5
 https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 6
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 6
 https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 7
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 7
 https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 8
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 8
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 9
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 9
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 10
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 10
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 11
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 11
 https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 12
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 12
 https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 13
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 13
 https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 14
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 14
 https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 15
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 15
 https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 16
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 16
 https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 17
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 17
 https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 18
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 18
 https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 19
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 19
 https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 20
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 20
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 21
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 21
 https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 22
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 22
 https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 23
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 23
 https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 24
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 24
 https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 25
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 25
 https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 26
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 26
 https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 27
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 27
 https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 28
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 28
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 29
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 29
 https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 30
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 30
 https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 31
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 31
 https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 32
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 32
 https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 33
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 33
 https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 34
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 34
 https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 35
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 35
 https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 36
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 36
 https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Кинозалы 37
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Кинозалы 37
 https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Retrovision
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Retrovision Motor
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Retrovision Motor
 https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Retrovision Кинопанорама
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Retrovision Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Retrovision Movies
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Retrovision Movies
 https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Retrovision Classic
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Retrovision Classic
 https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Музыка 1
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Музыка 1
 https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Музыка 2
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Музыка 2
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Музыка 3
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Музыка 3
 https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Музыка 4
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Музыка 4
 https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Музыка 5
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Музыка 5
 https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Музыка 6
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Музыка 6
 https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Kpop Play TV
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Kpop Play TV
 https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Мода 1
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Stil 1
 https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Мода 2
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Stil 2
 https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Мода 3
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Stil 3
 https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Мода 4
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Stil 4
 https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Мода 5
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Stil 5
 https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Мода 6
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Stil 6
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 Not24/7",Fashion Channel
+#EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤 ",Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 
