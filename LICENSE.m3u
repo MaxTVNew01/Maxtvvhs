@@ -1,5 +1,4 @@
-
-
+#EXTM3U
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://iptv.itv.uz/hls/live/t/mxunqRA9fdnSVEzEdycgXg/e/1778311145/4000/index.m3u8?ip=45.95.203.252
