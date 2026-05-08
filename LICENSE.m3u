@@ -2705,73 +2705,75 @@ http://de1.plist.link:3355/FGfpnUmovVu31287/index.m3u8?token=5IbUTue09FDrDb-w2uQ
 http://de1.plist.link:3355/FGfpnUmovVu41290/index.m3u8?token=5IbUTue09FDrDb-w2uQumsJ-x3lWfApu60MEPTKeP6Dg6eHIlSPW3YkA4ZNL94Tc.tg6457680141
 #EXTINF:0 tvg-id="chnl-2838" tvg-name="Триколор Советские мультфильмы" tvg-logo="http://de1.plist.link/plepg/img/channels/2838.png?69c29495ba3b1" tvg-rec="0" timeshift="0" group-title="8. Детские", Триколор Советские мультфильмы
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="nupogodi" tvg-name="Ну, Погоди!" tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.1
+
+
+#EXTINF:-1 tvg-id="nupogodi" tvg-name="Ну, Погоди!" tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.1
 https://mults.info/mp4/nu_pogodi_01.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.2
 https://mults.info/mp4/nu_pogodi_02.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.3
 https://mults.info/mp4/nu_pogodi_03.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.4
 https://mults.info/mp4/nu_pogodi_04.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.5
 https://mults.info/mp4/nu_pogodi_05.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.6
 https://mults.info/mp4/nu_pogodi_06.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.7
 https://mults.info/mp4/nu_pogodi_07.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.8
 https://mults.info/mp4/nu_pogodi_08.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.9
 https://mults.info/mp4/nu_pogodi_09.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.10
 https://mults.info/mp4/nu_pogodi_10.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.11
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.11
 https://mults.info/mp4/nu_pogodi_11.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.12
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.12
 https://mults.info/mp4/nu_pogodi_12.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.13
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.13
 https://mults.info/mp4/nu_pogodi_13.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.14
 https://mults.info/mp4/nu_pogodi_14.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.15
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.15
 https://mults.info/mp4/nu_pogodi_15.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.16
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.16
 https://mults.info/mp4/nu_pogodi_16.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.17
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.17
 https://mults.info/mp4/nu_pogodi_17.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.18
 https://mults.info/mp4/nu_pogodi_18.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.19
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.19
 https://mults.info/mp4/nu_pogodi_19.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.20
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.20
 https://mults.info/mp4/nu_pogodi_20.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.21
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.21
 https://mults.info/mp4/nu_pogodi_tv_1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bK0FQp.png" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.22
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4n3zjd2/IMG-20260508-101709-763.jpg" group-title="🐰 Ну, Погоди!", Ну, Погоди! ч.22
 https://mults.info/mp4/nu_pogodi_tv.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/8cf4769d-6ba1-4484-bf10-870f68d61574.png" group-title="👶 Мультфильм",Gulli Girl
