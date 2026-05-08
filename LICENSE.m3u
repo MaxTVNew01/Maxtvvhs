@@ -72,176 +72,180 @@ https://s04.watcher.uz/59/video.m3u8?
 
 
   
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
+[08.05.2026 16:08] Х.М : #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/05QW0zG1AJZ7WEDfpLOZmA/e/1777921136/4000/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/mxunqRA9fdnSVEzEdycgXg/e/1778311145/4000/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/vuLNXK-qkF5TWP7KK4Jb9w/e/1777921137/4001/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/WbqQ5xKKtvXouI7Z94rZbQ/e/1778311146/4001/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg", Хабар 24 KZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/6LkRRPZGGoWB7mFsGgbnwg/e/1777921138/1408/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/UIXkx0C2Fh04ImGREdBQiw/e/1778311147/1408/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg", Узбекистан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/M9zoML8saegGY7bUkTiwqQ/e/1777921139/1001/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/96_mrQuNzchQdeTGxt3PRg/e/1778311148/1001/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg", Ёшлар
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/rRehH5vW9wTRvzmwc5wtVg/e/1777921139/1002/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/l6d6I2iXsNoAN3IOZ0q6Lg/e/1778311148/1002/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg", Ташкент
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/Vv_WVBU5KYafTiEtCbpERg/e/1777921140/1003/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/IxGNjtMdDQJCY7lmlmDJfg/e/1778311149/1003/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg", Sport UZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/XqdEhCQ0hnUeoHvI_R7kkg/e/1777921141/1004/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/etaxcc5TJTjXjSV-lUNQoQ/e/1778311150/1004/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg", Futbol TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/os-ZR2pKP-FqbkbyQ3P7uQ/e/1777921142/1010/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/JHOct4a08-g_lrjAiHQ6qg/e/1778311151/1010/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/nnvm9thL-jrMT7rd8pF_ZA/e/1777921144/1011/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/4oyCYMTffOyPukNonr6peg/e/1778311151/1011/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/15//c78b4b29689e79a2d7e1cd3fefe6300d-q-500x500.jpeg", ZO'R TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/6GNyG2ssLMYIhBbbgGjdIA/e/1777921144/1016/index.m3u8?ip=45.95.203.252
+[08.05.2026 16:08] Х.М : https://iptv.itv.uz/hls/live/t/YGpQshud_rEPMYSFCj5mbA/e/1778311152/1016/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/FPh349zEF7Jx-NEdBW1bJA/e/1777921150/1286/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/vfxsIPz0L9f4vkcnab3aug/e/1778311153/1286/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/7BgwYG4KWzPxubRL3iQX4g/e/1777921151/1014/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/UFRTgFqKvl8oSyBNIiJz8A/e/1778311153/1014/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ZP8XsqofbsMAcIoQXxP4kw/e/1777921152/1216/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/IfKQNjVpSISAcx2MEYnhwQ/e/1778311154/1216/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/rgLebU-sbxMob95UlEsbwg/e/1777921153/1012/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/iTMrQi4X_4SXb2Pkixn_aw/e/1778311155/1012/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/rp6VvVNg79XujFxnogCGTQ/e/1777921154/1217/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/wQDf2CpLnrZouY_xbrSz9Q/e/1778311156/1217/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg", Renessans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/bvpw8wUSzOj_8T3S0eto6Q/e/1777921154/1221/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/shXJHNdW1n7h4Z-F5BYBGg/e/1778311157/1221/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg", DasturxonTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ek1o0E44D0N0pwOv72DmIw/e/1777921155/1206/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/KYNA-nQQYIODFPQw9f38Dw/e/1778311157/1206/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg", Bolajon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/T-12neTfgMQVoc0tmAGmwA/e/1777921156/1007/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/wCCiJxQjydL13jJk86hhPg/e/1778311158/1007/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/Yt1u6cNah3Q-2sD302FrUg/e/1777921157/1205/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/EGEyQesoXBkXrgQJN05LvQ/e/1778311159/1205/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg", Navo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/HXEZNCnsVCB-ahisIwKvgQ/e/1777921158/1008/index.m3u8?ip=45.95.203.252
+[08.05.2026 16:08] Х.М : #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/NRNzzn7xpYW4KIBXA-EslA/e/1778311160/1008/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg", Madaniyat va Marifat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/i2fnHyVhQD_VzTHbaWOoCw/e/1777921159/1005/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/QDckymNX1CadGJZsJ-reBA/e/1778311160/1005/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg", Mahalla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/cm345RL0267Espf8Td_EIg/e/1777921160/1013/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/wx2HYWZze9BHtz-NCPc5rA/e/1778311161/1013/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/kooZ2utjoP2wqr-jdMN7iA/e/1777921161/1009/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/s7tbIXOBtp7y0nC2UF9MAw/e/1778311163/1009/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/0SGm0zlZmIANuTHdrKsHqQ/e/1777921162/1209/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/rgJ1p8Sog0nxk5qLgWfo_w/e/1778311164/1209/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/1MIN_Oq0Z6MDl17D4Awbdg/e/1777921163/1006/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/r7VUE0L0T1v_VDf3MJ8D3g/e/1778311165/1006/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg", Uzreport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/DHftvkk4cjlm8xuYjGKfqw/e/1777921164/1015/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/JnpVUsCNHk8k_IWwEGuaFg/e/1778311166/1015/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg", Taraqqiyot TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ZsA2zW0UIk_K0KvvnyVZ0g/e/1777921165/1204/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/iqR2WRE0ahHyefxAZ769VA/e/1778311166/1204/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/xxlY6_2wY16cXLyky87BZA/e/1777921165/4007/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/RJ0fRqidnCjTeR8dwGWRYg/e/1778311167/4007/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/PIoYcLFjl3uP3gQ4sHjzvg/e/1777921169/4008/index.m3u8?ip=45.95.203.252
+[08.05.2026 16:08] Х.М : https://iptv.itv.uz/hls/live/t/4HVFgw1FiUrVMGf1Llrq1A/e/1778311168/4008/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/pIzjF1oSCBHNdQaArQNYgw/e/1777921176/1220/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/VuFjD-23GNwr6XmiAcCXlg/e/1778311171/1220/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/2jhRr_s71EnfR6uIr8O2Mw/e/1777921176/1457/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/umXs0bDpzho1AK8_BpzqUQ/e/1778311171/1457/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/4qYXDGdPnMCgLyLenWFwjw/e/1777921177/1458/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/OQuDKlXW3oUMD9sR6EImOw/e/1778311172/1458/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/pfyugTrL7ljcPsn-43bZQg/e/1777921178/1460/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/Ss4tIiJdz2hrqRu-OUJIpg/e/1778311173/1460/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg", Qashkadaryo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/V5QnSMFyeWLqqVLm7n8gdw/e/1777921179/1461/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/8JOzVkUwr-SFpBaj6JFf7g/e/1778311174/1461/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg", Sirdaryo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ko8aMv5Om6eRGj0rC2ewKQ/e/1777921179/1462/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/Cy8kXgqKbsitYuJboplI4Q/e/1778311175/1462/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg", Surxondaryo MTRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/UtgLZEeLDrtu-F2z-dVegQ/e/1777921182/1463/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/bKvRqiC-DVYV0U5hvthHfg/e/1778311175/1463/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/2O4oJngbtZ9prLTW_UnH-A/e/1777921183/1464/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/-BLXnK0VdADYeoaAf_dhgg/e/1778311176/1464/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg", Jizzax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ASyJXvZNolJoXQZk4CcBlg/e/1777921185/1465/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/JQ22cdwqF5eP8Edr4XlB0Q/e/1778311177/1465/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/X70dkgauvlUYMggJ46Df-Q/e/1777921186/1466/index.m3u8?ip=45.95.203.252
+[08.05.2026 16:08] Х.М : #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/2tFoNuH_NDE7v9UYD2aB0g/e/1778311178/1466/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg", Qaraqalpaqstan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/oqOGvK6xzphaVb24J_WrLg/e/1777921187/1467/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/g4GpSbe7hs6uUC9gNP-0yw/e/1778311179/1467/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg", Bukhara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/9Z92N-JBooC2uQU3EMsVKw/e/1777921188/1459/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/ieRcvsdFHprnFqeHgWJTKw/e/1778311180/1459/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg", Samarkand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/Bpz0MhwuWS_E5CqimAl_BA/e/1777921190/1468/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/BI1VpwRY31SxsDrfXYfz_w/e/1778311181/1468/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/aHYPpN5yK0aHL3uE2B54nA/e/1777921192/4012/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/sWz_fbd48iFPKxolpkqiBQ/e/1778311182/4012/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/rjdUB2fGXfoNCV9_ElGw3w/e/1777921194/1469/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/zCX3GFoSfl1Z2qsIhj3uaA/e/1778311183/1469/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/hGyM1mgAWf_ae3yn7pXNOA/e/1777921196/1470/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/YxCs1YK0FVIbp09kekiy7w/e/1778311184/1470/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/XsiZyu3gp9xSLNRxA2jYvw/e/1777921197/1494/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/xATEDEnj3LkbJLa8TwMqrw/e/1778311185/1494/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/9GSiGCXKhTiBXCk0bt4V0w/e/1777921198/1486/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/I6fIPbYXsxxmTo6CXEwYIw/e/1778311186/1486/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/DuI5ujKW6Shn4Ky8epg7xw/e/1777921198/1485/index.m3u8?ip=45.95.203.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
+https://iptv.itv.uz/hls/live/t/pPFU2KZ7qv4-wO91oTrkZg/e/1778311187/1485/index.m3u8?ip=45.95.203.252
+[08.05.2026 16:08] Х.М : #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/X_FtAoaloOLB4hTPEHwhww/e/1777921199/1488/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/mFCJAYCjWVhuKKOWA70VKw/e/1778311188/1488/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/xYoJX36J7CKphnSfL1W8aQ/e/1777921201/1489/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/lao6O_0NTfcaG4PGfQcTVA/e/1778311189/1489/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/rD0DvQBXyMb5mAvJ2hTTxA/e/1777921202/1495/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/IITBIA5jZGi5APXjEVan_A/e/1778311189/1495/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/Y81LgaspLm9VzQfgTxHuug/e/1777921203/1496/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/0ozgveFEDWwmcFulChe9GA/e/1778311190/1496/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/euslEGZgpCYc0Q9D5G5n5A/e/1777921205/1491/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/cY1r0eS3B3sOAys-QQH7ZA/e/1778311191/1491/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ar69F2frOgo0rzTPsqA9zQ/e/1777921205/1492/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/HiUDyxrlBJHfS5AtnxocKQ/e/1778311192/1492/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/X7zHxgV8_-2uyucXavYHIw/e/1777921207/1490/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/M1MRqe_eOjbhqTqyCJ1E-g/e/1778311192/1490/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/wHPxlqkIdG_adJMbZx9HPg/e/1778311194/1285/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/LlytAreKri0GF4driZwTJw/e/1777921233/1497/index.m3u8?ip=45.95.203.252
+https://iptv.itv.uz/hls/live/t/pP4F9bSDOIlz9490bOgGAA/e/1778311195/1497/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/Mv-WzMQFE5fWuMCj2a32zw/e/1778311196/1499/index.m3u8?ip=45.95.203.252
 
 
 
@@ -12096,330 +12100,7 @@ http://de1.plist.link:3355/yaUwUzs9RVN6061/index.m3u8?token=oPJi20elbEg-wezNgzCk
 #EXTGRP:7. Спорт
 http://de1.plist.link:3355/yaUwUzs9RVN3062/index.m3u8?token=oPJi20elbEg-wezNgzCk9N3dgjRf2-zB47WDDnKjUdyzYFezS6G49hwHKn656cV5.maxtvnew
 #EXTINF:0 tvg-id="chnl-63" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/63.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Матч! Футбол 3 HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN8063/index.m3u8?token=oPJi20elbEg-wezNgzCk9E4eZ9cjyWdNMYg8ZArAynk5rPOk7MaL7lZi2LmT9ygQ.maxtvnew
-#EXTINF:0 tvg-id="chnl-1702" tvg-name="Футбол HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1702.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Футбол HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN91702/index.m3u8?token=oPJi20elbEg-wezNgzCk9AlWcBEAgudDVMRA5ImxNVhUWY9WztJac7EIKNtkRkme.maxtvnew
-#EXTINF:0 tvg-id="chnl-1993" tvg-name="Setanta Sports 1 HD Baltic" tvg-logo="http://de1.plist.link/plepg/img/channels/1993.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Setanta Sports 1 HD Baltic
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN61993/index.m3u8?token=oPJi20elbEg-wezNgzCk9KDwJrR3cKGSAcjT64wTaOxRgntylMseL6ECXK-pkznO.maxtvnew
-#EXTINF:0 tvg-id="chnl-477" tvg-name="Setanta Sports 2 HD Baltic" tvg-logo="http://de1.plist.link/plepg/img/channels/477.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Setanta Sports 2 HD Baltic
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN5477/index.m3u8?token=oPJi20elbEg-wezNgzCk9CplHW5aFG6GcH4a_iL76wcbBm6uIn3BByuqUwfMikQ_.maxtvnew
-#EXTINF:0 tvg-id="chnl-475" tvg-name="Viju+ Sport HD" tvg-logo="http://de1.plist.link/plepg/img/channels/475.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Viju+ Sport HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN5475/index.m3u8?token=oPJi20elbEg-wezNgzCk9JhAoqXNwmGHl_PNgTh4QsRXtcy9ifrEieDe2g7I2Luw.maxtvnew
-#EXTINF:0 tvg-id="chnl-662" tvg-name="Старт HD" tvg-logo="http://de1.plist.link/plepg/img/channels/662.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Старт HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN2662/index.m3u8?token=oPJi20elbEg-wezNgzCk9Fz_opKmjlqykSUclkQ8HKZyi9rg4QaGAmQXNkK7YHw6.maxtvnew
-#EXTINF:0 tvg-id="chnl-2502" tvg-name="Старт Триумф HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2502.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Старт Триумф HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN52502/index.m3u8?token=oPJi20elbEg-wezNgzCk9Btyh4Xb8Mu-HXCU-F4wIVx7O3GpO9Ys0ACDZGBO4ezs.maxtvnew
-#EXTINF:0 tvg-id="chnl-526" tvg-name="MMA-TV" tvg-logo="http://de1.plist.link/plepg/img/channels/526.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", MMA-TV
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN8526/index.m3u8?token=oPJi20elbEg-wezNgzCk9DGuMwMsl8r8lHqxXZLOEM-_HLWUq0yjWwfyWUS9ckjn.maxtvnew
-#EXTINF:0 tvg-id="chnl-20068" tvg-name="Удар HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20068.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Удар HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN620068/index.m3u8?token=oPJi20elbEg-wezNgzCk9Hi7-_CBrnGrqPfcdqmBngcGvfOoYlkAgDT2iFfsfZkW.maxtvnew
-#EXTINF:0 tvg-id="chnl-20030" tvg-name="MAX Sport 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20030.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", MAX Sport 1 HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN120030/index.m3u8?token=oPJi20elbEg-wezNgzCk9HNQwS4Y7XteJPe8mSoSyRL8sm3vIWXBkl0JJg1wscou.maxtvnew
-#EXTINF:0 tvg-id="chnl-20031" tvg-name="MAX Sport 2 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20031.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", MAX Sport 2 HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN020031/index.m3u8?token=oPJi20elbEg-wezNgzCk9I4LP-YYj2GExjmnEFBOKY4tiyP1lffbyu2ZLOh4oQa3.maxtvnew
-#EXTINF:0 tvg-id="chnl-20077" tvg-name="MAX Sport 3 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20077.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", MAX Sport 3 HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN020077/index.m3u8?token=oPJi20elbEg-wezNgzCk9BrYzffJSEhNEaMKal2eQz5vbmb_a70bvl_BQC8ZyrX7.maxtvnew
-#EXTINF:0 tvg-id="chnl-20043" tvg-name="MAX Sport 4 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20043.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", MAX Sport 4 HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN120043/index.m3u8?token=oPJi20elbEg-wezNgzCk9I5736Y2m_CiV2JYxzfyZhdtS_koKiD7bK_Q7BTuKl-J.maxtvnew
-#EXTINF:0 tvg-id="chnl-20069" tvg-name="Okko Прайм Спорт" tvg-logo="http://de1.plist.link/plepg/img/channels/20069.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Okko Прайм Спорт
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN420069/index.m3u8?token=oPJi20elbEg-wezNgzCk9OUTwZdZYNfAzdMSRDah1JpvYuMLvtmfVtj1BGkPmpOd.maxtvnew
-#EXTINF:0 tvg-id="chnl-20053" tvg-name="Okko Спорт" tvg-logo="http://de1.plist.link/plepg/img/channels/20053.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Okko Спорт
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN420053/index.m3u8?token=oPJi20elbEg-wezNgzCk9NTeFFzTuFHojOlbBBCicRkrARB6mwLQRy-ZeZB-ugLh.maxtvnew
-#EXTINF:0 tvg-id="chnl-20054" tvg-name="Okko Футбол" tvg-logo="http://de1.plist.link/plepg/img/channels/20054.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Okko Футбол
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN420054/index.m3u8?token=oPJi20elbEg-wezNgzCk9F2HtvDzMHO3YrtFixQaV7sLLwqJnv6jaYSF5ytPlnRK.maxtvnew
-#EXTINF:0 tvg-id="chnl-20064" tvg-name="Мяч HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20064.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Мяч HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN620064/index.m3u8?token=oPJi20elbEg-wezNgzCk9LN9rIx3BrSiBhq9EZG8-Ehp8iHefJ3NIHRUubRzW07E.maxtvnew
-#EXTINF:0 tvg-id="chnl-20063" tvg-name="Хоккей HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20063.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Хоккей HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN920063/index.m3u8?token=oPJi20elbEg-wezNgzCk9G-7JU9agUhkvZf6aTqWuXDFdherOKFGALqsBcNtupIl.maxtvnew
-#EXTINF:0 tvg-id="chnl-20065" tvg-name="Волейбол HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20065.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Волейбол HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN520065/index.m3u8?token=oPJi20elbEg-wezNgzCk9Dx-EGXEV34HNcDnM_KG-LsWnputvmuXgIcwx-k8cIEE.maxtvnew
-#EXTINF:0 tvg-id="chnl-20066" tvg-name="Спорт HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20066.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Спорт HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN420066/index.m3u8?token=oPJi20elbEg-wezNgzCk9F_UUepbVz4XRx3U9BDJCPwcNlOed36ttdlhwA2Kvgzl.maxtvnew
-#EXTINF:0 tvg-id="chnl-474" tvg-name="Qazsport HD" tvg-logo="http://de1.plist.link/plepg/img/channels/474.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Qazsport HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN9474/index.m3u8?token=oPJi20elbEg-wezNgzCk9GdFB-tWLxu63jxBlN0tfP2tEsX-NStv1Hxqg1YTgEyX.maxtvnew
-#EXTINF:0 tvg-id="chnl-20071" tvg-name="Setanta Sports HD KZ" tvg-logo="http://de1.plist.link/plepg/img/channels/20071.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Setanta Sports HD KZ
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN520071/index.m3u8?token=oPJi20elbEg-wezNgzCk9ItyC0UEu4QVwhYvFst62x7--dfz6GJTpDVL5H_BsP2s.maxtvnew
-#EXTINF:0 tvg-id="chnl-20072" tvg-name="Setanta Sports 1 HD KZ" tvg-logo="http://de1.plist.link/plepg/img/channels/20072.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Setanta Sports 1 HD KZ
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN820072/index.m3u8?token=oPJi20elbEg-wezNgzCk9Hz1wo1GfLfgHWegqQOrIhE760pk6qyXuRfWOI2ZE0XK.maxtvnew
-#EXTINF:0 tvg-id="chnl-20073" tvg-name="Setanta Sports 2 HD KZ" tvg-logo="http://de1.plist.link/plepg/img/channels/20073.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Setanta Sports 2 HD KZ
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN820073/index.m3u8?token=oPJi20elbEg-wezNgzCk9DGcE7V0I3NHv5undkvYiHS9boH4RGZ8ygatxmfvqcKm.maxtvnew
-#EXTINF:0 tvg-id="chnl-20074" tvg-name="Sport+ HD KZ" tvg-logo="http://de1.plist.link/plepg/img/channels/20074.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Sport+ HD KZ
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN420074/index.m3u8?token=oPJi20elbEg-wezNgzCk9NRB2S7PBX30D5ordtKUBdJm1OSp-LBAFwDDEkJX6E6X.maxtvnew
-#EXTINF:0 tvg-id="chnl-20075" tvg-name="Q Sport League HD KZ" tvg-logo="http://de1.plist.link/plepg/img/channels/20075.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Q Sport League HD KZ
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN920075/index.m3u8?token=oPJi20elbEg-wezNgzCk9DGoTv0-yAwkFtxADLJnbzFl71RK95zDLHi90oLphUXr.maxtvnew
-#EXTINF:0 tvg-id="chnl-20076" tvg-name="Q Sport ArenaHD KZ" tvg-logo="http://de1.plist.link/plepg/img/channels/20076.png?69d67d0b12eb5" tvg-rec="3" timeshift="3" group-title="7. Спорт", Q Sport ArenaHD KZ
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN820076/index.m3u8?token=oPJi20elbEg-wezNgzCk9C7IxW696lRfywH0jPg7IuCCxqSnwszrygJYRTSffGmz.maxtvnew
-#EXTINF:0 tvg-id="chnl-3001" tvg-name="OKKO Спорт 1" tvg-logo="http://de1.plist.link/plepg/img/channels/3001.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 1
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN83001/index.m3u8?token=oPJi20elbEg-wezNgzCk9AyrnjvVWmTZohgTcf9SGHBD1fo9wg7RQHRCori57qAh.maxtvnew
-#EXTINF:0 tvg-id="chnl-3002" tvg-name="OKKO Спорт 2" tvg-logo="http://de1.plist.link/plepg/img/channels/3002.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 2
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93002/index.m3u8?token=oPJi20elbEg-wezNgzCk9BLfDfc_9eZGHaCmAyMjlIc7RreQePG72DavgKqbx63M.maxtvnew
-#EXTINF:0 tvg-id="chnl-3003" tvg-name="OKKO Спорт 3" tvg-logo="http://de1.plist.link/plepg/img/channels/3003.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 3
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43003/index.m3u8?token=oPJi20elbEg-wezNgzCk9EiQbevORvJU2RM8tJbwqdaLvWNzgHwBKqZ3e3TUdWwU.maxtvnew
-#EXTINF:0 tvg-id="chnl-3004" tvg-name="OKKO Спорт 4" tvg-logo="http://de1.plist.link/plepg/img/channels/3004.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 4
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63004/index.m3u8?token=oPJi20elbEg-wezNgzCk9DuGldeeR_LBUxLctIoHKNAm5lX8SFju6UjEJ4ZcPcov.maxtvnew
-#EXTINF:0 tvg-id="chnl-3005" tvg-name="OKKO Спорт 5" tvg-logo="http://de1.plist.link/plepg/img/channels/3005.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 5
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73005/index.m3u8?token=oPJi20elbEg-wezNgzCk9G9XbSUnW4O8WYcYXYdiCD3_Uf_awJvQMjOKHxJG-AFl.maxtvnew
-#EXTINF:0 tvg-id="chnl-3006" tvg-name="OKKO Спорт 6" tvg-logo="http://de1.plist.link/plepg/img/channels/3006.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 6
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN83006/index.m3u8?token=oPJi20elbEg-wezNgzCk9OAtjCWfDx8-BNXpjCG29ko6yl0C628ErQsEMVhjZEkD.maxtvnew
-#EXTINF:0 tvg-id="chnl-3007" tvg-name="OKKO Спорт 7" tvg-logo="http://de1.plist.link/plepg/img/channels/3007.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 7
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53007/index.m3u8?token=oPJi20elbEg-wezNgzCk9MD5pSnswroppj9H00iQofASM_v2mtyyoja4V-9uWIY-.maxtvnew
-#EXTINF:0 tvg-id="chnl-3008" tvg-name="OKKO Спорт 8" tvg-logo="http://de1.plist.link/plepg/img/channels/3008.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 8
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93008/index.m3u8?token=oPJi20elbEg-wezNgzCk9D00ypsCo8dy_7qNSQw7BKSsj5ZfGvk1CBAGxUPYuQmm.maxtvnew
-#EXTINF:0 tvg-id="chnl-3009" tvg-name="OKKO Спорт 9" tvg-logo="http://de1.plist.link/plepg/img/channels/3009.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 9
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN83009/index.m3u8?token=oPJi20elbEg-wezNgzCk9BBZ_kqa35AEw36uMS-n_FB7EWweq-9Jc8Ijvvhb4Xr7.maxtvnew
-#EXTINF:0 tvg-id="chnl-3010" tvg-name="OKKO Спорт 10" tvg-logo="http://de1.plist.link/plepg/img/channels/3010.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 10
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73010/index.m3u8?token=oPJi20elbEg-wezNgzCk9Ns7EJKqXf7rtAMX0b0hBXoH0rKbFZk5jV5y04zOAopS.maxtvnew
-#EXTINF:0 tvg-id="chnl-3011" tvg-name="OKKO Спорт 11" tvg-logo="http://de1.plist.link/plepg/img/channels/3011.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 11
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN23011/index.m3u8?token=oPJi20elbEg-wezNgzCk9N8MVOdGaPLmwhxHMR0EyIyEiqkGa5RjtKEJbviV-yBP.maxtvnew
-#EXTINF:0 tvg-id="chnl-3012" tvg-name="OKKO Спорт 12" tvg-logo="http://de1.plist.link/plepg/img/channels/3012.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 12
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53012/index.m3u8?token=oPJi20elbEg-wezNgzCk9EADOdzKYzy5zibsK_vFFnpzIjFyogNHKmnTCWG25Boo.maxtvnew
-#EXTINF:0 tvg-id="chnl-3013" tvg-name="OKKO Спорт 13" tvg-logo="http://de1.plist.link/plepg/img/channels/3013.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 13
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN33013/index.m3u8?token=oPJi20elbEg-wezNgzCk9LhCJ496dorYPqRyhPCMUGRI7y-SSiPbrFfm0YWRuONF.maxtvnew
-#EXTINF:0 tvg-id="chnl-3014" tvg-name="OKKO Спорт 14" tvg-logo="http://de1.plist.link/plepg/img/channels/3014.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 14
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN23014/index.m3u8?token=oPJi20elbEg-wezNgzCk9HEmOEsVUsMafsIoCobpRxpluAN36rOzsGp7QzUhAQx5.maxtvnew
-#EXTINF:0 tvg-id="chnl-3015" tvg-name="OKKO Спорт 15" tvg-logo="http://de1.plist.link/plepg/img/channels/3015.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 15
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN03015/index.m3u8?token=oPJi20elbEg-wezNgzCk9Onng3pwi1H2tO9lvCDy3Hah-5BcGyYspr4IBlEhriLL.maxtvnew
-#EXTINF:0 tvg-id="chnl-3016" tvg-name="OKKO Спорт 16" tvg-logo="http://de1.plist.link/plepg/img/channels/3016.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 16
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63016/index.m3u8?token=oPJi20elbEg-wezNgzCk9PJ7yjt6zbXlFWKPGppoaONsr_cC4gVp2eZGNijwlCo0.maxtvnew
-#EXTINF:0 tvg-id="chnl-3017" tvg-name="OKKO Спорт 17" tvg-logo="http://de1.plist.link/plepg/img/channels/3017.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 17
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53017/index.m3u8?token=oPJi20elbEg-wezNgzCk9BTxYbHnKfU1ffFp8jkIsBEmbwoGbV_YzjK3y_BLsBAR.maxtvnew
-#EXTINF:0 tvg-id="chnl-3018" tvg-name="OKKO Спорт 18" tvg-logo="http://de1.plist.link/plepg/img/channels/3018.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 18
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63018/index.m3u8?token=oPJi20elbEg-wezNgzCk9JJkI-Q0XlDuazmyj4eAkFe56WtkihMXkIFchCPEh8vH.maxtvnew
-#EXTINF:0 tvg-id="chnl-3019" tvg-name="OKKO Спорт 19" tvg-logo="http://de1.plist.link/plepg/img/channels/3019.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 19
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53019/index.m3u8?token=oPJi20elbEg-wezNgzCk9H5PxxAtdKmL6bQwa-DJMHt-ZfoPEuAIoddvmZEkzLXb.maxtvnew
-#EXTINF:0 tvg-id="chnl-3020" tvg-name="OKKO Спорт 20" tvg-logo="http://de1.plist.link/plepg/img/channels/3020.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 20
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN03020/index.m3u8?token=oPJi20elbEg-wezNgzCk9M02jHx37NorwRaQjlvjHTToRnhAsurOuKJMGWiirBfn.maxtvnew
-#EXTINF:0 tvg-id="chnl-3021" tvg-name="OKKO Спорт 21" tvg-logo="http://de1.plist.link/plepg/img/channels/3021.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 21
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73021/index.m3u8?token=oPJi20elbEg-wezNgzCk9Ed2CnDvzTRUdXXYi5V3QytpQPc9-7bz5bFaYNP3oNLW.maxtvnew
-#EXTINF:0 tvg-id="chnl-3022" tvg-name="OKKO Спорт 22" tvg-logo="http://de1.plist.link/plepg/img/channels/3022.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 22
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN13022/index.m3u8?token=oPJi20elbEg-wezNgzCk9IjkTe9mrM8PDivQs4VWQ9Gaf8lWAjW5xwBm-2iAtyMe.maxtvnew
-#EXTINF:0 tvg-id="chnl-3023" tvg-name="OKKO Спорт 23" tvg-logo="http://de1.plist.link/plepg/img/channels/3023.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 23
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63023/index.m3u8?token=oPJi20elbEg-wezNgzCk9NoKNFs1BL2QnxOC74daO6SZMzCHSkKN3ardpz_kxhi3.maxtvnew
-#EXTINF:0 tvg-id="chnl-3024" tvg-name="OKKO Спорт 24" tvg-logo="http://de1.plist.link/plepg/img/channels/3024.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 24
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53024/index.m3u8?token=oPJi20elbEg-wezNgzCk9NeQPZwuRYcRxqTDjJQrhwVm8sdNofzuNISp5AQac-LB.maxtvnew
-#EXTINF:0 tvg-id="chnl-3025" tvg-name="OKKO Спорт 25" tvg-logo="http://de1.plist.link/plepg/img/channels/3025.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 25
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73025/index.m3u8?token=oPJi20elbEg-wezNgzCk9G5nGVkSHEeUPOn3-EWYo6UqsOw5sMWAG6NF5x1iwRCr.maxtvnew
-#EXTINF:0 tvg-id="chnl-3026" tvg-name="OKKO Спорт 26" tvg-logo="http://de1.plist.link/plepg/img/channels/3026.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 26
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73026/index.m3u8?token=oPJi20elbEg-wezNgzCk9NsheUbhLXt-E2kQ-KNow7DCXwqjefZetWN7hZKgiebR.maxtvnew
-#EXTINF:0 tvg-id="chnl-3027" tvg-name="OKKO Спорт 27" tvg-logo="http://de1.plist.link/plepg/img/channels/3027.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 27
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43027/index.m3u8?token=oPJi20elbEg-wezNgzCk9MVovD8Idl9Bp84hCpVnPXSYK-FzHhG__pMqiRHQncbq.maxtvnew
-#EXTINF:0 tvg-id="chnl-3028" tvg-name="OKKO Спорт 28" tvg-logo="http://de1.plist.link/plepg/img/channels/3028.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 28
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN03028/index.m3u8?token=oPJi20elbEg-wezNgzCk9F33eMuRE74jvKjtarSQRWG4AVUzJ5xniHmtbb2biJGv.maxtvnew
-#EXTINF:0 tvg-id="chnl-3029" tvg-name="OKKO Спорт 29" tvg-logo="http://de1.plist.link/plepg/img/channels/3029.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 29
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN33029/index.m3u8?token=oPJi20elbEg-wezNgzCk9BjGTsOAug6QmLbSwr8ip7At70TRHDPcBfRuznfA0Fr1.maxtvnew
-#EXTINF:0 tvg-id="chnl-3030" tvg-name="OKKO Спорт 30" tvg-logo="http://de1.plist.link/plepg/img/channels/3030.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", OKKO Спорт 30
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53030/index.m3u8?token=oPJi20elbEg-wezNgzCk9Cm7F8c_djUNmWe-VyCePgFoNCcQH35meFxWL4tqNdHG.maxtvnew
-#EXTINF:0 tvg-id="chnl-3201" tvg-name="Триколор Спорт 1" tvg-logo="http://de1.plist.link/plepg/img/channels/3201.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 1
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73201/index.m3u8?token=oPJi20elbEg-wezNgzCk9GJbmxHEzonHSnX0GcTnEkqPd9uuqB2Z39jCkabzeKxR.maxtvnew
-#EXTINF:0 tvg-id="chnl-3202" tvg-name="Триколор Спорт 2" tvg-logo="http://de1.plist.link/plepg/img/channels/3202.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 2
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN83202/index.m3u8?token=oPJi20elbEg-wezNgzCk9Eg_99nXzGCsf0JKVMjaD9HAcETYvxNduIEM9RDIxsv6.maxtvnew
-#EXTINF:0 tvg-id="chnl-3203" tvg-name="Триколор Спорт 3" tvg-logo="http://de1.plist.link/plepg/img/channels/3203.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 3
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN23203/index.m3u8?token=oPJi20elbEg-wezNgzCk9N4qXl6Yz_qV_Sxb_BQUfudBQkdyPt7qydKStkYg9dej.maxtvnew
-#EXTINF:0 tvg-id="chnl-3204" tvg-name="Триколор Спорт 4" tvg-logo="http://de1.plist.link/plepg/img/channels/3204.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 4
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN13204/index.m3u8?token=oPJi20elbEg-wezNgzCk9AAGb43GppYT8k13mxUK-amn83xJYwHg-PBnOEzTPD81.maxtvnew
-#EXTINF:0 tvg-id="chnl-3205" tvg-name="Триколор Спорт 5" tvg-logo="http://de1.plist.link/plepg/img/channels/3205.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 5
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93205/index.m3u8?token=oPJi20elbEg-wezNgzCk9HWIX_6nPIU0JRw2E50ZTIKgJSdVluC-6AdJxLIT4aLE.maxtvnew
-#EXTINF:0 tvg-id="chnl-3206" tvg-name="Триколор Спорт 6" tvg-logo="http://de1.plist.link/plepg/img/channels/3206.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 6
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN33206/index.m3u8?token=oPJi20elbEg-wezNgzCk9CaX3hS4hsfZKyP34kO6EePgpV553f5iCY6_BqD4lQMe.maxtvnew
-#EXTINF:0 tvg-id="chnl-3207" tvg-name="Триколор Спорт 7" tvg-logo="http://de1.plist.link/plepg/img/channels/3207.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 7
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN23207/index.m3u8?token=oPJi20elbEg-wezNgzCk9LWNtAnNe1OsaR2yUozJ0fogl_VhXfnl0wXZx2oyrzri.maxtvnew
-#EXTINF:0 tvg-id="chnl-3208" tvg-name="Триколор Спорт 8" tvg-logo="http://de1.plist.link/plepg/img/channels/3208.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 8
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43208/index.m3u8?token=oPJi20elbEg-wezNgzCk9F1iss1VKFxhPRqZO557c2CENP6wsGPl9RiDnnUt0Gt2.maxtvnew
-#EXTINF:0 tvg-id="chnl-3209" tvg-name="Триколор Спорт 9" tvg-logo="http://de1.plist.link/plepg/img/channels/3209.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 9
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93209/index.m3u8?token=oPJi20elbEg-wezNgzCk9FNdXc60730f-CfA33f2VchPZ-c82klmSzhRbCk9lEuw.maxtvnew
-#EXTINF:0 tvg-id="chnl-3210" tvg-name="Триколор Спорт 10" tvg-logo="http://de1.plist.link/plepg/img/channels/3210.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 10
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73210/index.m3u8?token=oPJi20elbEg-wezNgzCk9DeVxo-uinFVGTRIXT04E3cD4a-ljTZBr6Xm25-ymwyh.maxtvnew
-#EXTINF:0 tvg-id="chnl-3211" tvg-name="Триколор Спорт 11" tvg-logo="http://de1.plist.link/plepg/img/channels/3211.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 11
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN13211/index.m3u8?token=oPJi20elbEg-wezNgzCk9NR3yTcUFfazm98BjwkCXOtn4nOriv91IF_b5_UQfDHc.maxtvnew
-#EXTINF:0 tvg-id="chnl-3212" tvg-name="Триколор Спорт 12" tvg-logo="http://de1.plist.link/plepg/img/channels/3212.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 12
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN33212/index.m3u8?token=oPJi20elbEg-wezNgzCk9CME5QEO0cyxxrUDDW5ac3nDWrfYrIRHSXprSfAr1MZW.maxtvnew
-#EXTINF:0 tvg-id="chnl-3213" tvg-name="Триколор Спорт 13" tvg-logo="http://de1.plist.link/plepg/img/channels/3213.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 13
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63213/index.m3u8?token=oPJi20elbEg-wezNgzCk9JuoMSQHZ-bPdKvACcpbSH7pLp-5Mz0V1xh5v7iRrZ6a.maxtvnew
-#EXTINF:0 tvg-id="chnl-3214" tvg-name="Триколор Спорт 14" tvg-logo="http://de1.plist.link/plepg/img/channels/3214.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 14
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63214/index.m3u8?token=oPJi20elbEg-wezNgzCk9BTc84hN8Vfa7uVPwXHWpd24CTcYif0-VJL2o08hawJB.maxtvnew
-#EXTINF:0 tvg-id="chnl-3215" tvg-name="Триколор Спорт 15" tvg-logo="http://de1.plist.link/plepg/img/channels/3215.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 15
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73215/index.m3u8?token=oPJi20elbEg-wezNgzCk9A_cBXua1Y9xtdZ1CMv_i-rxnbKdYlg40jo8kxOsRSLR.maxtvnew
-#EXTINF:0 tvg-id="chnl-3216" tvg-name="Триколор Спорт 16" tvg-logo="http://de1.plist.link/plepg/img/channels/3216.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 16
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73216/index.m3u8?token=oPJi20elbEg-wezNgzCk9Pc__pUe0ehrxHR5kZD0yBjm4g835piV9Cr2bLC5DKiu.maxtvnew
-#EXTINF:0 tvg-id="chnl-3217" tvg-name="Триколор Спорт 17" tvg-logo="http://de1.plist.link/plepg/img/channels/3217.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 17
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93217/index.m3u8?token=oPJi20elbEg-wezNgzCk9PxMWlTwrJ02KNnTGhC3EXnFmk_YL_Ki-Spnrrwqzvq1.maxtvnew
-#EXTINF:0 tvg-id="chnl-3218" tvg-name="Триколор Спорт 18" tvg-logo="http://de1.plist.link/plepg/img/channels/3218.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 18
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53218/index.m3u8?token=oPJi20elbEg-wezNgzCk9PgK0fwFmpvH74_p2dLSdjVSqKM2CHMmbz9J3LC8Onw5.maxtvnew
-#EXTINF:0 tvg-id="chnl-3219" tvg-name="Триколор Спорт 19" tvg-logo="http://de1.plist.link/plepg/img/channels/3219.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 19
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73219/index.m3u8?token=oPJi20elbEg-wezNgzCk9PRcb84FkpuBMrJDW6ZrjCWkGCBpEcwAlyp_Jtnc32vI.maxtvnew
-#EXTINF:0 tvg-id="chnl-3220" tvg-name="Триколор Спорт 20" tvg-logo="http://de1.plist.link/plepg/img/channels/3220.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 20
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93220/index.m3u8?token=oPJi20elbEg-wezNgzCk9HtqWXAtc4qNDswsTUKhYTpux3XjbOygAhHX053sOneG.maxtvnew
-#EXTINF:0 tvg-id="chnl-3221" tvg-name="Триколор Спорт 21" tvg-logo="http://de1.plist.link/plepg/img/channels/3221.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 21
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93221/index.m3u8?token=oPJi20elbEg-wezNgzCk9HQ5Ckh67vv8gj6nhBApJbl9OgHrGhBKr7Twe6T1kXGX.maxtvnew
-#EXTINF:0 tvg-id="chnl-3222" tvg-name="Триколор Спорт 22" tvg-logo="http://de1.plist.link/plepg/img/channels/3222.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 22
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43222/index.m3u8?token=oPJi20elbEg-wezNgzCk9F4699KTaCS577y_zrqnj6HHqDxrW5mcC21PmndP_99z.maxtvnew
-#EXTINF:0 tvg-id="chnl-3223" tvg-name="Триколор Спорт 23" tvg-logo="http://de1.plist.link/plepg/img/channels/3223.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 23
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63223/index.m3u8?token=oPJi20elbEg-wezNgzCk9OwmyIRU7TmnOiCjEcREoHoi2mZ0SaS-JCK0js9K-738.maxtvnew
-#EXTINF:0 tvg-id="chnl-3224" tvg-name="Триколор Спорт 24" tvg-logo="http://de1.plist.link/plepg/img/channels/3224.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 24
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73224/index.m3u8?token=oPJi20elbEg-wezNgzCk9MJxE059i5TkoxPE-DNx80ZwsJYafkGZzTwhZZlK5imj.maxtvnew
-#EXTINF:0 tvg-id="chnl-3225" tvg-name="Триколор Спорт 25" tvg-logo="http://de1.plist.link/plepg/img/channels/3225.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 25
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53225/index.m3u8?token=oPJi20elbEg-wezNgzCk9OhmO4oBCB_nfYImZWjjAIBm3htJBQUJZMEdh_bYypHX.maxtvnew
-#EXTINF:0 tvg-id="chnl-3226" tvg-name="Триколор Спорт 26" tvg-logo="http://de1.plist.link/plepg/img/channels/3226.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 26
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53226/index.m3u8?token=oPJi20elbEg-wezNgzCk9M2qMNdD7_4xoDBV9pmIp36Z0ivVm8I6IgBiD6J02LR4.maxtvnew
-#EXTINF:0 tvg-id="chnl-3227" tvg-name="Триколор Спорт 27" tvg-logo="http://de1.plist.link/plepg/img/channels/3227.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 27
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN33227/index.m3u8?token=oPJi20elbEg-wezNgzCk9HCksuzlJyEWZwcLHjdsRiRc1v_bcWnK2Pyh4m8SVO3O.maxtvnew
-#EXTINF:0 tvg-id="chnl-3228" tvg-name="Триколор Спорт 28" tvg-logo="http://de1.plist.link/plepg/img/channels/3228.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 28
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63228/index.m3u8?token=oPJi20elbEg-wezNgzCk9BW3uCxdlvDG6Fkzf4nJgvObx8ZnKbd0Xy2HZmrge-uE.maxtvnew
-#EXTINF:0 tvg-id="chnl-3229" tvg-name="Триколор Спорт 29" tvg-logo="http://de1.plist.link/plepg/img/channels/3229.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Триколор Спорт 29
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43229/index.m3u8?token=oPJi20elbEg-wezNgzCk9JSh5ZgYZxAwAHUWcoLa3lOT2gKZiiX8HWbnmJc88074.maxtvnew
-#EXTINF:0 tvg-id="chnl-3101" tvg-name="Кинопоиск Спорт 1" tvg-logo="http://de1.plist.link/plepg/img/channels/3101.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 1
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93101/index.m3u8?token=oPJi20elbEg-wezNgzCk9Lk-XYlMYBWg4HLRIK1hvE7zvzMkDDY562yHjukE1Rki.maxtvnew
-#EXTINF:0 tvg-id="chnl-3102" tvg-name="Кинопоиск Спорт 2" tvg-logo="http://de1.plist.link/plepg/img/channels/3102.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 2
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53102/index.m3u8?token=oPJi20elbEg-wezNgzCk9HVnmY5qMf7jH96HNb0vzf3xEG9_v8MESUzPgA6yN2rt.maxtvnew
-#EXTINF:0 tvg-id="chnl-3103" tvg-name="Кинопоиск Спорт 3" tvg-logo="http://de1.plist.link/plepg/img/channels/3103.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 3
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43103/index.m3u8?token=oPJi20elbEg-wezNgzCk9CKMCUXJtjoDfjVzPnbLtuJVNMhGGFxf5FqFoupYyREX.maxtvnew
-#EXTINF:0 tvg-id="chnl-3104" tvg-name="Кинопоиск Спорт 4" tvg-logo="http://de1.plist.link/plepg/img/channels/3104.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 4
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN23104/index.m3u8?token=oPJi20elbEg-wezNgzCk9KnNCgQuzkHjCIrSL5MgfpHL1BM3jP69g1QC3W9NbaGB.maxtvnew
-#EXTINF:0 tvg-id="chnl-3105" tvg-name="Кинопоиск Спорт 5" tvg-logo="http://de1.plist.link/plepg/img/channels/3105.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 5
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN83105/index.m3u8?token=oPJi20elbEg-wezNgzCk9Nm-sL5SNZMr5HXaUsU5QM9QpBv8nL1UkbBnjUJnVbO9.maxtvnew
-#EXTINF:0 tvg-id="chnl-3106" tvg-name="Кинопоиск Спорт 6" tvg-logo="http://de1.plist.link/plepg/img/channels/3106.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 6
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63106/index.m3u8?token=oPJi20elbEg-wezNgzCk9DVLGulK3t8xkKzY7xTfYGeXweU51TTyXd8bHTu9O-YG.maxtvnew
-#EXTINF:0 tvg-id="chnl-3107" tvg-name="Кинопоиск Спорт 7" tvg-logo="http://de1.plist.link/plepg/img/channels/3107.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 7
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43107/index.m3u8?token=oPJi20elbEg-wezNgzCk9IvPzozIT6o0rRR0Q1om2MybgL-6NvuJ595N91doA--q.maxtvnew
-#EXTINF:0 tvg-id="chnl-3108" tvg-name="Кинопоиск Спорт 8" tvg-logo="http://de1.plist.link/plepg/img/channels/3108.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 8
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN83108/index.m3u8?token=oPJi20elbEg-wezNgzCk9JNL9CvU_qANUi2PIZ6h6brZKsuxTm4RtIFSfCdzGaOm.maxtvnew
-#EXTINF:0 tvg-id="chnl-3109" tvg-name="Кинопоиск Спорт 9" tvg-logo="http://de1.plist.link/plepg/img/channels/3109.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 9
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN43109/index.m3u8?token=oPJi20elbEg-wezNgzCk9EPKIrVnQ7o1TMRpJr0qzVzi6Ob05eprQTeKNoFL_8wW.maxtvnew
-#EXTINF:0 tvg-id="chnl-3110" tvg-name="Кинопоиск Спорт 10" tvg-logo="http://de1.plist.link/plepg/img/channels/3110.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 10
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53110/index.m3u8?token=oPJi20elbEg-wezNgzCk9J1DRnT2My3_x2w3W-P0lLSjON60wGYNNYJMBWMEYWM0.maxtvnew
-#EXTINF:0 tvg-id="chnl-3111" tvg-name="Кинопоиск Спорт 11" tvg-logo="http://de1.plist.link/plepg/img/channels/3111.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 11
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63111/index.m3u8?token=oPJi20elbEg-wezNgzCk9Gja2Mb6B7JHjq_U6oIXkDiWim41j_J63n6bKBo5RVE7.maxtvnew
-#EXTINF:0 tvg-id="chnl-3112" tvg-name="Кинопоиск Спорт 12" tvg-logo="http://de1.plist.link/plepg/img/channels/3112.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 12
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73112/index.m3u8?token=oPJi20elbEg-wezNgzCk9GiDJjQA7K_OJFpG9XIBT4velfqFnrLHgN7KUZyP-BmG.maxtvnew
-#EXTINF:0 tvg-id="chnl-3113" tvg-name="Кинопоиск Спорт 13" tvg-logo="http://de1.plist.link/plepg/img/channels/3113.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 13
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN93113/index.m3u8?token=oPJi20elbEg-wezNgzCk9LHB0YwZ9oFZt7FY-fTFQ_yAcmHpufuL_F4Qt_n8mg7b.maxtvnew
-#EXTINF:0 tvg-id="chnl-3114" tvg-name="Кинопоиск Спорт 14" tvg-logo="http://de1.plist.link/plepg/img/channels/3114.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 14
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73114/index.m3u8?token=oPJi20elbEg-wezNgzCk9NuPCumMVXaXdeW_19RMxzmn0p0efZ1llyfmTkM6oJP0.maxtvnew
-#EXTINF:0 tvg-id="chnl-3115" tvg-name="Кинопоиск Спорт 15" tvg-logo="http://de1.plist.link/plepg/img/channels/3115.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 15
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN73115/index.m3u8?token=oPJi20elbEg-wezNgzCk9GpOgPCRMWgCIvI_LgycP5iFDk5C3MTpMSPPIYYCzE-G.maxtvnew
-#EXTINF:0 tvg-id="chnl-3116" tvg-name="Кинопоиск Спорт 16" tvg-logo="http://de1.plist.link/plepg/img/channels/3116.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 16
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN23116/index.m3u8?token=oPJi20elbEg-wezNgzCk9F7QhqahnAL-fuPwPEScoLaH8o2wIWKYVURs9_c6lG_a.maxtvnew
-#EXTINF:0 tvg-id="chnl-3117" tvg-name="Кинопоиск Спорт 17" tvg-logo="http://de1.plist.link/plepg/img/channels/3117.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 17
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN53117/index.m3u8?token=oPJi20elbEg-wezNgzCk9DbxDjAcMKoIF7KpH5lyWwseULANG6g_XkaDeC4OcbKO.maxtvnew
-#EXTINF:0 tvg-id="chnl-3118" tvg-name="Кинопоиск Спорт 18" tvg-logo="http://de1.plist.link/plepg/img/channels/3118.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 18
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN03118/index.m3u8?token=oPJi20elbEg-wezNgzCk9GWcd6z7P9BERVWbpTcy_yACk6E-YlbWK4IC9OUZLTxz.maxtvnew
-#EXTINF:0 tvg-id="chnl-3119" tvg-name="Кинопоиск Спорт 19" tvg-logo="http://de1.plist.link/plepg/img/channels/3119.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 19
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN33119/index.m3u8?token=oPJi20elbEg-wezNgzCk9JtCcHnjFSNZi18fuT2YfBtY8uJNHtjGDmnj2IgblyVa.maxtvnew
-#EXTINF:0 tvg-id="chnl-3120" tvg-name="Кинопоиск Спорт 20" tvg-logo="http://de1.plist.link/plepg/img/channels/3120.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Кинопоиск Спорт 20
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN63120/index.m3u8?token=oPJi20elbEg-wezNgzCk9FvltjLPA5x9t8q1WCGbwSNjmA0z80qGiybsGoCJAgcg.maxtvnew
-#EXTINF:0 tvg-id="chnl-2699" tvg-name="Старт Баскет" tvg-logo="http://de1.plist.link/plepg/img/channels/2699.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Старт Баскет
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN32699/index.m3u8?token=oPJi20elbEg-wezNgzCk9Bew1kXKlbZEfhktJtDODC2rirX7W5BAv7ZtxbgSDuqb.maxtvnew
-#EXTINF:0 tvg-id="chnl-2782" tvg-name="Fight Club HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2782.png?69d67d0b12eb5" tvg-rec="0" timeshift="0" group-title="7. Спорт", Fight Club HD
-#EXTGRP:7. Спорт
-http://de1.plist.link:3355/yaUwUzs9RVN72782/index.m3u8?token=oPJi20elbEg-wezNgzCk9MVbAJpAPTaAnLpyOoO-TwkV0EgqO3yEbjVCOOWETBh_.maxtvnew
-#EXTINF:0 tvg-id="chnl-490" tvg-name="Bridge TV" tvg-logo="http://de1.plist.link/plepg/img/channels/490.png?69d67d0b130bf" tvg-rec="0" timeshift="0" group-title="8. Музыкальные", Bridge TV
+
 
 
 
@@ -22689,68 +22370,6 @@ https://files.uzbeklar.biz/film3/shelbilar/35qism.mp4
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Монстры на каникулах 3. Море зовёт [МУЛЬТ/США/2018]
-http://dmitry-tv.ddns.net/hls/multfilm/MONSTRY_NA_KANIKULAH3.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Облачно. возможны осадки в виде фрикаделек [МУЛЬТ/США/2009]
-http://dmitry-tv.ddns.net/hls/multfilm/OBLACHNO.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Облачно... 2. Месть ГМО [МУЛЬТ/США/2013]
-http://dmitry-tv.ddns.net/hls/multfilm/OBLACHNO2.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Приключения Тинтина: Тайна Единорога [МУЛЬТ/США/2011]
-http://dmitry-tv.ddns.net/hls/multfilm/PRIKLYUCHENIYA_TINTINA_TAYNA_EDINOROGA.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Ранго [МУЛЬТ/США/2011]
-http://dmitry-tv.ddns.net/hls/multfilm/RANGO.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Робинзон Крузо: Очень обитаемый остров [МУЛЬТ/ФРАНЦИЯ/2016]
-http://dmitry-tv.ddns.net/hls/multfilm/ROBINZON_KRUZO.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Рок Дог [МУЛЬТ/США/2016]
-http://dmitry-tv.ddns.net/hls/multfilm/ROK_DOG.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Семейка Крудс: Новоселье [МУЛЬТ/США/2020]
-http://dmitry-tv.ddns.net/hls/multfilm/SEMEYKA_KRUDS_NOVOSELE.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Смурфики 2 [МУЛЬТ/США/2013]
-http://dmitry-tv.ddns.net/hls/multfilm/SMURFIKI2.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Смурфики. Затерянная деревня [МУЛЬТ/США/2017]
-http://dmitry-tv.ddns.net/hls/multfilm/SMURFIKI_ZATERYANNAYA_DEREVNYA.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Снежная королева [МУЛЬТ/РОССИЯ/2012]
-http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Снежная королева 2: Перезаморозка [МУЛЬТ/РОССИЯ/2014]
-http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA2.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Снежная королева 3: Огонь и лёд [МУЛЬТ/РОССИЯ/2016]
-http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA3.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Спирит Непокорный [МУЛЬТ/США/2021]
-http://dmitry-tv.ddns.net/hls/multfilm/SPIRIT_NEPOKORNYI.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Стань легендой! Бигфут Младший [МУЛЬТ/БЕЛЬГИЯ/2017]
-http://dmitry-tv.ddns.net/hls/multfilm/STAN_LEGENDOY.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и Морской царь [МУЛЬТ/РОССИЯ/2016]
-http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_MORSKOY_CAR.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и Наследница престола [МУЛЬТ/РОССИЯ/2018]
-http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_NASLEDNICA_PRESTOLA.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и принцесса Египта [МУЛЬТ/РОССИЯ/2017]
-http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_PRINCESSA_EGIPTA.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и Шамаханская царица [МУЛЬТ/РОССИЯ/2010]
-http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_SHAMAHANSKAYA_CARICA.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря на дальних берегах [МУЛЬТ/РОССИЯ/2012]
-http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_NA_DALNIH_BEREGAH.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря. Ход конем [МУЛЬТ/РОССИЯ/2014]
-http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_HOD_KONEM.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Человек-паук. Через вселенные [МУЛЬТ/США/2018]
-http://dmitry-tv.ddns.net/hls/multfilm/CHELOVEK_PAUK_CHEREZ_VSELENNYE.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Шрэк [МУЛЬТ/США/2001]
-http://dmitry-tv.ddns.net/hls/multfilm/SHREK.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Шрэк 2 [МУЛЬТ/США/2004]
-http://dmitry-tv.ddns.net/hls/multfilm/SHREK2.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Шрэк третий [МУЛЬТ/США/2007]
-http://dmitry-tv.ddns.net/hls/multfilm/SHREK_TRETIY.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Эмоджи фильм [МУЛЬТ/США/2017]
-http://dmitry-tv.ddns.net/hls/multfilm/EMODZHI_FILM.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]
-http://dmitry-tv.ddns.net/hls/multfilm/ERNEST_I_SELESTINA.m3u8
 
 
 
