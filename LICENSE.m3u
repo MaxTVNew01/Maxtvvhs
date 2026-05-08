@@ -2805,8 +2805,6 @@ http://178.63.98.119:8000/play/a01g/index.m3u8
 http://178.63.98.119:8000/play/a01f/index.m3u8
 
 
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤",Info
-https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 #EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤",Amedia 2
