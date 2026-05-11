@@ -2790,6 +2790,233 @@ http://178.63.98.119:8000/play/a01g/index.m3u8
 http://178.63.98.119:8000/play/a01f/index.m3u8
 
 
+
+
+#EXTM3U
+#EXTINF:-1 group-title="MaxTV Kino",TV 1000
+http://46.32.176.50/tv1000/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",TV 1000 Action
+http://46.32.176.50/tv1000action/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",TV 1000 Русское
+http://46.32.176.50/tv1000ruskoekino/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Русская комедия
+http://tv.ttk.mx:9050
+#EXTINF:-1 group-title="MaxTV Kino",Русский Детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Русский Роман
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Иллюзион+
+http://46.32.176.50/illuzion/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Русский Иллюзион
+http://46.32.176.50/russkiyiluzion/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Родное MaxTV Kino
+http://46.32.176.50/rodnoekino/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Время
+http://46.32.176.50/Vremya/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Победа
+http://s1.merlive.am/pobeda/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Патриот
+http://185.46.48.18:80/asvtv/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="MaxTV Kino",Наше новое MaxTV Kino
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 group-title="MaxTV Kino",У КРАЯ БЕЗДНЫ 24/7
+http://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 group-title="MaxTV Kino",Мир сериала
+http://46.32.176.50/mirseriala/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Мужское MaxTV Kino HD
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",VIP Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",VIP Premiere HD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",VIP Comedy HD
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",VIP Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Romance
+http://46.32.176.50/worldfashion/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Дом MaxTV Kino
+http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Дом MaxTV Kino Премиум HD
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",НСТ
+http://46.32.176.50/nst/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoсвидание
+http://46.32.176.50/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoхит
+http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoсерия HD
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoмикс HD
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoсемья HD
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoкомедия
+http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Любимое MaxTV Kino
+http://46.32.176.50/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",.Black
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",.Sci-Fi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",TV XXI
+http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Plan B
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Индийское MaxTV Kino
+http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Zee-TV
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="MaxTV Kino",ЕвроMaxTV Kino
+http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Amedia 2
+http://46.32.176.50/amedia2/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Amedia Hit
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Amedia Premium
+http://46.32.176.50/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Amedia Premium HD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Сапфир
+http://46.32.176.50/foxlife/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Кинеко
+http://46.32.176.50/foxrussia/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",312 MaxTV Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Телекафе
+http://46.32.176.50/telekafe/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Т24
+http://46.32.176.50/24texno/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Феникс плюс HD
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoлаффкаᴴᴰ
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
+#EXTINF:-1 group-title="MaxTV Kino",Смотрим
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino6
+http://185.57.68.33:80/255/playlist.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",ФИЛЬМ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Мосфильм
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino-1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Детское MaxTV Kino International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino 18+ International
+http://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Советское MaxTV Kino
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Вестник Надыма
+https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",KINO зал
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Наш MaxTV Kinoмир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Про Любовь HD
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Live TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MyTV2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MyTV3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Наше HD
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Про100 ТВ
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Китай ТВ
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV KinoСезон
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Rvision Movies
+https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Rvision MaxTV Kinoпанорама
+https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",FilmON
+https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",FilmOFF
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Logovo Films
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoрейс
+https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Film Visit
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Cinemator
+https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",SSAFilm
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Popcorn Theatre
+https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",KINO FILE
+https://live21.bozztv.com/giatvplayout7/ushba99/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",K1HO
+https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",UniMed
+https://live20.bozztv.com/giatvplayout7/ushba101/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",KINOSTREAM
+https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Сов.Ком
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",ЗОВ ТВ
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoзал
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",ScripachTV
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
+#EXTINF:-1 group-title="MaxTV Kino",Kinowalk Tv
+https://kinowalk.hopto.org/kinowalk_live
+
+
+
+
+
+
 #EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="📺 𝙈𝙖𝙭𝙏𝙑 𝙆𝙞𝙣𝙤",Amedia 2
