@@ -211,8 +211,6 @@ https://iptv.itv.uz/hls/live/t/haiTzYHI4enez5J447DYtw/e/1778525499/1499/index.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ", ВОЕНТВ
-http://92.63.106.41/ptv/voka/ch.php?id=81f0a5cd-abaa-4699-b470-aa397a91f450
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда HD
 http://de1.plist.link:3355/FGfpnUmovVu6023/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPzOueewN_jOH0hRy0ejV0xOD8y5T3N8gFeYI8OoeeKVv.tg6457680141
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда 2
