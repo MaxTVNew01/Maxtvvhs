@@ -4041,550 +4041,117 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
 
-
-#EXTGRP: Max Спорт
-http://bde.online24.pm/play/15/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png"  tvg-rec="5" timeshift="5", Eurosport HD
-#EXTGRP: Max Спорт
-http://bde.online24.pm/play/145/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/43/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/361/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="Матч! ПРЕМЬЕР" tvg-logo="https://ip-tv.dev/epg/icon/match-premiere.png"  tvg-rec="5" timeshift="5", Матч! ПРЕМЬЕР
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/37/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="Матч Премьер HD" tvg-logo="https://ip-tv.dev/epg/icon/match-premiere.png"  tvg-rec="5" timeshift="5", Матч Премьер HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/250/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч Арена" tvg-logo="https://ip-tv.dev/epg/icon/match-arena.png"  tvg-rec="5" timeshift="5", Матч Арена
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/136/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч! Арена HD" tvg-logo="https://ip-tv.dev/epg/icon/match-arena.png"  tvg-rec="5" timeshift="5", Матч! Арена HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/146/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-planeta" tvg-name="Матч! Планета" tvg-logo="https://ip-tv.dev/epg/icon/match-planeta.png"  tvg-rec="5" timeshift="5", Матч! Планета
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/14/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч ТВ" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч ТВ
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч! HD" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч! HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/397/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч! 50fps" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч! 50fps
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/680/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-boets" tvg-name="Матч! Боец HD" tvg-logo="https://ip-tv.dev/epg/icon/match-boec.png"  tvg-rec="5" timeshift="5", Матч! Боец HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/30/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-nash-sport" tvg-name="МАТЧ! Страна" tvg-logo="https://ip-tv.dev/epg/icon/match-nash-sport.png"  tvg-rec="5" timeshift="5", МАТЧ! Страна
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/134/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="https://ip-tv.dev/epg/icon/match-nash-sport.png"  tvg-rec="5" timeshift="5", Матч! Страна HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/212/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра" tvg-logo="https://ip-tv.dev/epg/icon/match-igra.png"  tvg-rec="5" timeshift="5", Матч! Игра
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/153/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра HD" tvg-logo="https://ip-tv.dev/epg/icon/match-igra.png"  tvg-rec="5" timeshift="5", Матч! Игра HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/268/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-1.png"  tvg-rec="5" timeshift="5", Матч! Футбол 1 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/260/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч Футбол 1" tvg-logo="https://ip-tv.dev/epg/icon/match-football-1.png"  tvg-rec="5" timeshift="5", Матч Футбол 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/54/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-2.png"  tvg-rec="5" timeshift="5", Матч! Футбол 2 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/271/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmatch-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-3.png"  tvg-rec="5" timeshift="5", Матч! Футбол 3 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/329/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmegogo-sport" tvg-name="Megogo Спорт HD" tvg-logo="https://ip-tv.dev/images/ico/megogo-sport.png"  tvg-rec="5" timeshift="5", Megogo Спорт HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1001/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Setanta Sports Premium HD" tvg-logo="https://ip-tv.dev/images/ico/5d1013c8-594c-4fb6-a6d1-654df583a246.png" , Setanta Sports Premium HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1650/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsetanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports.png"  tvg-rec="5" timeshift="5", Setanta Sports Ukraine
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1434/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsetanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports-plus.png"  tvg-rec="5" timeshift="5", Setanta Sports+ Ukraine
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/9957/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsetanta-sports" tvg-name="Setanta Sports 1 HD" tvg-logo="https://ip-tv.dev/images/ico/setanta-sports1.png"  tvg-rec="5" timeshift="5", Setanta Sports 1 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/942/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsetanta-sports-plus" tvg-name="Setanta Sports 2 HD" tvg-logo="https://ip-tv.dev/images/ico/setanta-sports2.png"  tvg-rec="5" timeshift="5", Setanta Sports 2 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/943/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsetanta-kz" tvg-name="Setanta Qazaqstan" tvg-logo="https://ip-tv.dev/images/ico/setanta-kz.png"  tvg-rec="5" timeshift="5", Setanta Qazaqstan
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5094/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Setanta Sports HD MD" tvg-logo="https://ip-tv.dev/images/epg/11008.png?v1745673062" , Setanta Sports HD MD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/11008/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsuspilne-sport-ua" tvg-name="Суспільне Спорт" tvg-logo="https://ip-tv.dev/images/ico/suspilne_sport.png" , Суспільне Спорт
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/316/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xdivisport" tvg-name="DiviSport" tvg-logo="https://ip-tv.dev/images/ico/divisport.png" , DiviSport
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/315/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xdynamo-kyiv-tv" tvg-name="Dynamo Kyiv TV" tvg-logo="https://ip-tv.dev/images/ico/dynamo-kyiv-tv.png" , Dynamo Kyiv TV
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/8797/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол" tvg-logo="https://ip-tv.dev/epg/icon/futbol.png"  tvg-rec="5" timeshift="5", Футбол
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/171/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол HD" tvg-logo="https://ip-tv.dev/epg/icon/futbol.png"  tvg-rec="5" timeshift="5", Футбол HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/3920/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viju+ Sport" tvg-logo="https://ip-tv.dev/images/ico/viju-viasat-sport.png"  tvg-rec="5" timeshift="5", Viju+ Sport
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/77/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/viju-viasat-sport.png"  tvg-rec="5" timeshift="5", Viju+ Sport HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/198/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xokko-sport" tvg-name="Окко Спорт HD" tvg-logo="https://ip-tv.dev/images/ico/okko-sport.png"  tvg-rec="5" timeshift="5", Окко Спорт HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/7337/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xokko-football" tvg-name="Окко Футбол HD" tvg-logo="https://ip-tv.dev/images/ico/okko-football.png"  tvg-rec="5" timeshift="5", Окко Футбол HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/7338/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xokko-sport-2" tvg-name="	Окко.Прайм Спорт" tvg-logo="https://ip-tv.dev/images/epg/1833.png?v1744706916"  tvg-rec="5" timeshift="5", 	Окко.Прайм Спорт
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1833/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xokko-chemp" tvg-name="Окко Чемпионат" tvg-logo="https://ip-tv.dev/images/epg/2037.png?v1773512349"  tvg-rec="5" timeshift="5", Окко Чемпионат
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/2037/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xstart-triumf" tvg-name="Старт Триумф HD" tvg-logo="https://ip-tv.dev/images/ico/start-triumf.png"  tvg-rec="5" timeshift="5", Старт Триумф HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/7375/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xstart" tvg-name="Старт HD" tvg-logo="https://ip-tv.dev/epg/icon/start.png"  tvg-rec="5" timeshift="5", Старт HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/9946/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xkonny-mir" tvg-name="Конный мир HD" tvg-logo="https://ip-tv.dev/epg/icon/konny-mir.png"  tvg-rec="5" timeshift="5", Конный мир HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/394/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xkxl" tvg-name="КХЛ" tvg-logo="https://ip-tv.dev/epg/icon/khl.png"  tvg-rec="5" timeshift="5", КХЛ
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/149/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xkxl-hd" tvg-name="KHL Prime" tvg-logo="https://ip-tv.dev/images/ico/kxl-hd.png"  tvg-rec="5" timeshift="5", KHL Prime
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/177/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xxokkejny" tvg-name="Хоккейный" tvg-logo="https://ip-tv.dev/images/ico/xokkejny.png"  tvg-rec="5" timeshift="5", Хоккейный
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/6160/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-tv" tvg-name="Бокс ТВ" tvg-logo="https://ip-tv.dev/epg/icon/box-tv.png"  tvg-rec="5" timeshift="5", Бокс ТВ
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/482/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsport1-ua" tvg-name="Sport 1 UA" tvg-logo="https://ip-tv.dev/images/ico/sport1ua.png" , Sport 1 UA
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/2638/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsport2-ua" tvg-name="Sport 2 UA" tvg-logo="https://ip-tv.dev/images/ico/sport2ua.png" , Sport 2 UA
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/2639/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Sport 3 UA HD" tvg-logo="https://ip-tv.dev/images/ico/sport3ua.png" , Sport 3 UA HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/2640/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Sport 4 UA" tvg-logo="https://ip-tv.dev/images/ico/sport4ua.png" , Sport 4 UA
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/2641/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xnba-tv" tvg-name="NBA TV" tvg-logo="https://ip-tv.dev/epg/icon/nba-tv.png"  tvg-rec="5" timeshift="5", NBA TV
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/9984/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="https://ip-tv.dev/images/ico/mir-basketbola.png"  tvg-rec="5" timeshift="5", Мир Баскетбола
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/8831/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xfootbolny" tvg-name="Мяч" tvg-logo="https://ip-tv.dev/images/ico/footbolny.png" , Мяч
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1763/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xavto-plus" tvg-name="Авто Плюс" tvg-logo="https://ip-tv.dev/epg/icon/avto-plus.png"  tvg-rec="5" timeshift="5", Авто Плюс
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/29/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xextreme-sports" tvg-name="Extreme Sports" tvg-logo="https://ip-tv.dev/epg/icon/extreme-sports.png"  tvg-rec="5" timeshift="5", Extreme Sports
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/53/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsportivny" tvg-name="Спортивный" tvg-logo="https://ip-tv.dev/images/ico/sportivny.png"  tvg-rec="5" timeshift="5", Спортивный
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/6159/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xufc" tvg-name="UDAR" tvg-logo="https://ip-tv.dev/images/ico/ufc.png"  tvg-rec="5" timeshift="5", UDAR
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4111/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xzhivi-aktivno" tvg-name="Живи активно HD" tvg-logo="https://ip-tv.dev/images/ico/zhivi-aktivno.png"  tvg-rec="5" timeshift="5", Живи активно HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1771/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="UFC ТВ HD" tvg-logo="https://ip-tv.dev/images/ico/7913.png" , UFC ТВ HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1777/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="MMA-TV HD" tvg-logo="https://ip-tv.dev/images/ico/mma.png" , MMA-TV HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/3795/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="X	no_epg_sport" tvg-name="Equalympic HD" tvg-logo="https://ip-tv.dev/images/ico/Equalympic_HD.jpg" , Equalympic HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/8788/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xrussky-ekstrim" tvg-name="Русский Экстрим" tvg-logo="https://ip-tv.dev/epg/icon/russky-ekstrim.png"  tvg-rec="5" timeshift="5", Русский Экстрим
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/345/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xtochka-otryva" tvg-name="Точка отрыва" tvg-logo="https://ip-tv.dev/epg/icon/tochka-otryva.png"  tvg-rec="5" timeshift="5", Точка отрыва
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/601/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xavto24" tvg-name="Авто 24" tvg-logo="https://ip-tv.dev/epg/icon/avto24.png"  tvg-rec="5" timeshift="5", Авто 24
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/256/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xcars-n-stars" tvg-name="Cars & Stars TV HD" tvg-logo="https://ip-tv.dev/images/ico/cars-n-stars.png"  tvg-rec="5" timeshift="5", Cars & Stars TV HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/9904/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xfightbox-hd" tvg-name="FightBox" tvg-logo="https://ip-tv.dev/images/ico/fightbox-hd.png"  tvg-rec="5" timeshift="5", FightBox
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/8790/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xtrace-sport-stars" tvg-name="TRACE Sport Stars" tvg-logo="https://ip-tv.dev/images/ico/trace-sport-stars.png"  tvg-rec="5" timeshift="5", TRACE Sport Stars
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/9907/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xfastfunbox-hd" tvg-name="Fast&FunBox" tvg-logo="https://ip-tv.dev/images/ico/fastfunbox-hd.png"  tvg-rec="5" timeshift="5", Fast&FunBox
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/8792/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xmaincast-sport" tvg-name="MAINCAST SPORT " tvg-logo="https://ip-tv.dev/images/epg/1994.png?v1763826253" , MAINCAST SPORT 
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1994/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="1889" tvg-name="Tennis+", Tennis+
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1889/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xupltv" tvg-name="UPL.TV HD" tvg-logo="https://ip-tv.dev/images/ico/upl.png"  tvg-rec="5" timeshift="5", UPL.TV HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/523/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xupltv1" tvg-name="УПЛ ТВ 1" tvg-logo="https://ip-tv.dev/images/ico/upltv1.png"  tvg-rec="5" timeshift="5", УПЛ ТВ 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/524/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xupltv2" tvg-name="УПЛ ТВ 2" tvg-logo="https://ip-tv.dev/images/ico/upltv2.png"  tvg-rec="5" timeshift="5", УПЛ ТВ 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/525/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xupltv3" tvg-name="УПЛ ТВ 3" tvg-logo="https://ip-tv.dev/images/ico/upltv3.png"  tvg-rec="5" timeshift="5", УПЛ ТВ 3
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/526/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077"  tvg-rec="5" timeshift="5", QazSport
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1841/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145"  tvg-rec="5" timeshift="5", Q Arena
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1842/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274"  tvg-rec="5" timeshift="5", Q Sport League
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1843/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369"  tvg-rec="5" timeshift="5", Sport+ Qazaqstan
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1844/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX_SPORT_LIVE_1_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" , BOX_SPORT_LIVE_1_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51013/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX_SPORT_LIVE_2_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" , BOX_SPORT_LIVE_2_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51014/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX_SPORT_LIVE_3_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" , BOX_SPORT_LIVE_3_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51015/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX_SPORT_LIVE_4_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX_SPORT_LIVE_4_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51016/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX_SPORT_LIVE_5_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX_SPORT_LIVE_5_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51017/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX_SPORT_LIVE_6_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX_SPORT_LIVE_6_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51018/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX_SPORT_LIVE_7_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX_SPORT_LIVE_7_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51019/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX_SPORT_LIVE_8_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live8.png" , BOX_SPORT_LIVE_8_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51020/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX_SPORT_LIVE_9_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX_SPORT_LIVE_9_HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51021/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4K", BOX_SPORT_LIVE_4K
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51022/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbein-sport-1" tvg-name="BeIN Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" , BeIN Sport 1 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1101/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbein-sport-2" tvg-name="BeIN Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" , BeIN Sport 2 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1102/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbein-sport-3" tvg-name="BeIN Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png" , BeIN Sport 3 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1103/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbein-sport-4" tvg-name="BeIN Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png" , BeIN Sport 4 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1104/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="BeIN EXTRAS" tvg-logo="https://ip-tv.dev/images/epg/1686.png?v1743766086" , BeIN EXTRAS
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1686/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbt-sport1" tvg-name="TNT Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport1.png" , TNT Sport 1 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/922/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbt-sport2" tvg-name="TNT Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" , TNT Sport 2 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/923/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbt-sport3" tvg-name="TNT Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport3.png" , TNT Sport 3 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/934/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" , DAZN 1 DE
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/803/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="DAZN 2 DE" tvg-logo="https://ip-tv.dev/images/epg/809.png?v1743766115" , DAZN 2 DE
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/809/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" , Movistar Formula 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1121/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" , Sky Sport Bundesliga HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/836/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Live Sport 1", Live Sport 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1580/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Live Sport 2", Live Sport 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1581/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 1" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1704/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 2" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1705/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 3" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 3
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1706/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 4" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 4
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1707/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 5" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 5
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1708/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 6" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 6
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1709/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 7" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 7
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1710/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 8" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 8
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1711/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 9" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 9
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1712/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 10" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 10
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1713/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 11" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 11
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1714/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 12" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 12
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1715/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Football Live 13" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 13
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1716/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 1" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5009/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 2" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5010/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 3" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 3
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5011/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 4" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 4
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5012/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 5" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 5
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5013/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 7" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 7
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5014/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 6" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 6
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5015/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 8" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 8
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5016/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 9" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 9
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5017/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 10" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 10
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5018/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 11" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 11
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5019/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 12" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 12
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5020/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="VIP Sport 13" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 13
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5021/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name=" ViP Sport 14" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" ,  ViP Sport 14
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5022/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="ViP Sport 15" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , ViP Sport 15
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5023/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="ViP Sport 16" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , ViP Sport 16
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5024/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="ViP Sport 17" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , ViP Sport 17
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5025/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="betking live 1" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , betking live 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5026/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="betking live 2" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , betking live 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5027/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="FintGa 1" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5028/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="FintGa 2" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5029/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="FintGa 3" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 3
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5030/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="FintGa 4" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 4
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5031/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Pimple 1" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 1
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5032/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Pimple 2" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5033/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Pimple 3" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 3
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5034/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Pimple 4" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 4
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5035/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Pimple 5" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 5
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5036/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Pimple 6" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 6
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5037/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-beonedge" tvg-name="BOX Be ON Edge HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge.png" , BOX Be ON Edge HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4215/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-beonedge1live" tvg-name="BOX Be ON Edge 1 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge1live.png" , BOX Be ON Edge 1 Live HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4213/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-beonedge2live" tvg-name="BOX Be ON Edge 2 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge2live.png" , BOX Be ON Edge 2 Live HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4214/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX SportCast Live 1 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" , BOX SportCast Live 1 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4224/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX SportCast Live 2 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" , BOX SportCast Live 2 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4225/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX SportCast Live 3 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" , BOX SportCast Live 3 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4226/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX SportCast Live 4 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX SportCast Live 4 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4227/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX SportCast Live 5 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX SportCast Live 5 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4228/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX SportCast Live 6 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX SportCast Live 6 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4232/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX SportCast Live 7 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX SportCast Live 7 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4233/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX SportCast Live 8 HD" tvg-logo="https://ip-tv.dev/images/epg/4234.png?v1743766406" , BOX SportCast Live 8 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4234/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX SportCast Live 9 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX SportCast Live 9 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4235/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="MMA Junkie" tvg-logo="https://ip-tv.dev/images/ico/MMAJunkie.png" , MMA Junkie
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5718/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Dubai Sports 2" tvg-logo="https://ip-tv.dev/images/ico/dubaisports2.png" , Dubai Sports 2
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5406/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="Dubai Sports 3" tvg-logo="https://ip-tv.dev/images/ico/dubaisports3.png" , Dubai Sports 3
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/5407/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-1" tvg-name="Diema Sport HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-1.png" , Diema Sport HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51002/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51003/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-3.png" , Diema Sport 3 HD
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51004/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 4K
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51001/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 4K" tvg-logo="https://ip-tv.dev/images/epg/51000.jpg?v1743766303" , Diema Sport 3 4K
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/51000/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="SPORT TV + PT", SPORT TV + PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1967/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="SPORT TV 1 PT", SPORT TV 1 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1968/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="SPORT TV 2 PT", SPORT TV 2 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1969/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="SPORT TV 3 PT", SPORT TV 3 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1970/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="SPORT TV 4 PT", SPORT TV 4 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1971/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="SPORT TV 5 PT", SPORT TV 5 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1972/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="SPORT TV 6 PT", SPORT TV 6 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1973/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="M+ Deportes ES", M+ Deportes ES
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1974/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="M+ Deportes 2 ES", M+ Deportes 2 ES
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1975/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="M+ Deportes 3 ES", M+ Deportes 3 ES
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1976/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="M+ Deportes 4 ES", M+ Deportes 4 ES
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1977/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="DAZN 1 PT", DAZN 1 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1978/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="DAZN 2 PT", DAZN 2 PT
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1979/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="DAZN 1 ESPANA ", DAZN 1 ESPANA 
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1980/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-name="DAZN 2 ESPAÑA", DAZN 2 ESPAÑA
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/1981/B992025420701DB/video.m3u8
-#EXTINF:0 tvg-id="Xclarity4k-edinoborstva" tvg-name="Clarity4K Единоборства" tvg-logo="https://ip-tv.dev/images/ico/clarity4k-edinoborstva.png" , Clarity4K Единоборства
-#EXTGRP:Max Спорт
-http://bde.online24.pm/play/4611/B992025420701DB/video.m3u8
-
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Eurosport 1
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/176.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Eurosport 2
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/192.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч! Футбол 1
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/130.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч! Футбол 2
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/142.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч! Футбол 3
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/185.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч! Игра
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/188.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч! СТРАНА
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/143.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч! Арена
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/163.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч ТВ
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/169.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч! Боец
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/112.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Матч Премьер
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/193.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Setanta Sports 1
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/234.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Setanta Sports 2
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/235.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Setanta Sports UA
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/313.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Setanta Sports+
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/390.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Sport 1 Baltic
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/461.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Sport 1
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/391.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Sport 2
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/392.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Sport 3
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/393.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Sport 4
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/394.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Sport 5
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/212.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Dynamo Kyiv TV
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/396.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Trace Sports
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/256.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Суспільне Max Sport
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/444.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",DiVi Sport
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/457.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Maincast кіберMax Sport
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/487.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Maincast sport
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/490.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",KHL ТВ
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/166.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",KHL Prime
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/178.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Viju+ Sport
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/333.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",TV3 Sport LT
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/416.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Бокс ТВ
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/154.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Беларусь 5
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/33.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Extreme Sports
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/148.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",UDAR
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/279.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Qazsport
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/72.m3u8
+#EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Equalympic
+#EXTGRP:Max Sport
+http://ott.watch/stream/M2OKG1JWDY/485.m3u8
 
 
 
