@@ -2166,6 +2166,34 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="" group-title="Турция",Sat7turk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
   
+#EXTM3U url-tvg="http://1lot.tv/epg/epg.xml"
+#EXTINF:-1 group-title="Украинские" tvg-id="ua-pershy" tvg-logo="http://1lot.tv/ch/0196.png" catchup-type="flussonic" catchup-days="1" ,Перший
+http://s.only4.tv/0196/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="5kanal-ua" tvg-logo="http://1lot.tv/ch/0165.png" catchup-type="flussonic" catchup-days="2" ,5 Канал
+http://s.only4.tv/0165/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="unian-tv" tvg-logo="http://1lot.tv/ch/6160.png" catchup-type="flussonic" catchup-days="1" ,Уніан Серіал
+http://s.only4.tv/6160/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="sonce-ua" tvg-logo="http://1lot.tv/ch/0183.png" catchup-type="flussonic" catchup-days="1" ,Сонце
+http://s.only4.tv/0183/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="rada-ua" tvg-logo="http://1lot.tv/ch/0186.png" catchup-type="flussonic" catchup-days="1" ,Рада
+http://s.only4.tv/0186/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="pixel" tvg-logo="http://1lot.tv/ch/0166.png" catchup-type="flussonic" catchup-days="1" ,Піксель
+http://s.only4.tv/0166/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="otse" tvg-logo="http://1lot.tv/ch/5538.png" catchup-type="flussonic" catchup-days="1" ,Оце
+http://s.only4.tv/5538/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="z-zapor" tvg-logo="http://1lot.tv/ch/6555.png" catchup-type="flussonic" catchup-days="1" ,МТМ (Запоріжжя)
+http://s.only4.tv/6555/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="pervy-gorodskoy-kryvrig" tvg-logo="http://1lot.tv/ch/6748.png" catchup-type="flussonic" catchup-days="1" ,Перший Міський (Кривий Ріг)
+http://s.only4.tv/6748/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="pervy-gorodskoy-odessa" tvg-logo="http://1lot.tv/ch/6749.png" catchup-type="flussonic" catchup-days="1" ,Перший Міський (Одеса)
+http://s.only4.tv/6749/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="pershy-zaxidny" tvg-logo="http://1lot.tv/ch/6751.png" catchup-type="flussonic" catchup-days="1" ,Перший Західний (Львів)
+http://s.only4.tv/6751/video.m3u8?token=Zv84H3fPJu
+#EXTINF:-1 group-title="Украинские" tvg-id="24news-ua" tvg-logo="http://1lot.tv/ch/5573.png" catchup-type="flussonic" catchup-days="1" ,24 Канал
+http://s.only4.tv/5573/video.m3u8?token=Zv84H3fPJu
+#EXT-X-ENDLIST
+
+
 
 
 EXTINF:-1 group-title="Россия",Rossiya24
