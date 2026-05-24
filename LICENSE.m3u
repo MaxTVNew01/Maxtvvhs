@@ -2219,8 +2219,6 @@ EXTINF:-1 group-title="Кино",Kinokomediya
 http://176.118.197.101/Kinokomediya/mono.m3u8
 EXTINF:-1 group-title="Кино",Kinomix
 http://176.118.197.101/Kinomix/mono.m3u8
-#EXTINF:-1,Kinopokaz
-http://176.118.197.101/Kinopokaz/mono.m3u8
 EXTINF:-1 group-title="Кино",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
 EXTINF:-1 group-title="Кино",Komediya
