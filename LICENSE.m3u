@@ -5763,10 +5763,7 @@ http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2536/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2538/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO
-#EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2540/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV Viihde HD FI
+#EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO 
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2541/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
@@ -6012,19 +6009,11 @@ http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/211/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/212/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Премьер HD
-#EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/220/index.m3u8
-#EXTINF:0 tvg-rec="7",Кинопремьера HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/224/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/225/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
-#EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/222/index.m3u8
-#EXTINF:0 tvg-rec="7",Комедийное HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/912/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена HD
@@ -6033,10 +6022,6 @@ http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/207/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/206/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 1 HD
-#EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/228/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6303/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт HD
