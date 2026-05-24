@@ -540,6 +540,1062 @@ http://de1.plist.link:3355/FGfpnUmovVu120059/index.m3u8?token=oxIXXMtzS0fmegaXRm
 
 
 
+
+
+#EXTINF:0 tvg-rec="0",Первый канал UHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19241/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 UHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19242/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ UHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19405/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ UHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19238/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/20018/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал FHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2402/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/204/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/127/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый канал +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/714/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6021/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +4 HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15117/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +6
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6037/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +8
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6050/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия 1 FHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2409/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/504/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6011/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6022/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +6
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6038/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +8
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6051/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/213/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ Хит HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/16062/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ Мир
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/14035/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/501/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/713/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6024/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6039/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +8
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6053/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ Центр
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/520/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ Центр +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/716/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6027/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6041/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +8
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6056/index.m3u8
+#EXTINF:0 tvg-rec="7",Пятый канал
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/112/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/746/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6025/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6040/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +8
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6054/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15119/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ FHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2417/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/237/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/502/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6035/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6049/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/506/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6015/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6029/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6043/index.m3u8
+#EXTINF:0 tvg-rec="7",РЕН ТВ HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2024/index.m3u8
+#EXTINF:0 tvg-rec="7",РЕН ТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/128/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/747/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6028/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6042/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/113/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6019/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6034/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6048/index.m3u8
+#EXTINF:0 tvg-rec="7",ОТР
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/705/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6014/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6026/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда Плюс HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19230/index.m3u8
+#EXTINF:0 tvg-rec="7",Звезда
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/544/index.m3u8
+#EXTINF:0 tvg-rec="3",Звезда +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/739/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6033/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6047/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Love
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/103/index.m3u8
+#EXTINF:0 tvg-rec="7",Че!
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/513/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ-3 HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/5033/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ-3
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/508/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6017/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6031/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6045/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/5031/index.m3u8
+#EXTINF:0 tvg-rec="7",Пятница!
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/503/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6018/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6032/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6046/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2086/index.m3u8
+#EXTINF:0 tvg-rec="7",Суббота!
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/826/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/514/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6016/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6030/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +7
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6044/index.m3u8
+#EXTINF:0 tvg-rec="3",Настоящее время
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/986/index.m3u8
+#EXTINF:0 tvg-rec="7",Ностальгия
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/102/index.m3u8
+#EXTINF:0 tvg-rec="7",Ю ТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/534/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/104/index.m3u8
+#EXTINF:0 tvg-rec="7",КВН ТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/546/index.m3u8
+#EXTINF:0 tvg-rec="7",Сарафан
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/748/index.m3u8
+#EXTINF:0 tvg-rec="0",Московское образование HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/16043/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка ТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2053/index.m3u8
+#EXTINF:0 tvg-rec="3",360 HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2065/index.m3u8
+#EXTINF:0 tvg-rec="7",360
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/825/index.m3u8
+#EXTINF:0 tvg-rec="3",СПАС
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/983/index.m3u8
+#EXTINF:0 tvg-rec="7",Союз
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2016/index.m3u8
+#EXTINF:0 tvg-rec="7",Здоровое ТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2022/index.m3u8
+#EXTINF:0 tvg-rec="7",Психология
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2025/index.m3u8
+#EXTINF:0 tvg-rec="7",Успех
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2041/index.m3u8
+#EXTINF:0 tvg-rec="7",Кто есть кто
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2042/index.m3u8
+#EXTINF:0 tvg-rec="3",Открытый мир
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2078/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2099/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2116/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2108/index.m3u8
+#EXTINF:0 tvg-rec="3",Красная линия
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2147/index.m3u8
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2110/index.m3u8
+#EXTINF:0 tvg-rec="3",Хузур ТВ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2150/index.m3u8
+#EXTINF:0 tvg-rec="7",Дождь
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2030/index.m3u8
+#EXTINF:0 tvg-rec="3",GNC HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/955/index.m3u8
+#EXTINF:0 tvg-rec="3",Вместе-РФ
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2073/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия К
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/505/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9002/index.m3u8
+#EXTINF:0 tvg-rec="3",Gametoon HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/5049/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9028/index.m3u8
+#EXTINF:0 tvg-rec="3",Ратник HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2119/index.m3u8
+#EXTINF:0 tvg-rec="3",360 HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9036/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ Центр orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9095/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9096/index.m3u8
+#EXTINF:0 tvg-rec="3",Звезда orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9098/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15115/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Love orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9099/index.m3u8
+#EXTINF:0 tvg-rec="3",ОТР orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9100/index.m3u8
+#EXTINF:0 tvg-rec="3",Че! orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9101/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9102/index.m3u8
+#EXTINF:0 tvg-rec="3",Суббота! orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9103/index.m3u8
+#EXTINF:0 tvg-rec="0",Суббота! HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15118/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашний orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9104/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15116/index.m3u8
+#EXTINF:0 tvg-rec="3",Ностальгия orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9106/index.m3u8
+#EXTINF:0 tvg-rec="3",Ю ТВ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9107/index.m3u8
+#EXTINF:0 tvg-rec="3",КВН ТВ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9108/index.m3u8
+#EXTINF:0 tvg-rec="3",Сарафан orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9109/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка ТВ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9110/index.m3u8
+#EXTINF:0 tvg-rec="3",СПАС orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9111/index.m3u8
+#EXTINF:0 tvg-rec="3",Союз orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9112/index.m3u8
+#EXTINF:0 tvg-rec="3",Здоровое ТВ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9113/index.m3u8
+#EXTINF:0 tvg-rec="3",Психология orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9114/index.m3u8
+#EXTINF:0 tvg-rec="3",Успех orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9115/index.m3u8
+#EXTINF:0 tvg-rec="3",Кто есть кто orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9116/index.m3u8
+#EXTINF:0 tvg-rec="3",Открытый мир orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9117/index.m3u8
+#EXTINF:0 tvg-rec="3",Красная линия orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9119/index.m3u8
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9120/index.m3u8
+#EXTINF:0 tvg-rec="3",Хузур ТВ HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9121/index.m3u8
+#EXTINF:0 tvg-rec="3",Вместе-РФ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9124/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый канал orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9201/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия 1 orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9202/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 HD 50
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15133/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9203/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9204/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9205/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ-3 orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9206/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9207/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ4 orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9208/index.m3u8
+#EXTINF:0 tvg-rec="3",360 orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9209/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9211/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9212/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/7251/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/7252/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/7253/index.m3u8
+#EXTINF:0 tvg-rec="7",Звезда Плюс
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/10059/index.m3u8
+#EXTINF:0 tvg-rec="0",RT Documentary HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/14157/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Crime HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15136/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр International
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15229/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ International HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15230/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +1 (Приволжье)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15284/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15287/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15288/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15290/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15291/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15293/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15294/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15295/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15296/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15297/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15298/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15301/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15302/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15303/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15304/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15305/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15306/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15308/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15309/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15313/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15315/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15316/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15317/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15318/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15319/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15320/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15321/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15322/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15323/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15324/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15325/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15326/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15327/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия К +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15328/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15330/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15331/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15332/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15333/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15334/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15336/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15337/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия К +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15338/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15341/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15342/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15343/index.m3u8
+#EXTINF:0 tvg-rec="0",СПАС +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15344/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15345/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15346/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15347/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15348/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15349/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15350/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15351/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +5 (Иркутск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15355/index.m3u8
+#EXTINF:0 tvg-rec="0",БСТ 24 (Братск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15359/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +4 (Абакан)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15367/index.m3u8
+#EXTINF:0 tvg-rec="0",БТК HD (Белорецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15371/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15372/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15373/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15374/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15375/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +4 (Кузбасс)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15376/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15377/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15379/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15380/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15381/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15382/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15383/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +2 (Нефтекамск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15384/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15385/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15386/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15388/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15389/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15391/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15392/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15393/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15394/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15395/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15396/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15398/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15397/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +0 (Алания)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15403/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +5 (Иркутск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15413/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +4 (Красноярск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15415/index.m3u8
+#EXTINF:0 tvg-rec="0",Прима (Красноярск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15417/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВК (Красноярск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15420/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +0 (Белгород)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15426/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +0 (Белгород)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15427/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +0 (Белгород)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15428/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15431/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15433/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15434/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия К +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15435/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15437/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15438/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15439/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15440/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15443/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия К +2 (Пермь)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15445/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15447/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15449/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15450/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия К +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15451/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр + (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15454/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15455/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15456/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15457/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15458/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15459/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15460/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +2 (Белорецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15462/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15464/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15465/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15466/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15467/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15469/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15470/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15471/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15472/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15473/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТВ (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15476/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +0 (Белгород)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15477/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +0 (Белгород)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15479/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ +0 (Белгород)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15480/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +2 (Нефтекамск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15481/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +2 (Нефтекамск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15482/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! +2 (Нефтекамск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15483/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ-3 +2 (Нефтекамск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15484/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +2 (Нефтекамск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15485/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +2 (Белорецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15486/index.m3u8
+#EXTINF:0 tvg-rec="0",Дождь HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/20083/index.m3u8
+#EXTINF:0 tvg-rec="0",Trece HD ES
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/31885/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр +0 (Ставрополь)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/31892/index.m3u8
+#EXTINF:0 tvg-rec="0",Патриот
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/31928/index.m3u8
+#EXTINF:0 tvg-rec="0",РБК HD 50
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/10029/index.m3u8
+#EXTINF:0 tvg-rec="0",Экоспаскоми (Коми)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/17018/index.m3u8
+#EXTINF:0 tvg-rec="0",Крик ТВ HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15012/index.m3u8
+#EXTINF:0 tvg-rec="0",РБК HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/16075/index.m3u8
+#EXTINF:0 tvg-rec="0",Инфоканал
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/407/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия 24 +2
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/6013/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК FHD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2404/index.m3u8
+#EXTINF:0 tvg-rec="7",РБК
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/106/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 24
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/507/index.m3u8
+#EXTINF:0 tvg-rec="7",Москва 24
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/523/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2107/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир 24
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/712/index.m3u8
+#EXTINF:0 tvg-rec="7",Euronews Россия
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/828/index.m3u8
+#EXTINF:0 tvg-rec="7",Известия
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2008/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/2064/index.m3u8
+#EXTINF:0 tvg-rec="7",NHK World HD JP
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/729/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9213/index.m3u8
+#EXTINF:0 tvg-rec="7",CGTN
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/830/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9214/index.m3u8
+#EXTINF:0 tvg-rec="3",Euronews Россия orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9215/index.m3u8
+#EXTINF:0 tvg-rec="3",Известия orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9216/index.m3u8
+#EXTINF:0 tvg-rec="0",Известия HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/18039/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9217/index.m3u8
+#EXTINF:0 tvg-rec="3",Москва 24 orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9218/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9219/index.m3u8
+#EXTINF:0 tvg-rec="3",RT News orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9220/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9222/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN Русский HD orig
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/9223/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +4 (Алтай)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15292/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +2 (Уфа)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15312/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +0 (Невинномысск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15329/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +7 (Владивосток)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15339/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +5 (Иркутск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15358/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +3 (Омск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15378/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +4 (Томск)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15390/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +0 (Алания)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15404/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +0 (Липецк)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15405/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15412/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +4
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15416/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +0 (Элиста)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15452/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +0 (Тамбов)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15468/index.m3u8
+#EXTINF:0 tvg-rec="0",100% News UA
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/16041/index.m3u8
+#EXTINF:0 tvg-rec="0",360 Новости HD
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/18038/index.m3u8
+#EXTINF:0 tvg-rec="0",РТР Планета
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/18042/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC One HD UK
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19176/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC Two HD UK
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19177/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC Alba UK
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19179/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC First HD UK
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19181/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC Scotland HD UK
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/19183/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 +0 (Нижний Новгород)
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/31891/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый информационный HD BY
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/31912/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox News FHD US
+#EXTGRP:Российские каналы
+http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/31915/index.m3u8
+
+
+
+
+
+
+
 EXTINF:-1 group-title="Россия ",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Россия ",Россия 1
@@ -2793,6 +3849,472 @@ https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-megahit" ,Viju+ Megahit
+https://kino.zunotv.workers.dev/viju_plus_megahit_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-premiere" ,Viju+ Premiere
+https://kino.zunotv.workers.dev/viju_plus_premiere_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-comedy" ,Viju+ Comedy
+https://kino.zunotv.workers.dev/viju_plus_comedy_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-serial" ,Viju+ Serial
+https://kino.zunotv.workers.dev/viju_plus_serial_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000" ,Viju TV1000
+https://kino.zunotv.workers.dev/viju_tv1000_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-action" ,Viju TV1000 Action
+https://kino.zunotv.workers.dev/viju_tv1000_action_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="viju-tv1000-novella" ,Viju TV1000 Новелла
+https://kino.zunotv.workers.dev/viju_tv1000_novella_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-russkoe-kino" ,Viju TV1000 Русское HD
+https://kino.zunotv.workers.dev/viju_tv1000_russkoe_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="nst" ,НСТ
+https://kino.zunotv.workers.dev/nst/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино" ,Киноман
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1  group-title="💎 Max кино" ,ТВ 21
+https://kino.zunotv.workers.dev/tv_21/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="start-world" ,START World
+https://kino.zunotv.workers.dev/start_world_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="start-air" ,START Air
+https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="sony-tv" ,.red 
+https://kino.zunotv.workers.dev/red_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="sony-turbo" ,.black
+https://kino.zunotv.workers.dev/black_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="evrokino" ,Еврокино
+https://kino.zunotv.workers.dev/evrokino/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-illuzion" ,Русский иллюзион
+https://kino.zunotv.workers.dev/russkiy_illyuzion/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-roman" ,Русский роман
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-detektiv" ,Русский детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-bestseller" ,Русский бестселлер
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russkaya-komedia" ,Русская Комедия
+http://176.118.197.101/Komediya/mono.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="domkino" ,Дом Кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="domkino-premium" ,Дом Кино Премиум
+https://kino.zunotv.workers.dev/dom_kino_premium_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="nash-kinopokaz" ,Наш Кинопоказ 
+https://kino.zunotv.workers.dev/nash_kinopokaz_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="retro-tv" ,Ретро
+https://kino.zunotv.workers.dev/retro/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="ntv-serial" ,НТВ Сериал
+https://kino.zunotv.workers.dev/ntv_serial_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="novellatv" ,Novella TV
+https://kino.zunotv.workers.dev/novella_tv_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="illuzion-plus" ,Иллюзион+
+https://kino.zunotv.workers.dev/illyuzion_plus_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinomiks" ,Киномикс
+http://cdn.kubteltv.workers.dev/?ID=105
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinouzhas" ,Киноужас
+http://cdn.kubteltv.workers.dev/?ID=200
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinoseria" ,Киносерия
+http://cdn.kubteltv.workers.dev/?ID=316
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinokomedia" ,Кинокомедия
+http://cdn.kubteltv.workers.dev/?ID=328
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinoxit" ,Кинохит
+https://kino.zunotv.workers.dev/kinohit_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinosvidanie" ,Киносвидание 
+https://kino.zunotv.workers.dev/kinosvidanie_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinosemiya" ,Киносемья
+https://kino.zunotv.workers.dev/kinosemya_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinopremiera-hd" ,Кинопремьера
+https://kino.zunotv.workers.dev/kinopremera_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="nashe-novoe-kino" ,Наше Новое Кино
+https://kino.zunotv.workers.dev/nashe_novoe_kino_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="muzhskoe-kino" ,Мужское Кино
+https://kino.zunotv.workers.dev/muzhskoe_kino_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="rodnoe-kino" ,Родное Кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="blokbaster" ,Блокбастер
+http://cdn.kubteltv.workers.dev/?ID=219
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="khit" ,Хит
+http://cdn.kubteltv.workers.dev/?ID=255
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinojam1" ,KinoJam 1
+http://cdn.kubteltv.workers.dev/?ID=297
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinojam2" ,KinoJam 2
+http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="detectivejam" ,DetectiveJam
+http://cdn.kubteltv.workers.dev/?ID=299
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="cinema-ru" ,Cinema
+http://cdn.kubteltv.workers.dev/?ID=352
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="fanhd" ,FAN
+http://cdn.kubteltv.workers.dev/?ID=354
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia1" ,Amedia 1
+https://kino.zunotv.workers.dev/amedia_1_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia2" ,Amedia 2
+https://kino.zunotv.workers.dev/amedia_2_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia-hit" ,Amedia Hit
+https://kino.zunotv.workers.dev/amedia_hit_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia-premium" ,Amedia Premium
+https://kino.zunotv.workers.dev/amedia_premium_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино" 💎 Max кино
+https://s07.watcher.uz/168/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="hollywood-hd" ,Hollywood HD
+https://kino.zunotv.workers.dev/hollywood_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinopokaz" ,Кинопоказ
+http://176.118.197.101/Kinopokaz/mono.m3u8
+#EXTINF:-1  group-title="💎 Max кино" ,Shot 
+http://178.134.1.158:8081/shottv/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="lubimoe-kino" ,Любимое Кино
+http://176.118.197.101/LubimoeKino/mono.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinokult" ,КиноКульт 
+https://kino.zunotv.workers.dev/kinokult_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="horrortv" ,Horror TV 
+https://kino.zunotv.workers.dev/horror_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="suspense" ,Suspense 
+https://kino.zunotv.workers.dev/suspense_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vhska-serial" ,VHS-ка Сериал 
+https://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино" ,VHS-ка Русское кино 
+https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="sony-scifi" ,.sci-fi
+https://kino.zunotv.workers.dev/sci_fi_hd/index.m3u8
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 русское
+http://109.70.186.82:9090/udp/239.185.1.2:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-premiere" ,viju+ Premiere
+http://109.70.186.82:9090/udp/239.185.1.10:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000" ,viju TV1000
+http://109.70.186.82:9090/udp/239.185.1.4:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-action" ,viju TV1000 action
+http://109.70.186.82:9090/udp/239.185.1.3:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia-premium" ,Amedia Premium HD
+http://109.70.186.82:9090/udp/239.185.1.9:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-megahit" ,viju+ Megahit HD
+http://109.70.186.82:9090/udp/239.185.1.11:1234
+#EXTINF:-1  group-title="💎 Max кино" ,viju TV1000 romanti
+http://109.70.186.82:9090/udp/239.185.1.19:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia-hit" ,Amedia Hit HD
+http://109.70.186.82:9090/udp/239.185.1.13:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-comedy" ,viju+ Comedy HD
+http://109.70.186.82:9090/udp/239.185.1.12:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinopokaz" ,Кинопоказ
+http://213.141.224.226:4022/udp/238.1.1.98:1234
+#EXTINF:-1  group-title="💎 Max кино" ,sci-fi
+http://213.141.224.226:4022/udp/238.1.1.71:1234
+#EXTINF:-1  group-title="💎 Max кино" ,red
+http://213.141.224.226:4022/udp/238.1.1.69:1234
+#EXTINF:-1  group-title="💎 Max кино" ,black
+http://213.141.224.226:4022/udp/238.1.1.70:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-illuzion" ,Русский иллюзион
+http://83.217.12.157:81/udp/239.1.1.203:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia1" ,Amedia 1
+http://213.141.224.226:4022/udp/238.1.1.244:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="rodnoe-kino" ,Родное кино
+http://213.141.224.226:4022/udp/238.1.1.92:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="mosfilm" ,Мосфильм
+http://213.141.224.226:4022/udp/238.1.1.152:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="mir-seriala" ,Мир сериала
+http://213.141.224.226:4022/udp/238.1.1.75:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="lubimoe-kino" ,Любимое кино
+http://213.141.224.226:4022/udp/238.1.1.46:1234
+#EXTINF:-1  group-title="💎 Max кино" ,Киноман
+http://83.217.12.157:81/udp/239.1.1.236:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinomiks" ,Киномикс
+http://213.141.224.226:4022/udp/238.1.1.56:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinoseria" ,Киносерия
+http://213.141.224.226:4022/udp/238.1.1.59:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="domkino" ,Дом Кино
+http://213.141.224.226:4022/udp/238.1.1.67:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia2" ,Amedia 2 
+http://213.141.224.226:4022/udp/238.1.1.68:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="nashe-novoe-kino" ,Наше новое кино HD
+http://213.141.224.226:4022/udp/238.1.1.72:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-detektiv" ,Русский детектив
+http://213.141.224.226:4022/udp/238.1.1.171:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-roman" ,Русский роман HD
+http://213.141.224.226:4022/udp/238.1.1.172:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-bestseller" ,Русский бестселлер
+http://213.141.224.226:4022/udp/238.1.1.164:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="ntv-xit" ,НТВ ХИТ
+http://83.217.12.157:81/udp/239.1.1.200:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinokomedia" ,Кинокомедия
+http://83.217.12.157:81/udp/239.1.1.87:1234
+#EXTINF:-1  group-title="💎 Max кино" ,Dom Kino+2
+http://83.217.12.157:81/udp/239.1.1.91:1234
+#EXTINF:-1  group-title="💎 Max кино" ,Дом кино Premium HD
+http://83.217.12.157:81/udp/239.1.1.90:1234
+#EXTINF:-1  group-title="💎 Max кино" ,TV-21 SD
+http://83.217.12.157:81/udp/239.1.1.95:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="cinema-ru" ,Cinema
+http://83.217.12.157:81/udp/239.1.1.97:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="bolt" ,Bolt 
+http://83.217.12.157:81/udp/239.1.1.105:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinosvidanie" ,Киносвидание
+http://83.217.12.157:81/udp/239.1.1.156:1234
+#EXTINF:-1  group-title="💎 Max кино" ,Т-24
+http://83.217.12.157:81/udp/239.1.1.158:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinosezon" ,Киносезон
+http://83.217.12.157:81/udp/239.1.1.171:1234
+#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinouzhas" ,Киноужас
+http://83.217.12.157:81/udp/239.1.1.189:1234
+#EXTINF:-1  group-title="💎 Max кино" 💎 Max кино
+http://83.217.12.157:81/udp/239.1.1.208:1234
+#EXTINF:-1  tvg-id="vip-premiere" ,viju+ premiere
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1  tvg-id="vip-comedy" ,viju+ Comedy
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1  tvg-id="tv1000" ,viju TV1000
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1  tvg-id="amedia-hit" ,Amedia HIT
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1  tvg-id="amedia2" ,Amedia 2
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1  tvg-id="tv1000-action" ,viju TV1000 Action
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1  tvg-id="vip-megahit" ,viju+ megahit
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1  tvg-id="kinosat" ,Киносат
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1  tvg-id="russky-bestseller" ,Русский Бестселлер
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1  tvg-id="kinosvidanie" ,Киносвидание
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1  tvg-id="russky-detektiv" ,Русский Детектив
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1  tvg-id="russky-roman" ,Русский Роман
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1  tvg-id="kinoxit" ,Кинохит
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://185.57.68.33:8091/255/index.m3u8
+#EXTINF:-1  tvg-id="smotrim-100-fakty" ,Смотрим 100% Факты
+#EXTGRP:💎 Max кино
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1  tvg-id="smotrim-100-muzhskoe" ,Смотрим 100% Мужское
+#EXTGRP:💎 Max кино
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1  tvg-id="smotrim-100-prazdnik" ,Смотрим 100% Праздник
+#EXTGRP:💎 Max кино
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1  tvg-id="kino-24" ,Kino 24
+#EXTGRP:💎 Max кино
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
+#EXTINF:-1 ,Sci Fi
+#EXTGRP:💎 Max кино
+https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1  tvg-id="smotrim-100-detskoe" ,Смотрим 100% Детское
+#EXTGRP:💎 Max кино
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1  tvg-id="smotrim-100-klassika" ,Смотрим 100% Классика
+#EXTGRP:💎 Max кино
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1  tvg-id="smotrim-100-lubov" ,Смотрим 100% Любовь
+#EXTGRP:💎 Max кино
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 ,💎 Max кино
+#EXTGRP:💎 Max кино
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1  tvg-id="mir-seriala" ,Мир сериала
+#EXTGRP:💎 Max кино
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1  tvg-id="hollywood-hd" ,Hollywood HD
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
+#EXTINF:-1  tvg-id="sony-scifi" ,.sci-fi
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+#EXTINF:-1  tvg-id="amedia-hit" ,Amedia Hit
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+#EXTINF:-1  tvg-id="amedia1" ,Amedia 1
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+#EXTINF:-1  tvg-id="amedia2" ,Amedia 2
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+#EXTINF:-1  tvg-id="sony-turbo" ,.Black
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+#EXTINF:-1  tvg-id="amedia-premium" ,Amedia Premium HD
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
+#EXTINF:-1  tvg-id="zee-tv" ,Индия
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+#EXTINF:-1  tvg-id="kinoseria" ,Киносерия
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1  tvg-id="nashe-novoe-kino" ,Наше новое кино
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
+#EXTINF:-1  tvg-id="indiyskoe-kino" ,Индийское кино
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
+#EXTINF:-1  tvg-id="kinouzhas" ,Киноужас
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
+#EXTINF:-1  tvg-id="kinosvidanie" ,Киносвидание
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
+#EXTINF:-1  tvg-id="tvxxi" ,TV XXI
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
+#EXTINF:-1  tvg-id="domkino-premium" ,Дом Кино Премиум
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+#EXTINF:-1  tvg-id="vip-serial" ,VIP Serial
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+#EXTINF:-1  tvg-id="vip-premiere" ,VIP Premiere
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+#EXTINF:-1  tvg-id="vip-megahit" ,VIP Megahit
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+#EXTINF:-1  tvg-id="vip-comedy" ,VIP Comedy
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+#EXTINF:-1  tvg-id="domkino" ,Дом Кино
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1  tvg-id="filmbox-arthouse" ,Filmbox Arthouse
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
+#EXTINF:-1  tvg-id="evrokino" ,Еврокино
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1  tvg-id="foxlife" ,Fox life
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
+#EXTINF:-1 ,Filmbox
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
+#EXTINF:-1  tvg-id="illuzion-plus" ,Иллюзион+
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1  tvg-id="ntv-serial" ,НТВ Сериал
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/ntv_serial/1/index.m3u8
+#EXTINF:-1  tvg-id="flixsnip" ,Flixsnip
+#EXTGRP:💎 Max кино
+https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
+#EXTINF:-1 ,HCT
+#EXTGRP:💎 Max кино
+http://176.118.197.101/HCT/mono.m3u8
+#EXTINF:-1  💎 Max кино HD
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 ,Dom kino
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Dom_kino/mono.m3u8
+#EXTINF:-1 ,Kinokomediya
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Kinokomediya/mono.m3u8
+#EXTINF:-1 ,Kinopokaz
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Kinopokaz/mono.m3u8
+#EXTINF:-1 ,Kinomix
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Kinomix/mono.m3u8
+#EXTINF:-1 ,Retro
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Retro/mono.m3u8
+#EXTINF:-1  tvg-id="cinema-ru" ,Cinema
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 ,Friday
+#EXTGRP:💎 Max кино
+http://94.230.128.107:8080/Friday/video.m3u8
+#EXTINF:-1  tvg-id="kinokomedia" ,Кинокомедия
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1  tvg-id="lubimoe-kino" ,Любимое кино
+#EXTGRP:💎 Max кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1  tvg-id="kinomiks" ,Киномикс
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1  tvg-id="kinopokaz" ,Кинопоказ
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1  tvg-id="russkaya-komedia" ,Комедия
+#EXTGRP:💎 Max кино
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1  tvg-id="rodnoe-kino" ,Родное кино
+#EXTGRP:💎 Max кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1  tvg-id="kinopremiera-hd" ,Кинопремьера HD
+#EXTGRP:💎 Max кино
+https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  tvg-id="kinoxit" ,Кинохит
+#EXTGRP:💎 Max кино
+https://s03.watcher.uz/47/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  tvg-id="kinopokaz" ,Кинопоказ
+#EXTGRP:💎 Max кино
+https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  tvg-id="rodnoe-kino" ,Родное кино
+#EXTGRP:💎 Max кино
+https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  tvg-id="nashe-novoe-kino" ,Наше новое кино
+#EXTGRP:💎 Max кино
+https://s05.watcher.uz/44/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  tvg-id="indiyskoe-kino" ,Индийское кино
+#EXTGRP:💎 Max кино
+https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  💎 Max кино
+#EXTGRP:💎 Max кино
+https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 💎 Max кино
+#EXTGRP:💎 Max кино
+https://s07.watcher.uz/168/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1  💎 Max кино
+#EXTGRP:💎 Max кино
+https://s06.watcher.uz/132/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 
 
@@ -2800,148 +4322,6 @@ https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Kinozal",CineMan
-http://178.63.98.119:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Action
-http://178.63.98.119:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Comedy
-http://178.63.98.119:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Katasrofi
-http://178.63.98.119:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Marvel
-http://178.63.98.119:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Melodrama
-http://178.63.98.119:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_MiniSeries
-http://178.63.98.119:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Pes
-http://178.63.98.119:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Premium
-http://178.63.98.119:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Rukino
-http://178.63.98.119:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Simpson
-http://178.63.98.119:8000/play/a00x/index.m3u8Kinozal
-#EXTINF:-1 group-title="Kinozal",CineMan_Skoraya_pomosh
-http://178.63.98.119:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Svati
-http://178.63.98.119:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Thriller
-http://178.63.98.119:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Top
-http://178.63.98.119:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_Ujasi
-http://178.63.98.119:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_VHS
-http://178.63.98.119:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_lesnik
-http://178.63.98.119:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Kinozal",CineMan_mentovskiye_voyni
-http://178.63.98.119:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Cinema_fitness
-http://178.63.98.119:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Cineman_Gluhar_Karpov
-http://178.63.98.119:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Cineman_Katastrofi_doc
-http://178.63.98.119:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Cineman_relax_4k
-http://178.63.98.119:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty Netflix
-http://178.63.98.119:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty RuFilm
-http://178.63.98.119:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty Thriller
-http://178.63.98.119:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty Индия
-http://178.63.98.119:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty Турк фильм
-http://178.63.98.119:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty аванпост
-http://178.63.98.119:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty драма
-http://178.63.98.119:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty киномикс
-http://178.63.98.119:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty криминал
-http://178.63.98.119:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Liberty сериал
-http://178.63.98.119:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_Agata
-http://178.63.98.119:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_NEWRUS
-http://178.63.98.119:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_007
-http://178.63.98.119:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Classic
-http://178.63.98.119:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Drama
-http://178.63.98.119:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_FILM1
-http://178.63.98.119:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_FILM2
-http://178.63.98.119:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_FILM3
-http://178.63.98.119:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Fantastika
-http://178.63.98.119:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Istoriya
-http://178.63.98.119:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_MAKROMIR
-http://178.63.98.119:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_MEGAMIR
-http://178.63.98.119:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_MIKROMIR
-http://178.63.98.119:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Pogrujeniye
-http://178.63.98.119:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Priklyucheniya
-http://178.63.98.119:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Scorost
-http://178.63.98.119:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Triller
-http://178.63.98.119:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_UFO
-http://178.63.98.119:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Kinozal",MiniMax_New_Western
-http://178.63.98.119:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Kinozal",NHL Network
-http://178.63.98.119:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Natgeo WILD
-http://178.63.98.119:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Kinozal",National_Geographic_HD
-http://178.63.98.119:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Setanta_Sports_1_HD
-http://178.63.98.119:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Setanta_Sports_2_HD
-http://178.63.98.119:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Adrenaline
-http://178.63.98.119:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Adventure
-http://178.63.98.119:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Best
-http://178.63.98.119:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Grand
-http://178.63.98.119:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_New_kino
-http://178.63.98.119:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Oblivion
-http://178.63.98.119:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Rus_Film
-http://178.63.98.119:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Tragichnoye
-http://178.63.98.119:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Triller
-http://178.63.98.119:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_Zabavnoye
-http://178.63.98.119:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_drama_!
-http://178.63.98.119:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_kovboyskoye
-http://178.63.98.119:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Kinozal",Yosso_melodramma
-http://178.63.98.119:8000/play/a01f/index.m3u8
 
 
 
@@ -4197,6 +5577,539 @@ http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", Матч ТВ
 http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
+
+
+
+
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/107/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +2
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6012/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +4
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6023/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +8
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6052/index.m3u8
+#EXTINF:0 tvg-rec="3",Motorvision+ DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6112/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky 1 AU
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6122/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6113/index.m3u8
+#EXTINF:0 tvg-rec="0",Band Sports BR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6158/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Планета
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/123/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/531/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/124/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/519/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/522/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/528/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/529/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/530/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/535/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/141/index.m3u8
+#EXTINF:0 tvg-rec="7",Extreme Sports
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/144/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Боец
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/150/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/160/index.m3u8
+#EXTINF:0 tvg-rec="7",MMA-TV.com
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/843/index.m3u8
+#EXTINF:0 tvg-rec="7",Бокс ТВ
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/870/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Spor Yildiz HD TR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2145/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5050/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport News HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2477/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2478/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2479/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2480/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2492/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2499/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 2 HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2500/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 3 HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2501/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2502/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 1 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2503/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2505/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2506/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Sports 2 IN
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2507/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Sports 1 IN
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2508/index.m3u8
+#EXTINF:0 tvg-rec="3",YAS Sports AE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2511/index.m3u8
+#EXTINF:0 tvg-rec="3",ON Sport 1 HD EG
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2512/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2517/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven Sports 1 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2518/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport 5 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2519/index.m3u8
+#EXTINF:0 tvg-rec="3",TVP Sport HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2520/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 2 HD RO
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2522/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 1 HD RO
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2523/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 3 HD RO
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2524/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 1 HD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2525/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 2 HD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2526/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 3 HD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2527/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 4 HD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2528/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 5 HD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2529/index.m3u8
+#EXTINF:0 tvg-rec="3",Sporting TV FHD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2530/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 1 HD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2531/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 2 FHD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2532/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 4 FHD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2534/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 5 FHD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2535/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 6 FHD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2536/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2538/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2540/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Viihde HD FI
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2541/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2545/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 2 HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2546/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2547/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 1 LT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2548/index.m3u8
+#EXTINF:0 tvg-rec="3",Arena Sport 1 FHD RS
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2550/index.m3u8
+#EXTINF:0 tvg-rec="3",ČT sport HD CZ
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2551/index.m3u8
+#EXTINF:0 tvg-rec="3",Nova Sport 1 HD CZ
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2555/index.m3u8
+#EXTINF:0 tvg-rec="3",Nova Sport 2 HD CZ
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2556/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 2 HD CZ
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2557/index.m3u8
+#EXTINF:0 tvg-rec="3",Ziggo Sport 3 HD NL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2559/index.m3u8
+#EXTINF:0 tvg-rec="3",Ziggo Sport HD NL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2560/index.m3u8
+#EXTINF:0 tvg-rec="3",Ziggo Sport 2 HD NL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2561/index.m3u8
+#EXTINF:0 tvg-rec="3",Infosport+ HD FR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2544/index.m3u8
+#EXTINF:0 tvg-rec="3",Окко Футбол HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6554/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6555/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6556/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6564/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6566/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 3 FHD PT
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7062/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7234/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7235/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7237/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7238/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7239/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7240/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7241/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 FHD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7263/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 2 FHD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7264/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 FHD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7265/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 FHD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7266/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 FHD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7267/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 FHD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7268/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 1 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7269/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 2 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7270/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 3 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7271/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 4 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7272/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 5 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7273/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 6 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7274/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 7 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7275/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 8 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7276/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub Golf HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7277/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub Fight HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7278/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 1 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7296/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 3 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7303/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 1 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7304/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 2 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7305/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 3 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7306/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 4 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7307/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 2 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7308/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 2 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7309/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 1 HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7310/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Fight HD PL
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7311/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7322/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7323/index.m3u8
+#EXTINF:0 tvg-rec="0",CBS Sports Network HD US
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7324/index.m3u8
+#EXTINF:0 tvg-rec="0",NBC Sports Network HD US
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7327/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network HD US
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7328/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7329/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 2 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7330/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7331/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7332/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7333/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 HD HR
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7334/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7335/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7336/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7337/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7339/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7340/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7341/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7342/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7343/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7344/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 2 Sport HD DK
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7355/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 💎 Max спорт 1
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7360/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 💎 Max спорт 2
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7361/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 💎 Max спорт 3
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7362/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 💎 Max спорт 4
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7363/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор 💎 Max спорт 5
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7364/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/215/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/211/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/212/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/220/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинопремьера HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/224/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/225/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/222/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедийное HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/912/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/207/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/206/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/228/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6303/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6384/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/272/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport HD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2406/index.m3u8
+#EXTINF:0 tvg-rec="3",KHL Prime FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2403/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2413/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2414/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2407/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5065/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2420/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Baltic 1 HD orig
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5069/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5071/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5072/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
+#EXTGRP:HD
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/968/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
+#EXTGRP:HD
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
+#EXTGRP:HD
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/271/index.m3u8
+#EXTINF:0 tvg-rec="7",Удар HD
+#EXTGRP:HD
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2000/index.m3u8
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5068/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5075/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5076/index.m3u8
+#EXTINF:0 tvg-rec="3",ViaPlay Football SE
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5078/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 1 HD QA
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6123/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:💎 Max спорт
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2408/index.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="Max Sport" tvg-rec="7" timeshift="7",Eurosport 1
@@ -10300,377 +12213,6 @@ http://de1.plist.link:3355/FGfpnUmovVu420058/index.m3u8?token=hjOF3_7BKVCl-sF4bG
 
 
 
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu2769/index.m3u8?token=JY1RGsvww4tiV9G44XvidQzuaGRoOoDtLvG936RQuhDt6BoZL66pE3ofBCIZO8Tu.tg6457680141
-#EXTINF:0 tvg-id="chnl-770" tvg-name="BCU Catastrophe HD" tvg-logo="http://de1.plist.link/plepg/img/channels/770.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Catastrophe HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu5770/index.m3u8?token=JY1RGsvww4tiV9G44XvidbamwRfqgRXu6rc5bvNceIRgpb5d5RM5fpzpIAfH_2AN.tg6457680141
-#EXTINF:0 tvg-id="chnl-771" tvg-name="BCU Cinema HD" tvg-logo="http://de1.plist.link/plepg/img/channels/771.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Cinema HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu3771/index.m3u8?token=JY1RGsvww4tiV9G44XvidSUXtAvPdyafytjKU8XOH7pHWr3tlDstmGUl4dpq-3fD.tg6457680141
-#EXTINF:0 tvg-id="chnl-834" tvg-name="BCU Cinema+ HD" tvg-logo="http://de1.plist.link/plepg/img/channels/834.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Cinema+ HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu7834/index.m3u8?token=JY1RGsvww4tiV9G44XvidYINd3isWXfhYiwHI5OU9C1W2ZJTC4wfi6DQX9ejOVOU.tg6457680141
-#EXTINF:0 tvg-id="chnl-772" tvg-name="BCU Comedy HD" tvg-logo="http://de1.plist.link/plepg/img/channels/772.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Comedy HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu4772/index.m3u8?token=JY1RGsvww4tiV9G44XvidZZK4g0LCnsY7l2IXIK57KCI7Wgj753fBJEvRBT4p0oO.tg6457680141
-#EXTINF:0 tvg-id="chnl-1000" tvg-name="BCU Comedy OLD" tvg-logo="http://de1.plist.link/plepg/img/channels/1000.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Comedy OLD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu31000/index.m3u8?token=JY1RGsvww4tiV9G44Xvidbky-4og8Z6QJYByrg5oyKIvvLSa7qz2zNC_SoT06JvS.tg6457680141
-#EXTINF:0 tvg-id="chnl-773" tvg-name="BCU Fantastic HD" tvg-logo="http://de1.plist.link/plepg/img/channels/773.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Fantastic HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu1773/index.m3u8?token=JY1RGsvww4tiV9G44XvidRlPlhFKHbAnKsyu1sz5Bc5u7hxTuiPYk_ef82jFmLZU.tg6457680141
-#EXTINF:0 tvg-id="chnl-774" tvg-name="BCU Filmystic HD" tvg-logo="http://de1.plist.link/plepg/img/channels/774.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Filmystic HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu6774/index.m3u8?token=JY1RGsvww4tiV9G44XvidRY57iS7LvqqZelqeLOc8wW2wkEgqc_jNtsUp2eOXRow.tg6457680141
-#EXTINF:0 tvg-id="chnl-776" tvg-name="BCU Kinorating HD" tvg-logo="http://de1.plist.link/plepg/img/channels/776.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Kinorating HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu3776/index.m3u8?token=JY1RGsvww4tiV9G44Xvidcp7GxKsqH6zwYYXZ4LHrpXBeYxTx5Nrpk7Db4m235wD.tg6457680141
-#EXTINF:0 tvg-id="chnl-777" tvg-name="BCU Marvel HD" tvg-logo="http://de1.plist.link/plepg/img/channels/777.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Marvel HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu9777/index.m3u8?token=JY1RGsvww4tiV9G44XvidWnGXQd9bb4T46I_Ba6FFMuef3bWO4j6fjqnZ9jYdQD0.tg6457680141
-#EXTINF:0 tvg-id="chnl-311" tvg-name="BCU Marvel OLD" tvg-logo="http://de1.plist.link/plepg/img/channels/311.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Marvel OLD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu8311/index.m3u8?token=JY1RGsvww4tiV9G44XvidTwKseoHQqUblPfMNc8RQ4BpL-KJ1at-6cziUewjJ6rU.tg6457680141
-#EXTINF:0 tvg-id="chnl-778" tvg-name="BCU Premiere HD" tvg-logo="http://de1.plist.link/plepg/img/channels/778.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Premiere HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu7778/index.m3u8?token=JY1RGsvww4tiV9G44XvidR1C2GsoK479s1winZxKwDy3R8sOB74xKJ0yZ9iqz1oi.tg6457680141
-#EXTINF:0 tvg-id="chnl-835" tvg-name="BCU Stars HD" tvg-logo="http://de1.plist.link/plepg/img/channels/835.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Stars HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu9835/index.m3u8?token=JY1RGsvww4tiV9G44XvidU6h-Ud6GFYwkJYVgvKJSn1pfzg47LkTockKVvmQz7dU.tg6457680141
-#EXTINF:0 tvg-id="chnl-785" tvg-name="BCU Reality HD" tvg-logo="http://de1.plist.link/plepg/img/channels/785.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Reality HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu6785/index.m3u8?token=JY1RGsvww4tiV9G44XviddMG8WAlCe2t2iexO0JMNCmhzigQJw3gFuzuEgfgDEa0.tg6457680141
-#EXTINF:0 tvg-id="chnl-20090" tvg-name="BCU Reality OLD" tvg-logo="http://de1.plist.link/plepg/img/channels/20090.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Reality OLD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu020090/index.m3u8?token=JY1RGsvww4tiV9G44XvideXsPqDRdq8_0FTkxgZvJ0O5A9gTt5rOtymBkTOblvl2.tg6457680141
-#EXTINF:0 tvg-id="chnl-782" tvg-name="BCU Premiere 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/782.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Premiere 1 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu5782/index.m3u8?token=JY1RGsvww4tiV9G44XvidSBv9qlhw6XGboqk2k6-rA0GeeWmzu9V901T4cp5D_Ru.tg6457680141
-#EXTINF:0 tvg-id="chnl-783" tvg-name="BCU Premiere 2 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/783.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Premiere 2 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu5783/index.m3u8?token=JY1RGsvww4tiV9G44XvidYcxkoQgy1jjR4UDBEMeSgfYn2AS6Y2-WbrbtvHc9lZi.tg6457680141
-#EXTINF:0 tvg-id="chnl-784" tvg-name="BCU Premiere 3 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/784.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Premiere 3 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu2784/index.m3u8?token=JY1RGsvww4tiV9G44Xvidb-XtPzFD-EyJLTMsJw1zO_BZvtS3BnaKXWK_3bj6VMD.tg6457680141
-#EXTINF:0 tvg-id="chnl-779" tvg-name="BCU Romantic HD" tvg-logo="http://de1.plist.link/plepg/img/channels/779.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Romantic HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu8779/index.m3u8?token=JY1RGsvww4tiV9G44XvidVEuD7_z2y85_X3ZWWgbWbhsCRwagwimR0Q6vDqHE2mb.tg6457680141
-#EXTINF:0 tvg-id="chnl-1545" tvg-name="BCU Romantic OLD" tvg-logo="http://de1.plist.link/plepg/img/channels/1545.png?69c29495ba1b4" tvg-rec="3" timeshift="3" group-title="6. Кинозалы", BCU Romantic OLD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41545/index.m3u8?token=JY1RGsvww4tiV9G44XvidSfjQwAfHJ9gTlUe7f4XdPlR8QKFYlEYmT6QGXh-AWvj.tg6457680141
-#EXTINF:0 tvg-id="chnl-775" tvg-name="BCU History HD" tvg-logo="http://de1.plist.link/plepg/img/channels/775.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU History HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu4775/index.m3u8?token=JY1RGsvww4tiV9G44XvideQ-LuluSRCUtc22lB3oanQWgnOGl7dYD0r-7ctE7HKN.tg6457680141
-#EXTINF:0 tvg-id="chnl-780" tvg-name="BCU Russian HD" tvg-logo="http://de1.plist.link/plepg/img/channels/780.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Russian HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu8780/index.m3u8?token=JY1RGsvww4tiV9G44XvidQLBzoYH-wBClpWUwAPh9ehJDXt1pYxc0WFjBmR_ybrN.tg6457680141
-#EXTINF:0 tvg-id="chnl-781" tvg-name="BCU VHS HD" tvg-logo="http://de1.plist.link/plepg/img/channels/781.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU VHS HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu4781/index.m3u8?token=JY1RGsvww4tiV9G44XvidWQK_W9kQUszwfQLTYIaPllY3-0u0165hr26OECt0H1R.tg6457680141
-#EXTINF:0 tvg-id="chnl-788" tvg-name="BCU RUSerial HD" tvg-logo="http://de1.plist.link/plepg/img/channels/788.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU RUSerial HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu7788/index.m3u8?token=JY1RGsvww4tiV9G44XvidcpjHbeOYZVcuMTFXwqTba9k-9QJEUnOr5Nj8djIxXHA.tg6457680141
-#EXTINF:0 tvg-id="chnl-789" tvg-name="BCU СССР HD" tvg-logo="http://de1.plist.link/plepg/img/channels/789.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU СССР HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu7789/index.m3u8?token=JY1RGsvww4tiV9G44XvidaupMMurrQyF_ccEviy78cLxCwQ-6UzRZClLxtj59a50.tg6457680141
-#EXTINF:0 tvg-id="chnl-790" tvg-name="BCU Media HD" tvg-logo="http://de1.plist.link/plepg/img/channels/790.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Media HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu2790/index.m3u8?token=JY1RGsvww4tiV9G44Xvidcz4rS7-eD8-Y0jaB8-O6epb_sBjoOazA8-aZPBiACqK.tg6457680141
-#EXTINF:0 tvg-id="chnl-590" tvg-name="BCU Media OLD" tvg-logo="http://de1.plist.link/plepg/img/channels/590.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Media OLD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu2590/index.m3u8?token=JY1RGsvww4tiV9G44XvidQpkQwAEixGk_0b49BJYxKMqT56QvHHQOxs0T1owTyCa.tg6457680141
-#EXTINF:0 tvg-id="chnl-1026" tvg-name="BCU Cosmo HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1026.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Cosmo HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu21026/index.m3u8?token=JY1RGsvww4tiV9G44XvidbNeDc8RdIeGAgZwmonrQrjPIOvkbhNjjGkw7Njfa2JD.tg6457680141
-#EXTINF:0 tvg-id="chnl-1003" tvg-name="BCU Russia 90s HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1003.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Russia 90s HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61003/index.m3u8?token=JY1RGsvww4tiV9G44XvidY4EAWYjs5u-gANoJFsncXhnYaX20UaZ8ek67qWA2Zzv.tg6457680141
-#EXTINF:0 tvg-id="chnl-1429" tvg-name="BCU TruMotion HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1429.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU TruMotion HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91429/index.m3u8?token=JY1RGsvww4tiV9G44XvidZVRAjbKeDPDel-I7ErUVCKU4ahmmeDfp5F-yKfKsYEs.tg6457680141
-#EXTINF:0 tvg-id="chnl-145" tvg-name="BCU Сваты HD" tvg-logo="http://de1.plist.link/plepg/img/channels/145.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Сваты HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu7145/index.m3u8?token=JY1RGsvww4tiV9G44XvidR7eRJqdyrqQM8TZdHItNKSXKteMfzUqfIlRLSjXfkEJ.tg6457680141
-#EXTINF:0 tvg-id="chnl-827" tvg-name="BCU Criminal HD" tvg-logo="http://de1.plist.link/plepg/img/channels/827.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Criminal HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu2827/index.m3u8?token=JY1RGsvww4tiV9G44Xvidf7z-Zv4gPKnQqxZM-Sn77YbPDHby2SNacI6E4lPijbO.tg6457680141
-#EXTINF:0 tvg-id="chnl-1444" tvg-name="BCU Survival HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1444.png?69c29495ba1b4" tvg-rec="3" timeshift="3" group-title="6. Кинозалы", BCU Survival HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41444/index.m3u8?token=JY1RGsvww4tiV9G44XvidXFJPcfFXm0TkDo_oaXIOZr8kzI3C7mvve4gEVQW_rf2.tg6457680141
-#EXTINF:0 tvg-id="chnl-1445" tvg-name="BCU Survival OLD" tvg-logo="http://de1.plist.link/plepg/img/channels/1445.png?69c29495ba1b4" tvg-rec="3" timeshift="3" group-title="6. Кинозалы", BCU Survival OLD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61445/index.m3u8?token=JY1RGsvww4tiV9G44Xvidcm8xRUTenUazCYnXLQZenOYlNn6BcAyRWonGB0R5sw9.tg6457680141
-#EXTINF:0 tvg-id="chnl-542" tvg-name="Киноджем 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/542.png?69c29495ba1b4" tvg-rec="3" timeshift="3" group-title="6. Кинозалы", Киноджем 1 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu1542/index.m3u8?token=JY1RGsvww4tiV9G44XvidQS5o1JzhG-_fTtZWereRpgG-ZHYJ-iAp6QpyP1E2neS.tg6457680141
-#EXTINF:0 tvg-id="chnl-521" tvg-name="Киноджем 2 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/521.png?69c29495ba1b4" tvg-rec="3" timeshift="3" group-title="6. Кинозалы", Киноджем 2 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu8521/index.m3u8?token=JY1RGsvww4tiV9G44XvidYnelmqXxw9-dEjVJoTlVPFEdz7Cm8roFj87tyoByy43.tg6457680141
-#EXTINF:0 tvg-id="chnl-2289" tvg-name="Триколор След" tvg-logo="http://de1.plist.link/plepg/img/channels/2289.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Триколор След
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu72289/index.m3u8?token=JY1RGsvww4tiV9G44XvidddhLSwqDE26dNM1L4IZMHUiursxa1LuptlQnWU6kxUU.tg6457680141
-#EXTINF:0 tvg-id="chnl-1219" tvg-name="MM NewFilm HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1219.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM NewFilm HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu71219/index.m3u8?token=JY1RGsvww4tiV9G44XvidSvnFXxTfPd5W5eoR7DmziUqKvlING-lmT6i4DxLs7fd.tg6457680141
-#EXTINF:0 tvg-id="chnl-1216" tvg-name="MM NewFilm 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1216.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM NewFilm 1 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91216/index.m3u8?token=JY1RGsvww4tiV9G44XvidXa6iMNT33wnmarxSyLXzUamEhPmx3QXzPkJhg3l3pGz.tg6457680141
-#EXTINF:0 tvg-id="chnl-1217" tvg-name="MM NewFilm 2 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1217.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM NewFilm 2 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11217/index.m3u8?token=JY1RGsvww4tiV9G44Xvida79WH3W5lAO9gMlZ7Jj1yVNRorG3CtWWeaOXVFuEzOM.tg6457680141
-#EXTINF:0 tvg-id="chnl-1218" tvg-name="MM NewFilm 3 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1218.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM NewFilm 3 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51218/index.m3u8?token=JY1RGsvww4tiV9G44XvidegJq80bhq0uunZ4aVl8mhyZUzs25Q-dOCdEUYU6HChR.tg6457680141
-#EXTINF:0 tvg-id="chnl-1215" tvg-name="MM Love HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1215.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Love HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51215/index.m3u8?token=JY1RGsvww4tiV9G44XvidQ4bQxVONnB01z_fXDPjmUIp2922Dwdg-tQLroX_r7iJ.tg6457680141
-#EXTINF:0 tvg-id="chnl-1222" tvg-name="MM UFO HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1222.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM UFO HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51222/index.m3u8?token=JY1RGsvww4tiV9G44XvidUqpsdUNi3iUDxzCDdobCXgZx0qzWEdiGPyLFSmPqgVy.tg6457680141
-#EXTINF:0 tvg-id="chnl-1214" tvg-name="MM 007 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1214.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM 007 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu81214/index.m3u8?token=JY1RGsvww4tiV9G44Xvidec4P-Ehwd7KiO-Am4itRdFKMH71wYFPTLkZnFA9GNRp.tg6457680141
-#EXTINF:0 tvg-id="chnl-1229" tvg-name="MM Агата Кристи HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1229.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Агата Кристи HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51229/index.m3u8?token=JY1RGsvww4tiV9G44XvidbrolCFzUgVg5dCgn62tT_m4jUD4pFmFzZXSVS3Se6t1.tg6457680141
-#EXTINF:0 tvg-id="chnl-1232" tvg-name="MM Боевик Classic HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1232.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Боевик Classic HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu71232/index.m3u8?token=JY1RGsvww4tiV9G44XvidW5_pXGwDEwUpj6Vw0RCaH0Kmti7X1cnKh3JeH-c094P.tg6457680141
-#EXTINF:0 tvg-id="chnl-1233" tvg-name="MM Боевик HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1233.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Боевик HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91233/index.m3u8?token=JY1RGsvww4tiV9G44XvidS1DchENFPM8p2IT7c1Zde_hpSoTiDQEaVq58oiULA95.tg6457680141
-#EXTINF:0 tvg-id="chnl-1234" tvg-name="MM Вестерн HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1234.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Вестерн HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91234/index.m3u8?token=JY1RGsvww4tiV9G44Xvidekn6TUgYSXKYlwXvIscMPoLUXGGdEROTvApBi2yO1ds.tg6457680141
-#EXTINF:0 tvg-id="chnl-1237" tvg-name="MM Затмение HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1237.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Затмение HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01237/index.m3u8?token=JY1RGsvww4tiV9G44XvidYYpPLz_lAWjGv0fd4EQbRlhi-c5dYgcbQjp_aedEqy9.tg6457680141
-#EXTINF:0 tvg-id="chnl-1238" tvg-name="MM История HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1238.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM История HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41238/index.m3u8?token=JY1RGsvww4tiV9G44XviddseiOwwMlguNnPn-rQRDyq9KFUbhXSe0OqfKpsLfMHc.tg6457680141
-#EXTINF:0 tvg-id="chnl-1239" tvg-name="MM Катастрофа HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1239.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Катастрофа HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41239/index.m3u8?token=JY1RGsvww4tiV9G44XvidWK0aQ-pwBqnh_YAeVOgnx1rHjrnvF8M7vLYHA9qMLTw.tg6457680141
-#EXTINF:0 tvg-id="chnl-1241" tvg-name="MM Киберпанк HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1241.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Киберпанк HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01241/index.m3u8?token=JY1RGsvww4tiV9G44XvidZGGB9P0XGARiQF0h9fpjAuDL-c4UXOmGvtlCC8lEUz7.tg6457680141
-#EXTINF:0 tvg-id="chnl-1242" tvg-name="MM Комедия Classic HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1242.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Комедия Classic HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu31242/index.m3u8?token=JY1RGsvww4tiV9G44XvidVYtt0jvajg336pzoZm613hgr08T006Mdmp8_TVfFXmw.tg6457680141
-#EXTINF:0 tvg-id="chnl-1243" tvg-name="MM Комедия HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1243.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Комедия HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01243/index.m3u8?token=JY1RGsvww4tiV9G44XvidVj6h_sCy9yGQfqW2A1KzEBL45fhuptZDQwAGw46uv9t.tg6457680141
-#EXTINF:0 tvg-id="chnl-1244" tvg-name="MM Криминал HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1244.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Криминал HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu71244/index.m3u8?token=JY1RGsvww4tiV9G44XvidfCHO1GjfSZw4mn5-TgunxGWj12HbjckiaAFfTIyPpdX.tg6457680141
-#EXTINF:0 tvg-id="chnl-1245" tvg-name="MM Крутые 90-е HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1245.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Крутые 90-е HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91245/index.m3u8?token=JY1RGsvww4tiV9G44XvidXwW5lKKGdz1_KWR-hd_COybTcAepqrifzX6k73EvTDD.tg6457680141
-#EXTINF:0 tvg-id="chnl-1246" tvg-name="MM Кунг-Фу HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1246.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Кунг-Фу HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61246/index.m3u8?token=JY1RGsvww4tiV9G44XvidTAl4n4jX7Pm3lEqL3TJH-BRhV8Huuopa_vkHhsB3AA0.tg6457680141
-#EXTINF:0 tvg-id="chnl-1249" tvg-name="MM Мифология HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1249.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Мифология HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41249/index.m3u8?token=JY1RGsvww4tiV9G44XvidQb25K5xphOD7eD6E4CybGXyDp8A7RzpWzcy10PL8k_l.tg6457680141
-#EXTINF:0 tvg-id="chnl-1252" tvg-name="MM Погружение HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1252.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Погружение HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01252/index.m3u8?token=JY1RGsvww4tiV9G44Xvidb4oMNN_0fWm-5CcxHkgUDUSfsl_uwDX8YXxHWpOQmXT.tg6457680141
-#EXTINF:0 tvg-id="chnl-1255" tvg-name="MM Роскино HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1255.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Роскино HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61255/index.m3u8?token=JY1RGsvww4tiV9G44XvidSFE_nMElINTpb2nB051NqQ6FInUwcTm7yLmrUb9Gx_c.tg6457680141
-#EXTINF:0 tvg-id="chnl-1250" tvg-name="MM Нуар HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1250.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Нуар HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01250/index.m3u8?token=JY1RGsvww4tiV9G44Xvidc_JNZvbxxs1nXOrQsDqRoBfDLoBRzL56kDD9P18VWY5.tg6457680141
-#EXTINF:0 tvg-id="chnl-1254" tvg-name="MM Приключения HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1254.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Приключения HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91254/index.m3u8?token=JY1RGsvww4tiV9G44XvidcM5X_7gwpbfS97rqewdGUT3jYd-IoZstVo83wK4Apvz.tg6457680141
-#EXTINF:0 tvg-id="chnl-1230" tvg-name="MM Грайндхаус HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1230.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Грайндхаус HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu31230/index.m3u8?token=JY1RGsvww4tiV9G44XvidZqO3i2fQ0IGRIcsdDng-K2cEBVQUUos593Ti6Bivgxh.tg6457680141
-#EXTINF:0 tvg-id="chnl-1236" tvg-name="MM Воронины HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1236.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Воронины HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91236/index.m3u8?token=JY1RGsvww4tiV9G44XvidYEOqMzABwif58soqgYaEO-ilnnr7hgf19ZMYa5Q97Fl.tg6457680141
-#EXTINF:0 tvg-id="chnl-1251" tvg-name="MM Ситком 2.0 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1251.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Ситком 2.0 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11251/index.m3u8?token=JY1RGsvww4tiV9G44XviddrolosQ2-yeNIUAzRZBQeIvPzZl8-rM-ZA9PffgWjyf.tg6457680141
-#EXTINF:0 tvg-id="chnl-1253" tvg-name="MM Полицейский с Рублёвки HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1253.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Полицейский с Рублёвки HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu71253/index.m3u8?token=JY1RGsvww4tiV9G44XvidVDktKgg70e7RGjpHywkWGLiEVyCnMVxGPxKeH5ysuAQ.tg6457680141
-#EXTINF:0 tvg-id="chnl-1256" tvg-name="MM Сваты HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1256.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Сваты HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu31256/index.m3u8?token=JY1RGsvww4tiV9G44XvidduqxytHN5LwoqVnBVua64VdbYtpGx4jgcdcAojR7JIi.tg6457680141
-#EXTINF:0 tvg-id="chnl-1257" tvg-name="MM Ситком HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1257.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Ситком HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu71257/index.m3u8?token=JY1RGsvww4tiV9G44XvidaX1ow0n14WyLOe8Sryyh-GfPsDZYMy-P7MYJw5rjCTA.tg6457680141
-#EXTINF:0 tvg-id="chnl-1258" tvg-name="MM Скорость HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1258.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Скорость HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu71258/index.m3u8?token=JY1RGsvww4tiV9G44XvidTOL7tyKNTgfbb3MzsaGlpGhD6M5NsPLOMOU0h2liuGL.tg6457680141
-#EXTINF:0 tvg-id="chnl-1259" tvg-name="MM Спорт HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1259.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Спорт HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41259/index.m3u8?token=JY1RGsvww4tiV9G44Xvidegt0zcFqbasYDIVqEw7pcoSl7geQ2eADEouDMzkbQWp.tg6457680141
-#EXTINF:0 tvg-id="chnl-1260" tvg-name="MM Стивен Кинг HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1260.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Стивен Кинг HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu81260/index.m3u8?token=JY1RGsvww4tiV9G44XvidY55QrkOpGDtzeg_zwPUxh-G81CaUJhlHdjD7ZeNmBAV.tg6457680141
-#EXTINF:0 tvg-id="chnl-1261" tvg-name="MM Супергерои HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1261.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Супергерои HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu81261/index.m3u8?token=JY1RGsvww4tiV9G44XviddsDKv8kPTA1ebqtd-5wUiIFyOd9enq-qfHVSDmvBF-T.tg6457680141
-#EXTINF:0 tvg-id="chnl-1263" tvg-name="MM Триллер HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1263.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Триллер HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91263/index.m3u8?token=JY1RGsvww4tiV9G44XvidYpaXww8AoL-BCxNAGQOToFu95_HOUBvhhQehKElU1ys.tg6457680141
-#EXTINF:0 tvg-id="chnl-1264" tvg-name="MM Ужастик HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1264.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Ужастик HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu21264/index.m3u8?token=JY1RGsvww4tiV9G44XviddeV80AA941Z3WaCBebZGObjoylJmXE7rmcePgBemAxJ.tg6457680141
-#EXTINF:0 tvg-id="chnl-1266" tvg-name="MM Синематограф HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1266.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Синематограф HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61266/index.m3u8?token=JY1RGsvww4tiV9G44XviddE-URVNN1xORAMwyfopel4Xnl0PZdEpCavakLEmuS91.tg6457680141
-#EXTINF:0 tvg-id="chnl-1267" tvg-name="MM Фантастика HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1267.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Фантастика HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51267/index.m3u8?token=JY1RGsvww4tiV9G44XvidUhIs6WTqndY0oEjXOHEY_08spDP5hc_KcSct5Nh9h3D.tg6457680141
-#EXTINF:0 tvg-id="chnl-2501" tvg-name="MM Кинофестиваль HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2501.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Кинофестиваль HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu92501/index.m3u8?token=JY1RGsvww4tiV9G44XvidZe-Lk08w6A8pRnWnCobCkIR2LJkI6n2BdrJLYRgX98o.tg6457680141
-#EXTINF:0 tvg-id="chnl-1268" tvg-name="MM Фобия HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1268.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Фобия HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01268/index.m3u8?token=JY1RGsvww4tiV9G44XvidRQDq9-XMWvRvO5eRNZCXBOBiGyKwCVpeHKyurqIdun2.tg6457680141
-#EXTINF:0 tvg-id="chnl-1274" tvg-name="MM Семейный 1 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1274.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Семейный 1 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01274/index.m3u8?token=JY1RGsvww4tiV9G44XvidXwO_C1I9BWxeC4CXw8Yz_JjG6Us1y_zgDvhIsaDbI5-.tg6457680141
-#EXTINF:0 tvg-id="chnl-1270" tvg-name="MM Семейный 2 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1270.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Семейный 2 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41270/index.m3u8?token=JY1RGsvww4tiV9G44XvidXwLOEO2lgZLhXR_mFeOvnkrC4UMMOhSsRA8OwbF6e8M.tg6457680141
-#EXTINF:0 tvg-id="chnl-1223" tvg-name="MM USSR 1941-1945 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1223.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM USSR 1941-1945 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu81223/index.m3u8?token=JY1RGsvww4tiV9G44XvidYg7e_1NvS-zbYz3eZ4eolAxyCuj1qvpyKSGJzxRqYul.tg6457680141
-#EXTINF:0 tvg-id="chnl-1273" tvg-name="MM USSR Детектив HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1273.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM USSR Детектив HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu31273/index.m3u8?token=JY1RGsvww4tiV9G44XvidVqvMqF6I8BOyVKIoZu35MSwFCdH81vkye1-fQEkL3K0.tg6457680141
-#EXTINF:0 tvg-id="chnl-1269" tvg-name="MM USSR Приключения HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1269.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM USSR Приключения HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51269/index.m3u8?token=JY1RGsvww4tiV9G44XvidSDDb_yBWpUclbqB9XsTJNFzdWjjlIiFcnX68VqAfzyv.tg6457680141
-#EXTINF:0 tvg-id="chnl-1224" tvg-name="MM USSR Комедия HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1224.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM USSR Комедия HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu71224/index.m3u8?token=JY1RGsvww4tiV9G44Xviddc8n4weZDzIhJR5OzbB2iOD4gPzEqWRf9sk2FYz2No7.tg6457680141
-#EXTINF:0 tvg-id="chnl-1227" tvg-name="MM USSR Drama HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1227.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM USSR Drama HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11227/index.m3u8?token=JY1RGsvww4tiV9G44XvidbY3FlHV7EKZ2zma9lDkFdbDtQ8BDj66k5aPmp1fhF5C.tg6457680141
-#EXTINF:0 tvg-id="chnl-1275" tvg-name="MM Ужасы Classic HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1275.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Ужасы Classic HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11275/index.m3u8?token=JY1RGsvww4tiV9G44XvidWyUWH3SLeuYGq7IUp_3eer78hz8v9MkUwiCG1FFAep-.tg6457680141
-#EXTINF:0 tvg-id="chnl-1276" tvg-name="MM Ужасы HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1276.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Ужасы HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu81276/index.m3u8?token=JY1RGsvww4tiV9G44XvidQ4ccI6MiCElNugbOOw-FLQk7lele2O0wwzB9R91VtpH.tg6457680141
-#EXTINF:0 tvg-id="chnl-1286" tvg-name="MM Celebrity HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1286.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Celebrity HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu21286/index.m3u8?token=JY1RGsvww4tiV9G44XvideXtymRS8KiE4DoVdUo4g8YUsnWC33EB0EAEJRn4-e55.tg6457680141
-#EXTINF:0 tvg-id="chnl-1323" tvg-name="MM Classic HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1323.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Classic HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51323/index.m3u8?token=JY1RGsvww4tiV9G44XvidYQN7T-iaSAyMnEGgRJHrjwRt3-ADzfjVtoFvtmYmNKC.tg6457680141
-#EXTINF:0 tvg-id="chnl-1324" tvg-name="MM Драма HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1324.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Драма HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu81324/index.m3u8?token=JY1RGsvww4tiV9G44XvidYVX-pmlMwGvPOJ8v7QAJUB064aqTr3nQcIZstPVhY3b.tg6457680141
-#EXTINF:0 tvg-id="chnl-1621" tvg-name="MM Translation HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1621.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MM Translation HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51621/index.m3u8?token=JY1RGsvww4tiV9G44XvidWvfsoZdZglVswh_oOyxnp5mMiS66TizhT4SMcVz-CtV.tg6457680141
-#EXTINF:0 tvg-id="chnl-1288" tvg-name="MS Crime HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1288.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MS Crime HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51288/index.m3u8?token=JY1RGsvww4tiV9G44Xvidau-rQjU6BkgBea12n0-XfKZgigrODfouv0dIfjv0zIr.tg6457680141
-#EXTINF:0 tvg-id="chnl-1289" tvg-name="MS Prisons HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1289.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MS Prisons HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11289/index.m3u8?token=JY1RGsvww4tiV9G44XvidcXzmRh2qD-tVuTL5RsWCwiIvlqSiMxPsaHayTIqoVwz.tg6457680141
-#EXTINF:0 tvg-id="chnl-1291" tvg-name="MS Young Blood HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1291.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", MS Young Blood HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11291/index.m3u8?token=JY1RGsvww4tiV9G44Xvidfl5CrtmUpXyeJiqeN7zk4VhZYw1FILjiE0I5rHzWPn-.tg6457680141
-#EXTINF:0 tvg-id="chnl-20078" tvg-name="Magic Premiere HD" tvg-logo="http://de1.plist.link/plepg/img/channels/20078.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Premiere HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu520078/index.m3u8?token=JY1RGsvww4tiV9G44XvidddP_kig_8-XAMBn6d5tynYUMxPEnHomP7JmB3sIIcJu.tg6457680141
-#EXTINF:0 tvg-id="chnl-1556" tvg-name="Magic Action HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1556.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Action HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61556/index.m3u8?token=JY1RGsvww4tiV9G44XvidafaXnEwZBxxm1zF7louvv6uDgG8In-K1cjXvtSBDiGI.tg6457680141
-#EXTINF:0 tvg-id="chnl-1557" tvg-name="Magic Comedy HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1557.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Comedy HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61557/index.m3u8?token=JY1RGsvww4tiV9G44Xvidci0S3ekXikSvJuvrGtnVoZdjVlf-rHnLP-ze1Grj7Vw.tg6457680141
-#EXTINF:0 tvg-id="chnl-1582" tvg-name="Magic Family HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1582.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Family HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu81582/index.m3u8?token=JY1RGsvww4tiV9G44XvidYqjjLrrjIO3Ms8jUQTnzQjPZ4SopHCvZAkGl0MQAmDm.tg6457680141
-#EXTINF:0 tvg-id="chnl-1562" tvg-name="Magic Thriller HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1562.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Thriller HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu61562/index.m3u8?token=JY1RGsvww4tiV9G44XvidWtNSanL7-JPGWBQsHgy4OIZTyUp1027BgzzFDzUgy_1.tg6457680141
-#EXTINF:0 tvg-id="chnl-1560" tvg-name="Magic Horror HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1560.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Horror HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01560/index.m3u8?token=JY1RGsvww4tiV9G44XvidQxuayUjjJ0UQzDXrau46MM5tn9Zmo2ke3xhbwdiV-3X.tg6457680141
-#EXTINF:0 tvg-id="chnl-1561" tvg-name="Magic Karate HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1561.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Karate HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu21561/index.m3u8?token=JY1RGsvww4tiV9G44XvidZUqmRSNE5k9b7j5XENLDba_qcz8it1kt-UZQu73Vbu5.tg6457680141
-#EXTINF:0 tvg-id="chnl-1581" tvg-name="Magic Love HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1581.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Love HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51581/index.m3u8?token=JY1RGsvww4tiV9G44XvidfehEh-JbnAV4g1lLAgUPW446o9BjRd8rs2mG9kTPHTJ.tg6457680141
-#EXTINF:0 tvg-id="chnl-1559" tvg-name="Magic Galaxy HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1559.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Galaxy HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11559/index.m3u8?token=JY1RGsvww4tiV9G44XvidSnyWyzpb1HoDoB5WOTgSAlQg9TwOn67MzX8wS20tojT.tg6457680141
-#EXTINF:0 tvg-id="chnl-2203" tvg-name="Magic Adventure HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2203.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Adventure HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu12203/index.m3u8?token=JY1RGsvww4tiV9G44XvidVeIbpfIKnviUTzuxz0RgO3Bd0JRJ_VO_Ee-xDK4kD0k.tg6457680141
-#EXTINF:0 tvg-id="chnl-1563" tvg-name="Magic VHS HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1563.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic VHS HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu11563/index.m3u8?token=JY1RGsvww4tiV9G44XvidaMGrAGkt1Y_vPiboQQffya6GR3Urzw2QSkUZQsEFDxe.tg6457680141
-#EXTINF:0 tvg-id="chnl-992" tvg-name="Magic Russian HD" tvg-logo="http://de1.plist.link/plepg/img/channels/992.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", Magic Russian HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu9992/index.m3u8?token=JY1RGsvww4tiV9G44XvidTUDrh1lgIT_O2iVLJuh5f_TkeL7NP05AL9mPXBpwZ-t.tg6457680141
-#EXTINF:0 tvg-id="chnl-1068" tvg-name="GL Brief HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1068.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Brief HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu01068/index.m3u8?token=JY1RGsvww4tiV9G44Xvidb2joFcfghVkJDKQBTDdfa14gcMNF7wlqpg-_GLsfCsv.tg6457680141
-#EXTINF:0 tvg-id="chnl-1069" tvg-name="GL Evidence HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1069.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Evidence HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41069/index.m3u8?token=JY1RGsvww4tiV9G44XvidWIx-3WPAt100Qw6V_DsTT6lpLF4k0miNS6tKMo6Gmmx.tg6457680141
-#EXTINF:0 tvg-id="chnl-1070" tvg-name="GL Exist HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1070.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Exist HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu31070/index.m3u8?token=JY1RGsvww4tiV9G44XvidU2B0A2h3-Ka69HDqRdduaOv8e18jW1Fal7g6-isqcop.tg6457680141
-#EXTINF:0 tvg-id="chnl-1071" tvg-name="GL Island HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1071.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Island HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu41071/index.m3u8?token=JY1RGsvww4tiV9G44XvidWjnDDYqRmw3_qmh4KhWPPzPWtEu3yq7hpVFPbGDiXYp.tg6457680141
-#EXTINF:0 tvg-id="chnl-1072" tvg-name="GL Naked and Funny HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1072.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Naked and Funny HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu51072/index.m3u8?token=JY1RGsvww4tiV9G44XvidY-I5JTuFsJ3mXM8VCz_yMA9tLLr2rQ9PmyE8n6LahSC.tg6457680141
-#EXTINF:0 tvg-id="chnl-1073" tvg-name="GL Psycho HD" tvg-logo="http://de1.plist.link/plepg/img/channels/1073.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Psycho HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu91073/index.m3u8?token=JY1RGsvww4tiV9G44XvidS59Ft7yIwhpXbYfvKQ1u84roIjyoGOGNZ4L4dLft8M_.tg6457680141
-#EXTINF:0 tvg-id="chnl-2266" tvg-name="GL Series HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2266.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Series HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu52266/index.m3u8?token=JY1RGsvww4tiV9G44XvidV7u1qZcyjkAh8FF3E_uWxH2p-fjf6g6yI6yaztKvMXk.tg6457680141
-#EXTINF:0 tvg-id="chnl-2267" tvg-name="GL Survival HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2267.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Survival HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu32267/index.m3u8?token=JY1RGsvww4tiV9G44XvidSwBXaAf74l5BSX2c-nz54OUEipHOMEPxLZe4KxpmtZX.tg6457680141
-#EXTINF:0 tvg-id="chnl-2066" tvg-name="GL Детектив HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2066.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Детектив HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu72066/index.m3u8?token=JY1RGsvww4tiV9G44XvidW5-vJumisebFr9NZy0EQYnydDFrdJuUPWJhhHlluHMC.tg6457680141
-#EXTINF:0 tvg-id="chnl-2268" tvg-name="GL Невский HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2268.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Невский HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu32268/index.m3u8?token=JY1RGsvww4tiV9G44XvidUJ-xum2PdHBqIV_q9bKPtAYPJSSIYadGIXyWnn5EbeN.tg6457680141
-#EXTINF:0 tvg-id="chnl-2464" tvg-name="GL Chef HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2464.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Chef HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu12464/index.m3u8?token=JY1RGsvww4tiV9G44XvidRUR6p6ZoFB_bm49AIE1bwVtixH5eKxDxxxMYMfgIZxx.tg6457680141
-#EXTINF:0 tvg-id="chnl-2269" tvg-name="GL Girlfight HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2269.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Girlfight HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu82269/index.m3u8?token=JY1RGsvww4tiV9G44Xvidbvbk-SQleOg-kHy8fQ1Wib0JR0V68yzfQIeCXcznEg4.tg6457680141
-#EXTINF:0 tvg-id="chnl-2270" tvg-name="GL Hostage HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2270.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Hostage HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu42270/index.m3u8?token=JY1RGsvww4tiV9G44XvidZa8ZWH0DsccAPGVx-2H8NrfclZI3iaz7VJzrup9az0E.tg6457680141
-#EXTINF:0 tvg-id="chnl-2271" tvg-name="GL Motivation HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2271.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", GL Motivation HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu22271/index.m3u8?token=JY1RGsvww4tiV9G44XvidenZST3bN-BDn5E2p9D7gA_hmzHc44PEawlqa1iJOgWJ.tg6457680141
-#EXTINF:0 tvg-id="chnl-2696" tvg-name="BCU Media 2 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2696.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Media 2 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu02696/index.m3u8?token=JY1RGsvww4tiV9G44XvidVRN_i4SzsO203qTQhLF0rpViI17afViACRj5d2UrucF.tg6457680141
-#EXTINF:0 tvg-id="chnl-2697" tvg-name="BCU Media 3 HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2697.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Media 3 HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu22697/index.m3u8?token=JY1RGsvww4tiV9G44XviddTQNLtRvTG1hfRsIhvfwum4YjAdS2ETrIsBolb6XZdS.tg6457680141
-#EXTINF:0 tvg-id="chnl-2701" tvg-name="BCU Biography HD" tvg-logo="http://de1.plist.link/plepg/img/channels/2701.png?69c29495ba1b4" tvg-rec="0" timeshift="0" group-title="6. Кинозалы", BCU Biography HD
-#EXTGRP:6. Кинозалы
-http://de1.plist.link:3355/FGfpnUmovVu52701/index.m3u8?token=JY1RGsvww4tiV9G44XvidXyhCMtmcLISDlYvJ7b3RUq6F032cWOXu2lUvRjk4VbW.tg6457680141
-#EXTINF:0 tvg-id="chnl-138" tvg-name="KHL Prime HD" tvg-logo="http://de1.plist.link/plepg/img/channels/138.png?69c29495ba36e" tvg-rec="3" timeshift="3" group-title="7. Спорт", KHL Prime HD
-
-
 #EXTGRP:8. Детские
 http://de1.plist.link:3355/FGfpnUmovVu62838/index.m3u8?token=5IbUTue09FDrDb-w2uQumuiasYPN9X7UJCXx6pOo5ejsGu_8YHjRRWlThipvQ4pU.tg6457680141
 #EXTINF:0 tvg-id="chnl-123" tvg-name="Discovery Channel HD" tvg-logo="http://de1.plist.link/plepg/img/channels/123.png?69c29495ba464" tvg-rec="3" timeshift="3" group-title="9. Образовательные", Discovery Channel HD
@@ -11887,8 +13429,6 @@ http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Ностальгия
-http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", РБК
@@ -11903,8 +13443,6 @@ http://hls127.freeott.top:8080/Spas/mono.m3u8
 http://hls127.freeott.top:8080/Teatr/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", Bolt
@@ -11913,8 +13451,7 @@ http://hls127.freeott.top:8080/Bolt/mono.m3u8
 http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 #EXTINF:-1 group-title="🍿 FTA", Футбол
 http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Матч ТВ
-http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
+
 
 
 
