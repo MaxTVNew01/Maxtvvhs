@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="" group-title="💬",Info
 https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp4
 
+#EXTINF:0 CUID="1877" number="610" tvg-id="epg1:Sevimli TV UZ" tvg-name="epg1:Sevimli TV UZ" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Sevimli UZ.png" group-title="Узбекистан",Sevimli UZ
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiOGRkNTE2YTkiLCJwIjoiOGRkNTE2YTk4N2RmMzVjMCIsImMiOiIxODc3IiwidCI6IjI2MWQ2YWJlMDQwZDA3MDJhYzZhNzM2ZDYzYWIyMWI1IiwiZCI6IjQ5MDk5NiIsInIiOiI1MDI5NTMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MDQyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
 #EXTINF:-1 group-title="Узбекистан",Milliy
 http://serv1.milliy.tv/hls/index_480.m3u8
 #EXTINF:-1 group-title="Узбекистан",MY5TV International
