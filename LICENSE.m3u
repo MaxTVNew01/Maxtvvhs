@@ -13,7 +13,6 @@ https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Узбекистан",Biz Music
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://iptv.itv.uz/hls/live/t/P88ctPAlZbVu3M53vEv50A/e/1779735178/4000/index.m3u8?ip=2.59.161.252
@@ -191,6 +190,7 @@ https://iptv.itv.uz/hls/live/t/Hm-WhajDenrrLNuEtjYtIg/e/1779735234/1301/index.m3
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://iptv.itv.uz/hls/live/t/J7aeNsMNORVan2N_xW5tqg/e/1779735235/1499/index.m3u8?ip=2.59.161.252
+
 
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="⭐️ Победа ",Звезда HD
 http://de1.plist.link:3355/FGfpnUmovVu6023/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPzOueewN_jOH0hRy0ejV0xOD8y5T3N8gFeYI8OoeeKVv.tg6457680141
