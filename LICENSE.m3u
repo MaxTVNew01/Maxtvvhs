@@ -2423,6 +2423,34 @@ https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 #EXTINF:-1 group-title="Россия ",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 
+
+#EXTINF:-1 group-title="  🎯 SPORT HD ",EUROSPORT 1 HD
+https://clck.ru/3U97se
+#EXTINF:-1 group-title="🎯 SPORT HD ",EUROSPORT 2 HD
+https://clck.ru/3U97iQ
+#EXTINF:-1 group-title="🎯 SPORT HD",KHL
+https://clck.ru/3U97hu
+#EXTINF:-1 group-title="🎯 SPORT HD",MMA-TV
+https://clck.ru/3U97hJ
+#EXTINF:-1 group-title="🎯 SPORT HD",БОКС ТВ
+https://clck.ru/3U97gp
+#EXTINF:-1 group-title="🎯 SPORT HD",Матч ТВ
+https://clck.ru/3U97g3
+#EXTINF:-1 group-title=" 🎯 SPORT HD",МАТЧ! ФУТБОЛ 1 HD
+https://clck.ru/3U97fH
+#EXTINF:-1 group-title="🎯 SPORT HD ",МАТЧ! БОЕЦ
+https://clck.ru/3U97eN
+#EXTINF:-1 group-title="🎯 SPORT HD",МАТЧ! ФУТБОЛ 2 HD
+https://clck.ru/3U97dG
+#EXTINF:-1 group-title=" 🎯 SPORT HD",МАТЧ ПРЕМЬЕР HD
+https://clck.ru/3U97ci
+#EXTINF:-1 group-title="🎯 SPORT HD",МАТЧ! ФУТБОЛ 3 HD
+https://clck.ru/3U97c4
+#EXTINF:-1 group-title=" 🎯 SPORT HD",Футбол
+https://clck.ru/3U97bR
+
+
+
 #EXTINF:-1 group-title="📡 t.me/MaxTVNew",RU Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="📡 t.me/MaxTVNew",RU Россия 1
