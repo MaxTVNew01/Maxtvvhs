@@ -313,7 +313,9 @@ https://iptv.itv.uz/hls/live/t/k4rXkr-kTKikzDYDdAJ9FA/e/1781420226/1301/index.m3
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://iptv.itv.uz/hls/live/t/bGGb9kOvbBRejGJ2F4Q0Nw/e/1781420227/1499/index.m3u8?ip=84.54.70.54
-
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://itv.uz/images/channels/231/logo_v2.png", Istiqlol TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/JI1HQG7nbGvtu4Z35UXtug/e/1781502805/1283/index.m3u8?ip=84.54.70.54
 
 
 
