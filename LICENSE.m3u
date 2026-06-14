@@ -3,8 +3,7 @@ https://maxtvnew.usite.pro/SaveVid_Net_AQNPRf0hlopb5zuimJAd59kYwN9UVPc8pq4Rab.mp
 
 
 
-#EXTINF:-1 group-title="Узбекистан",QiziqTV_HD
-https://clck.ru/3U7RmJ
+
 #EXTINF:-1 group-title="Узбекистан",Milliy
 https://clck.ru/3U5Gyv
 #EXTINF:-1 group-title="Узбекистан",MY5TV International
@@ -29,10 +28,6 @@ https://clck.ru/3U5HGM
 https://clck.ru/3U5HHK
 #EXTINF:-1 group-title="Узбекистан",Zo'r-TV 
 https://clck.ru/3U5HJH 
-#EXTINF:-1 group-title="Узбекистан",Sevimli 
-https://clck.ru/3U7T8R
-#EXTINF:-1 group-title="Узбекистан",Sevimli Music
-https://clck.ru/3U7Bxc
 #EXTINF:-1 group-title="Узбекистан",LuxTV 
 https://clck.ru/3U5HMg
 #EXTINF:-1 group-title="Узбекистан",I-kbol 
@@ -146,7 +141,11 @@ https://clck.ru/3U5Jwa
 
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/SEVIMLI_TV_LOGO.png", Sevimli TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/Q5a-18lUrm5jkzRkgW8yRg/e/1781434607/1056/index.m3u8?ip=84.54.70.54                                                                         #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo=https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
+https://iptv.itv.uz/hls/live/t/Q5a-18lUrm5jkzRkgW8yRg/e/1781434607/1056/index.m3u8?ip=84.54.70.54
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logoqtv.svg/512px-Logoqtv.svg.png", Qiziq TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/55b9wlHXkfjnxumRTyAQPQ/e/1781501113/1291/index.m3u8?ip=84.54.70.54
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo=https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://iptv.itv.uz/hls/live/t/5OH5uwS7g1uddeDNfUqX1w/e/1781420172/4000/index.m3u8?ip=84.54.70.54
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
